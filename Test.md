@@ -1,5 +1,7 @@
+---
 layout: page
-title: "Test"
-permalink: /test/
+title: Test
+permalink: /teste/
+---
 
 ## Conteudo em markdown
