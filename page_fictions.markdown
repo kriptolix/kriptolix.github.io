@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Ficções
+permalink: /fictions/
 ---
 
-Tudo que andei escrevendo.
+Todas as histórias que andei escrevendo nos últimos anos, e que vou escrever nos próximos
 
 <div class="fictions">   
   {%- if site.categories.fictions.size > 0 -%}    

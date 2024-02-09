@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tecnologia
+permalink: /technologies/
 ---
 
 Conteúdo de tutorialzinho, dicas ou comentarios sobre coisas em que eu
