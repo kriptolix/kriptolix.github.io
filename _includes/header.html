@@ -3,7 +3,7 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <p class="pre-title" itemprop="name headline">O titulo de hoje é...</p>
+    <div class="pre-title" itemprop="name headline">O titulo de hoje é...</div>
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {%- if page_paths -%}

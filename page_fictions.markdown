@@ -1,15 +1,14 @@
 ---
 layout: page
 title: Ficções
-permalink: /fictions/
 ---
 
 Tudo que andei escrevendo.
 
 <div class="fictions">   
-  {%- if site.fictions.size > 0 -%}    
+  {%- if site.categories.fictions.size > 0 -%}    
     <ul class="fiction-list">
-      {%- for fiction in site.fictions -%}
+      {%- for fiction in site.categories.fictions -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="fiction-meta">{{ fiction.date | date: date_format }}</span>

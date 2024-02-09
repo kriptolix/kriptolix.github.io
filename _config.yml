@@ -20,14 +20,17 @@
 
 author:
   name: Diego C. Sampaio
-  email: "john.smith@foobar.com"
+  email: "slavelix@ymail.com"
 
 title: Toda forma de amor mata
 email: slavelix@ymail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Um blog para falar de todo um caleidoscópio de assuntos que
+  interessam, desde a origem do "n" oculto na palavra "muito",
+  que todo mundo pronuncia "muinto", até o atual estado da
+  ciência de fusão nuclear. No meio, uns contos, umas crônicas,
+  uns pseudo poemas horríveis...
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -35,25 +38,22 @@ show_excerpts: true
 
 # Build settings
 # theme: minima
-remote_theme: jekyll/minima
-
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
-    - { platform: mastodon, user_url: "https://twitter.com/jekyllrb" }
-
-minima:
-  skin: dark
-
-header_pages:
-  - tales.markdown  
-  - about.markdown
-  
-  
-
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+remote_theme: jekyll/minima
+
+header_pages:
+  - page_fictions.markdown
+  - page_technology.markdown  
+  - page_about.markdown    
+
+minima:
+  skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/kriptolix" }
+    - { platform: mastodon, user_url: "https://ursal.zone/@Kriptolix" }   
 
 collections:
   fictions:
