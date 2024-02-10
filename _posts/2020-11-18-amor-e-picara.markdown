@@ -7,6 +7,8 @@ categories: fictions
 
 A primeira vez em que a viu, ela caminhava para ser de outro. Marchava resignada em direção à capela para desposar um homem escolhido pelo pai. Os olhos castanhos dela lhe divisaram o torso nu, cruzando com os seus de soslaio. Acácio parou com a pá. Lhe desgostava a ideia da poeira maculando o branco do vestido da moça. Esperou o cortejo ganhar alguma distância para continuar jogando a piçarra da carroça para estrada.
 
+<!--more-->
+
 Na segunda vez em que a viu, pareceu sina confirmada. Correu na direção do barranco escutando o barulho da briga. Deu de cara com dois homens, um engalfinhando com Francisca, rolando no chão. Com o gosto do ódio na boca, já puxava a peixeira quando a moça empurrou o corpanzil inerte para o lado, revelando o punhal e o vestido cobertos de sangue. Acácio atacou o outro pelas costas e, enquanto o corpo caía no chão, seus olhos não saiam dos de Francisca.
 
 — Você tá…

@@ -6,6 +6,8 @@ date:   2020-12-30 11:12:18 -0300
 
 “Tudo na vida passa”. Se é verdade, não deveria passar. Tenho avidez por permanências, por tempo duradouro, por qualquer coisa capaz de me fazer sentir menos à deriva no espaço das viradas dos ponteiros do relógio. Eu preciso que algo não passe, não desapareça sem eu sequer saber o porquê. Mas, mesmo assim, tudo, aparentemente, continua passando.
 
+<!--more-->
+
 A infância passa como um sonho ou, às vezes, como aquele lugar entre o sonho e o despertar. Tão vivido quando abrimos os olhos, mas já desaparecendo na névoa um momento depois. Com ela vão todas as certezas infantis, um universo desconhecido, com infinitas possibilidades, morre rapidamente diante de revelações desenfreadas, da desmistificação de todos os ocultos, eliminando impiedosamente até a última gota de ingenuidade. Qualquer esperança de uma manhã flutuando em direção ao horizonte, pegando a segunda estrela à direita, e seguindo reto até o amanhecer, também se esvai.
 
 E com a infância passam outras coisas. A casa da avó passa, com seus cheiros e sabores, com seus mimos e tesouros escondidos na velha caixa de costura. Passam os carinhos e cafunés, o copo de leite antes de dormir, o beijo de boa noite e o ajeitar do cobertor. Passam as histórias verdadeiras, e as não tão verdadeiras assim. E após o passar de todas essas coisas se instala a sensação de ser visita, ou a de nem mais visita poder ser, quando os avós fatalmente passam.

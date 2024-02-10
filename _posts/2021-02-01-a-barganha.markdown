@@ -7,6 +7,8 @@ categories: fictions
 
 Prendeu a fiação na turbina improvisada, um toque na alavanca do pequeno guindaste fez a peça deslizar suavemente para dentro do rio. Um zunido baixo ressoou quando a força da água começou a fazer girar as palhetas. As luzes de potência foram acendendo uma a uma, os ponteiros dos indicadores do painel oscilaram até se fixar na zona verde. Era energia suficiente.
 
+<!--more-->
+
 Olhou ao redor. Céu azul. O canto dos pássaros e o cacarejar das galinhas no terreiro eram os únicos sons. Não havia viva alma a pelo menos uma légua dali. Arrastou os cabos grossos pela grama alta e verdejante por uns vinte metros até a velha cabana. Empurrou-os janela adentro, deu a volta e entrou pela porta da frente. Cruzou a sala minúscula e desabitada de móveis desviando de um gato, que perseguia alguma coisa pelos cantos das paredes.
 
 Chegou ao quarto dos fundos, tinha montado tudo lá. Semanas empilhando equipamentos, fazendo conexões, soldando, testando. O maquinário quase tocava o teto, e centenas de metros de fios de todas as cores e espessuras tornavam quase impossível transitar pelo cômodo.

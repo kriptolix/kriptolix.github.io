@@ -7,6 +7,8 @@ categories: fictions
 
 Luíza, deitada na cama, encarava o teto salpicado de estrelinhas adesivas cheias de glitter. O quarto tinha sido decorado quando ela tinha oito anos. Na época, fazia sentido. Agora, ela tinha trinta e seis, e os pontinhos brilhantes tinham sido ressignificados por uma vida de insucessos. Cada estrelinha era como um sonho morto.
 
+<!--more-->
+
 A maior, perto da porta, era de quando a adolescência chegou e ela descobriu que todas as vezes em que sua mãe a chamava de filha mais linda do mundo eram mentira. Mas pro lado do armário, perto de uma luazinha, ficava a estrela do macho escroto, logo ao lado de um planetinha rodeado de anéis que representam a falência profissional. O quarto em si era muito emblemático, considerando o fato de, anos após aquele teto ser decorado, ela ainda dormir ali.
 
 Escutou três batidas na porta. Soltou um “pode entrar”.

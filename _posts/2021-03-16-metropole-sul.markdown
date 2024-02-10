@@ -7,6 +7,8 @@ categories: fictions
 
 O que você acha que precisa para ser uma potência mundial, parceiro? Se você respondeu “grana” não tá errado, mas tem país por aí entupido de dinheiro e irrelevante na política internacional. Vou te mandar a real, a resposta é “poder de fogo”. Quando você tem a capacidade de varrer uma nação da face da terra sem muito esforço, você tá no jogo. É por isso que, agora, uns setenta por cento do globo fala o idioma brasileiro. Os parças obrigaram até Portugal a adequar as regras gramaticais deles ao nosso idioma.
 
+<!--more-->
+
 Mas, como foi que nossa eterna colônia saiu do status de capacho acarpetado do Tio Sam para bater de frente com os chineses pelo título de super potencia do século? Como quase todo acontecimento relevante por aqui nos últimos seiscentos anos, foi na base da pura sorte.
 
 O ano era 2027, pouco depois do fim de uma pandemia que deu uma chacoalhada econômica e cultural no planeta inteiro, o país estava sendo governado por um grupão meio heterogêneo, com umas inclinações nacionalistas, mas sem a vibe ditatorial dos governos anteriores. Um puta equilíbrio delicado, como é de praxe por aqui. Foi no meio dessa confusão que os verdinhos fizeram contato numa cidadezinha do interior do Ceará chamada Cedro.

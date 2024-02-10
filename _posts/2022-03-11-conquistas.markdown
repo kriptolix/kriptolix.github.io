@@ -9,7 +9,9 @@ não mais. \
 Nenhuma resposta vai trazer de volta o que eu perdi, \
 nenhuma explicação. \
 Não. \
-Agora só tenho vontade de conquistas.  
+Agora só tenho vontade de conquistas.
+
+<!--more-->
 
 Conquistas que, assim como as respostas, não me trarão nada, \
 mas me levarão a acreditar, \

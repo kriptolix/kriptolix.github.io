@@ -7,6 +7,8 @@ categories: ttrpgs
 
 No final do texto anterior havia sido comentado que daríamos prosseguimento ao assunto de ferramentas mas, uma vez que a métrica de quantificação das ferramentas é inteiramente dependente da matemática utilizada na resolução geral de conflitos do Mono, consideramos mais oportuno falar primeiro sobre essa matemática para, só então, voltar as ferramentas e a sua quantificação.
 
+<!--more-->
+
 ### Fatores de Resolução
 
 Antes de tratar propriamente de qualquer mecânica de resolução de conflito, é importante comentar que toda mecânica desse tipo se utiliza de um ou mais fatores de resolução. Os fatores de resolução são técnicas utilizadas para gerar um resultado quando uma situação na ficção gera dúvida a respeito de seus desfechos possíveis.

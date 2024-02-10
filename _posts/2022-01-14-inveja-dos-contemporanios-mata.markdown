@@ -6,6 +6,8 @@ date:   2022-01-14 11:12:18 -0300
 
 Sinto-me pouco contemporâneo, cheguei a essa conclusão. Passei um tempo pensando sobre a natureza desse sentimento e percebi o abraço apertado que ainda me prende ao passado. Consegui entender melhor o motivo de eu gostar tanto de ambientar meus textos cinquenta, sessenta anos atrás, sem celulares, sem internet, e a uma distância confortável e analítica dos fatos. Eu estou desligado do hoje, do agora, pelo menos em parte.
 
+<!--more-->
+
 Não sei se vale a pena tentar avaliar os motivos, mas com certeza tem a ver com conexões. Ainda me debato com como as pessoas se conectam hoje, com o quão líquidas, para usar um termo da moda, e virtualizadas essas conexões são. Líquidas, no sentido de fluírem, de serem imprevisíveis, não determinísticas; e virtualizadas pela própria natureza do mar de elementos necessários para se compor uma imagem de alguém.
 
 Antes, delinear uma faceta de um indivíduo era relativamente simples, a informação era filtrada pela presença, “Você é aquilo que você é quando está aqui”. Agora, a presença não filtra mais nada, as pessoas estão fragmentadas em milhares de pedaços pulverizados na virtualidade. Para pintar até mesmo o retrato mais parcial, é necessário navegar por essa imensidão, quase sempre sem uma bússola.

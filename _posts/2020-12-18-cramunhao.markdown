@@ -7,6 +7,8 @@ categories: fictions
 
 Todos os dias, ao voltar do trabalho, a garota estava perto do ponto de ônibus. Insinuava-se para ele com um “quer se divertir hoje, amorzinho?” ou mostrava o seio e dizia “vem cá, você não vai se arrepender”. Mas Jorge, rapaz de família, bem casado, evangélico e temente ao Senhor, resistia àquela tentação do demônio.
 
+<!--more-->
+
 Aos domingos, desabafava com o pastor. Contava as durezas da vida e a dificuldade com Julinha, sua mulher, que desde o nascimento do segundo filho não mantinha mais interesse nos assuntos conjugais. Passava as noites assistindo novela mexicana e lendo revista de fofoca. Chegando à cama, quando o marido fazia menção a qualquer envolvimento carnal, declarava seu cansaço da lida diária, virava pro lado e dormia.
 
 O pastor aconselhava Jorge, reforçava o fato dele já ser pai de dois. Se Julinha não estava mais cedendo aos avanços do rapaz era porque o senhor não pretendia lhes dar mais filhos por agora. Jorge fingia aceitar, mas ia pra casa com aquela pontinha de ódio pela mulher, pelo pastor, e por Deus. Sentimento não admitido jamais, nem pra si nem pra ninguém.

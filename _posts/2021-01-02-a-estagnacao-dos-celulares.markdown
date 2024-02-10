@@ -7,6 +7,8 @@ categories: technologies
 
 Apesar da indústria tentar me convencer do contrário a cada minuto, nos últimos anos realmente tenho tido a sensação de que não vale a pena trocar de celular. O que tenho hoje, comprado em 2017 com uma grana extra inesperada, ainda me atende em tudo.
 
+<!--more-->
+
 Dito isso, estou sempre de olho no que está rolando no mundo da tecnologia, inclusive com os celulares e, depois de muita baboseira e mais do mesmo, com aparelhos com trocentas câmeras de trocentos megapixels que no fim não fazem diferença alguma, ou processadores mais rápidos e mais memória que só servem para aquecer o aparelho e diminuir a duração da bateria, finalmente alguma coisa me chamou a atenção.
 
 Eu vou comentar aqui sobre alguns recursos que estão muito verdes ainda, mas que prometem um futuro onde haja alguma inovação realmente digna de me fazer gastar meu dinheirinho suado num celular novo.

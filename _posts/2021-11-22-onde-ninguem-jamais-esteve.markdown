@@ -7,6 +7,8 @@ categories: fictions
 
 A Nemo saiu de dobra num solavanco e todos os alarmes começaram a soar. Os sensores indicavam uma ejeção de massa coronal. A gigante vermelha que os havia chutado para fora do hiperespaço agora atraia a nave com seu campo gravitacional imenso. Os motores de empuxo estavam no limite, mas a nave continuou desacelerando até parar, então passou a mover-se em direção a estrela.
 
+<!--more-->
+
 — Dá pra saltar para fora? — Lina lutava contra os controles.
 
 — Partiria a nave ao meio — Nero mantinha o tom calmo enquanto desviava a força dos últimos sistemas não essenciais para a propulsão.

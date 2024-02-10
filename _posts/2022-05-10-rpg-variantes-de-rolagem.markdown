@@ -7,6 +7,8 @@ categories: ttrpgs
 
 No texto anterior, exploramos o básico de métodos de rolagem, mas esses métodos raramente são usados em seu estado puro. É comum que métodos diferentes sejam combinados em algum grau, ou mesmo sejam usados em pontos isolados da mecânica. Além disso, também é comum que variantes sejam empilhadas sobre essas combinações com o intuito de gerar efeitos matemáticos pontuais para corrigir falhas ou amenizar efeitos colaterais indesejados do tipo de rolagem escolhida.
 
+<!--more-->
+
 O impacto matemático de cada variante pode mudar muito, a depender de com que métodos de rolagem ela é combinada, e de quais outras variantes são usadas simultaneamente a ela. Devido a isso, seria impossível expor aqui todas as consequências estatísticas dessas combinações, uma vez que o número possível de arranjos é muito grande para ser explorado em detalhes. O que podemos fazer é indicar o efeito estatístico mais provável que uma certa variante pode causar quando utilizada, o que vai levar a um recomendação geral de casos em que seu uso pode ser interessante.
 
 ## Condições

@@ -6,6 +6,8 @@ date:   2023-06-11 11:12:18 -0300
 
 Solidão é uma porra de um lugar comum. Tava tocando ukelele, o que faço muito mal , mas como só faço isso em ano bissexto o fura bolo da mão esquerda tá doendo quando digito. Ta dolorido de apertar as cordas. Talvez tenha entrado algum pelo macroscópico quando eu cocei a barba. Tá estranho. Essa de pelo microscópio parece piada, mas não é, meus pelos são super afiados, já fiquei com um preso na mão, incômoda para um caralho.
 
+<!--more-->
+
 Tô com vontade de publicar assim, tudo errado. Não que eu seja grande coisa digitando, mas com esse dedo dolorido o negócio tá além de todos os limites.
 
 A primeira frase do parágrafo passado veio do Rubel que tá no fone. Eu escuto Rubel quando eu tô solitário e masoquista. A música deles, ou dele, não sei se é um cara ou uma banda, tem esse dom de te dar prazer enquanto te lembra do que você tá perdendo.

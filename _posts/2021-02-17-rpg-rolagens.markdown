@@ -7,6 +7,8 @@ categories: ttrpgs
 
 No último texto abordamos mídias, em especial os dados, que são a mídia usada no Mono, seus efeitos matemáticos e o sentimento que essa matemática gera. Mas decidir por uma mídia é só o início do processo de resolução de conflito. Os resultados gerados ainda podem ser interpretados e aplicados de formas variadas, reforçando ou abrandando as características matemáticas da mídia escolhida. Agora vamos tratar sobre as formas mais comuns de interpretar a informação gerada por uma jogada de dados
 
+<!--more-->
+
 ## Método de Rolagem
 
 Um método de rolagem é uma forma de utilizar o resultado de uma rolagem de dados, definindo parâmetros para se classificar esse resultado. A grosso modo, os métodos de rolagem são o componente principal da resolução de conflitos. Apesar de um número quase infinito de variações, conseguidas através da adição de regras secundárias, no nível mais básico, existem apenas três formas de rolagem:

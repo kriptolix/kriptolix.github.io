@@ -7,6 +7,8 @@ categories: fictions
 
 Era uma profecia, a tradução indicava o fim do mundo pra dali a dois dias. Rogério tirou os óculos e coçou a barba. Quatorze meses metido no meio da floresta, calor, mosquitos do tamanho de um boeing, malária, bolsa atrasada. Ele tinha superado tudo na esperança de encontrar um artefato realmente significativo, algo para provar a diversidade cultural dos Yatan em relação ao resto das Américas. E agora, a grande descoberta era uma cópia mal engendrada das profecias de apocalipse Maias.
 
+<!--more-->
+
 Embalou a tábua de pedra com cuidado, no fim das contas ainda podia ter algum valor histórico. Dia seguinte, bem cedo, arrumou as malas e pegou uma chalana para Rio Branco, e de lá um voo com um número inacreditável de escalas. Não tinha como pagar nada mais direto. Chegou ao destino depois de dezesseis horas espremido na classe econômica, a esposa não foi esperá-lo no aeroporto.
 
 No táxi, o motorista puxou conversa sobre o calor, a economia e o clássico rei, mas Rogério estava sem cabeça pra papo furado. Foi resmungando monossilabicamente até chegar ao destino. A corrida tinha sido cara, a matemática ainda lhe ocupava quando girou a chave na fechadura. Entrou e, por um instante, fechou os olhos, sentiu-se em casa.

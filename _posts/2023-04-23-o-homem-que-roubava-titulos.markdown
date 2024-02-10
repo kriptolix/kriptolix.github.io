@@ -6,6 +6,8 @@ date:   2023-04-23 11:12:18 -0300
 
 Eu sempre odiei texto sobre o ato de escrever. Metalinguística é um negócio complicado e precisa de muito talento para não ficar uma merda. Mas hoje eu vou de “querido diário” nessa linha, porque estou com vontade de escrever e essa vontade é rara, não se pode desperdiçar. Escrever é como sexo, texto mais ou menos é melhor que texto nenhum.
 
+<!--more-->
+
 Tirei o dia para olhar o Medium. Sim, aqui, onde estamos[^1], onde você está lendo isso (eu acho, talvez). Faço isso a intervalos irregulares de alguns dias a alguns anos. Sigo várias pessoas, mas não leio tudo que elas postam, vou recuperando conteúdo nesses dias equinociais em que estou para ler.
 
 Tem muita gente boa no Medium. Só dou a uma pessoa um título e um parágrafo para me convencer e, ainda assim, um monte de gente me convence. Também notei que mulheres chamadas “Helena” costumam dar bons resultados. O motivo eu não sei, mas alguma razão o Manoel Carlos tinha.

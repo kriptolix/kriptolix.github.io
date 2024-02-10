@@ -7,6 +7,8 @@ categories: fictions
 
 Qual não foi minha surpresa ao notar tudo ainda em seu lugar. Outdoors anunciando desodorantes milagrosos, carros, apesar de imóveis, infestando as ruas como de costume. Prédios intactos e, naquela padaria do outro lado do quarteirão, frangos ainda girando na máquina.
 
+<!--more-->
+
 Nos últimos dois dias, toda a humanidade tinha estancado em frente aos seus aparelhinhos para, juntos, apavorar-se e admirar-se com as coisas habitando o céu. Do intuito das luzes desconhecidas e insondáveis apenas uma mensagem foi recebida, de um modo diferente para cada um: Quarenta e nove horas, trinta e quatro minutos e vinte e três segundos. Tinham vindo para nos levar a todos.
 
 O desespero tomou conta do mundo, habitantes dos campos correram às cidades, os das cidades correram aos campos, os bêbados correram as igrejas e os fiéis aos bares. Mas, inevitavelmente, ao fim daquela contagem, realizada segundo a segundo em cada canal de TV e estação de rádio do planeta, todos se foram. Levados a lugares ignorados, de formas ignoradas, sem qualquer explicação ou insinuação de sentido. E agora, depois do vigésimo quarto segundo, ainda estou aqui.

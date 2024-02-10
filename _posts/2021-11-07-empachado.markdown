@@ -6,6 +6,8 @@ date:   2021-11-07 11:12:18 -0300
 
 Sou do interior, mas nunca fui do interior. Nunca tive em mim as qualidades do habitante do sertão. Sempre detestei jambo, graviola, seriguela e chuva; uma heresia atrás da outra. Sem contar que sou frouxo, tenho medo de bicho e sou pouco afeito ao confronto. Não obstante tudo isso, nasci lá, e sempre me perguntei se isso bastava para me declarar sertanejo.
 
+<!--more-->
+
 Fugi pro asfalto quando pude, os ares esterilizados da cidade grande, sem terra e vida jogados em mim a todo momento, eram mais salutares. Aqui eu podia me esconder no quarto lendo, a conta gotas com o meu parco inglês, revistinhas de super herói importadas. Ninguém estranhava, ninguém vinha questionar. Não aparecia um só vivente pra reclamar do meu amofino.
 
 Eu gosto do quão tarde a cidade ia dormir, não me sentia sozinho acordado às duas da manhã. De onde vim, farra era até às dez. Afinal, dono de bar também dorme. Passou de certa hora só se tinha a televisão, com seu leque enorme de três canais, para se distrair. Na capital, às dez era a hora de sair, era início da noite, nada de relevância começava antes das dez.

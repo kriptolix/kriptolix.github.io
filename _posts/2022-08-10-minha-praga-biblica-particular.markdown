@@ -6,6 +6,8 @@ date:   2022-08-10 11:12:18 -0300
 
 Ainda me pergunto para onde foram os besouros. A mata ao redor da cidade continua igual e não acho que um rio a menos faça tanta diferença assim. Será que só se cansaram de ser mal recebidos? Mudaram seus hábitos migratórios? Nunca existiram fora da minha cabeça? Quem sabe.
 
+<!--more-->
+
 Eles sempre apareciam no meio do inverno, e aqui eu falo do inverno cearense, que é verão para o resto do mundo. Inverno, no Ceará, é quando chove, e fodam-se os trópicos, translação e rotação. Enfim, besouros. Já pro fim de dezembro começaram a aparecer numa quantidade quase bíblica, estavam em todo lugar. As donas de casa empurravam ondas e ondas de besouros pra fora das residências com um rodo.
 
 O cheiro, do álcool usado para incendiar os bichinhos, tomava conta do ar. Sim, porque só empurrar para fora não adiantava nada, eles voltavam, correndo com suas patinhas velozes. Vovó juntava uma pilha na calçada e riscava um fósforo. Eu, covarde desde o berço, passava a dormir na sala, único lugar da casa com foro e, por isso mesmo, protegido da precipitação de besouros que assolava o resto dos cômodos.

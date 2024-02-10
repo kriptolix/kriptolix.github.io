@@ -7,6 +7,8 @@ categories: fictions
 
 Oficialmente, era um tamanduá. O DNA não batia, as proporções estavam todas erradas e a coisa não tinha sequer pelagem, mas alguém carimbou e encerraram o caso. Ninguém se importava, essa era a verdade. A vítima estava morta, o bicho também, não havia porque investigar mais. No fim do dia, foi todo mundo pra casa tomar uma gelada. Poderia ter terminado assim pra mim, infelizmente havia uma diferença entre eles e eu: eu ouvi as palavras.
 
+<!--more-->
+
 O CIOPS recebeu a ligação por volta das vinte e três horas. Parecia trote, mas a voz do outro lado do telefone tinha um sobrenome de peso e estava ligando de um dos endereços mais caros da cidade. Trote ou não, o coronel mandou atender. Minha viatura estava próxima resolvendo uma reclamação de barulho.
 
 O Andrade tinha fodido as costas e estava de licença. Então fiquei apenas eu e o novato rodando. Sabendo disso, a central foi passando as bobagens: som alto, briga de casal, coisa inofensiva e fácil de resolver, pra não correr o risco de complicar com um homem a menos e um sem experiência na função.

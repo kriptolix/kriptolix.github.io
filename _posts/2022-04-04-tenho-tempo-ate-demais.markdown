@@ -6,6 +6,8 @@ date:   2022-04-04 11:12:18 -0300
 
 “Estou sem tempo” é uma desculpa maravilhosa. Irrefutável na loucura da produção. Não conheço ninguém que não esteja sem tempo, fazendo mil coisas, correndo de lá pra cá. E, por ser irrefutável, é a melhor das mentiras.
 
+<!--more-->
+
 Eu nunca estou sem tempo, tenho tempo até demais, só não quero gastar com você. Entenda “você” no espectro amplo. Um “você” pessoa, mas, também, as coisas das pessoas, as coisas só coisas, o status quo.
 
 Se eu não tivesse tempo, não gastaria meu dinheiro em Netflix. Se eu realmente não tivesse tempo, talvez precisasse de menos tarjas vermelhas. Ou, não, ainda precisaria, mas estaria tão atulhado de obrigações que não conseguiria tomar.

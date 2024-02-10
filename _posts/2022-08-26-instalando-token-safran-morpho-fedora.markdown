@@ -7,6 +7,8 @@ categories: technologies
 
 Este artigo visa orientar a instalação do token Safran Morpho no Fedora Worksatation 36, mas instruções gerais serão apresentadas e talvez seja possível adaptá-lo a outras distros. Também não vou tratar aqui de instalação da caideia de certificados, já que as cadeias necessárias variam de acordo com o com o tempo a instituição.
 
+<!--more-->
+
 ![Safran Morpho YpsID](/images/token.webp){: width="50"}
 
 O token Safran Morpho YpsID (Sagem Orga) é um dos tokens utilizados pelos TRTs (tribunais regionais do trabalho) para acessar o sistema PJE. Pelo que sei, o token não vem como nenhuma referência para se distinguir marca e modelo, então, a maneira mais fácil de saber se este é o modelo do seu token é conecta-lo e usar o commando.

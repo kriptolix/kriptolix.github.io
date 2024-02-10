@@ -7,6 +7,8 @@ categories: fictions
 
 Existem pessoas aparentemente incapazes de entender o quão apertada é minha agenda. Gente que, por sofrer com um ou outro problema na vida, sente-se no direito de bagunçar meu complicado cronograma tentando decidir por si mesma o momento da própria morte. Estão sempre querendo furar a fila. Se eles soubessem o quão complexo é remarcar mortes por causas naturais, acidentes ou homicídios, com certeza não fariam isso.
 
+<!--more-->
+
 Suicidas são uns chatos. Eles não sabem como é ser obrigado a sair no meio do almoço porque alguém simplesmente não pode esperar sua hora. Sinceramente, desconheço detalhes do destino que aguarda essas almas após entregá-las ao pós-morte definitivo mas, quando preciso fazer hora extra pra cumprir meu cronograma por causa de algum apressadinho, fico torcendo para haver um inferno pra esses indivíduos sem educação. Ontem foi um desses dias.
 
 Eu deveria estar indo buscar uma senhora no hospital geriátrico. Infelizmente, a coitadinha precisaria passar algum tempo viva de forma biologicamente inexplicável por eu ter me desviado da minha rota pegar um imprevisto. Você já imaginou o quão traumático e confuso seria para a pobre velhinha, quando ela se visse ainda viva depois do próprio coração parar de bater? Teria levado um tempo enorme para explicar o atraso.

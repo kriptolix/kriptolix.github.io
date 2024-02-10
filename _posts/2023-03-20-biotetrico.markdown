@@ -9,6 +9,8 @@ O meu medo da vida é muito maior.\
 A morte é inócua, insípida, inodora e, em última instância, indolor.\
 A vida primeiro dói, o resto é só consequência.
 
+<!--more-->
+
 O medo que me toma é da próxima hora,\
 da próxima conta, do próximo choro que vem do berço na varanda.\
 De tudo que me cobra, que me leva em conta para existir.\

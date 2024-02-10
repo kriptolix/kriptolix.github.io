@@ -6,6 +6,8 @@ date:   2022-04-27 11:12:18 -0300
 
 Eu sempre temi a cegueira, ainda nos meus vinte anos fui avisado por um médico que, provavelmente, ficaria cego. Pra minha sorte, cai no condicional do advérbio. Apesar disso, de todas as deficiências envolvendo sentidos, sempre acreditei ser a cegueira a mais pesada. Agora, distante da ameaça de ser tomado por ela, já não tenho certeza.
 
+<!--more-->
+
 Meu avô está quase surdo, minha avó está quase cega.
 
 Do sofrimento dos dois, excluindo outros problemas particulares de cada um, sinto que, para ele, o fardo é maior. Minha avó, mesmo quase cega, ainda ri das minhas piadas, ainda se distrai com as minhas reclamações tão simplórias frente aos problemas dela. Ainda discutimos sobre o meu ateísmo, a revelia de eu estar sempre repetindo que não sou ateu.

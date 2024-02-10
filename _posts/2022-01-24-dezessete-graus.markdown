@@ -7,6 +7,8 @@ categories: fictions
 
 Ana enlouquecia com o ar condicionado, ou melhor, com a falta dele. O apartamento de uma única e estreita janela a fazia andar quase nua. Era isso ou a combustão. Escolheu gastar as economias no concerto, a outra opção seria gastá-las inventando motivos para se ausentar do pequeno forno ao qual chamava de lar, mas sairia mais caro.
 
+<!--more-->
+
 Ligou para uma assistência e, como todos nós pobres mortais, reservou um dia para esperar. Marcaram às nove da manhã, chegaram às quatro da tarde, fiéis ao cronograma do prestador de serviço. Isso deve ser política de mercado, para deixar bem claro quem precisa de quem.
 
 O som do interfone encheu o coração da moça de alegria. A boca salivava com a possibilidade de dormir enroladinha no edredom ainda naquela noite. Dezessete graus era a meta. Pôs uma roupa, foi complicado encontrar uma combinação de peças fresca e, ao mesmo tempo, capaz de cobrir o suficiente para evitar voz de prisão por atentado ao pudor. Correu para a porta.

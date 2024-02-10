@@ -6,6 +6,8 @@ date:   2024-02-09 11:12:18 -0300
 
 Eu ando meio afastado da literatura. A verdade é que, em algum ponto, minha incompetência começou a me incomodar. Apesar disso, quase todo dia, eu sinto vontade de escrever sobre alguma coisa, seja para registrar descobertas ou só para compartilhar com o mundo uma opinião.
 
+<!--more-->
+
 Até o momento, tenho feito isso no Mastodon, mas o limite de 500 caracteres pode ser enervante quando o assunto é mais sério/complexo. Eu me adaptei ao microblogging de forma bastante tacanha, não tenho paciência para fios, sou e sempre fui uma pessoa do tipo “uma lauda por argumento”. Então... Um blog.
 
 Agora eu posso reclamar com espaço, com conforto.

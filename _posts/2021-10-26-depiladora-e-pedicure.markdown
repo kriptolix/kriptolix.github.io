@@ -15,6 +15,8 @@ Os irmãos tiveram de atravessar a cidade inteira para chegar no local da demand
 
 — Tá certo — Cleiton suspirou. — Senhora, leva mal não, mas vou ter que dar uma forçadinha aqui pra passar. Com todo respeito aí, beleza?
 
+<!--more-->
+
 A mulher olhou para Cleiton com cara de poucos amigos, expressão que ele viu em todo mundo que foi apertado, empurrado e parcialmente esmagado para que ele o irmão pudesse abrir caminho até a porta. Após o desembarque, os dois checaram os celulares. A precisão do GPS era baixa, então só dava pra saber que a criatura estava num raio de cem metros. O jeito era procurar.
 
 — Cleberson, acho que dá pra gente se separar.

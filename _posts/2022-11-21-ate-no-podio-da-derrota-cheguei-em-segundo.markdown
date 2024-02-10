@@ -8,6 +8,7 @@ Sou um atleta da derrota,\
 faço dela meu legado.\
 Não que eu perca sempre,\
 vitórias são inevitáveis, até para um talento como eu.\
+<!--more-->
 Mas perco sim, no que realmente importa,\
 nas questões verdadeiras da existência.\
 Além de, claro, nas questões falsas,\

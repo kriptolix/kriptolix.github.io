@@ -7,6 +7,8 @@ categories: fictions
 
 Valeria sentia os olhos do sistema na nuca. Aquela era sua terceira avaliação abaixo da média em menos de um mês, e seu escore geral ameaçava chegar perto do limite mínimo. A perda de mais um décimo acarretaria numa visita compulsória a um Centro de Bem Estar.
 
+<!--more-->
+
 Tentava se conter, mas o sorriso mecânico e a cortesia automática falhavam com uma frequência cada vez maior. Um impulso de sinceridade tomava conta dela, e as palavras definidas com tanto cuidado no roteiro de convivência eram substituídas por comentários ácidos e verdades incômodas.
 
 Durante o trabalho na loja, tremia a cada segundo com a possibilidade de atender qualquer cliente com uma avaliação muito alta, geralmente menos preocupados com o protocolo. Era um equilíbrio delicado, avaliar mal alguém com uma pontuação muito alta podia, por si só, ser um motivo de perda de pontos. Assim como ser mal avaliado por uma dessas pessoas pesava muito mais, podendo facilmente gerar um efeito dominó de antipatia.

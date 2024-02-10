@@ -7,6 +7,8 @@ categories: fictions
 
 A surpreendi ao celular. Afirmou ser um amiga, mas era mentira. Essa não foi a primeira mentira dela pra mim, e com certeza não seria a última. Também não foi a primeira vez em que decidi não fazer nada a respeito. As pessoas precisam de mentiras, o mundo não sobreviveria nenhum mísero dia baseado exclusivamente na verdade.
 
+<!--more-->
+
 Esse é meu dom especial, ou minha maldição pessoal. Desde a mais tenra idade a verdade me persegue, me tocaia, está esperando por mim em todos os olhares, em todas as mexidas de ombro, mãos trêmulas ou micro expressões faciais. Isso tudo se você quiser ser científico. Se não quiser, há outras opções como percepção extra sensorial, telepatia, poderes místicos, vidência. Fica a gosto do freguês. O importante no fim das contas é que sempre sei quando alguém está mentindo pra mim, e pra piorar, na maioria das vezes eu também tenho uma boa ideia de qual é a verdade sendo disfarçada.
 
 Pra ser sincero, eu demorei a assimilar o conceito de mentira, eu não entendia porque as pessoas falavam algo diferente da realidade óbvia, só depois de uma certa idade percebi que essa realidade óbvia só era óbvia para mim. Por causa disso, durante cerca de quatorze anos, provavelmente fui o único ser humano totalmente verdadeiro da história.

@@ -6,6 +6,8 @@ date:   2022-03-16 11:12:18 -0300
 
 Na era do cancelamento do twitter, eu tenho evitado escrever sobre certas coisas, ou, pelo menos, tenho evitado escrever e assinar. Mas hoje acordei com vontade de ser cancelado. Vamos falar de amor-próprio.
 
+<!--more-->
+
 Curto muito a ideia das pessoas se amarem como são. Digo, curto no mundo das ideias, eu não sou essa pessoa. Eu não consigo me olhar no espelho sem sentir algum nível de decepção, e isso tem um motivo bem simples de identificar: eu não consigo amar os outros como eles são.
 
 E aqui cabe uma explicação, mais ou menos longa e que faz muito sucesso em festas, de como funciona beleza pro meu cérebro: nem todo mundo que eu acho bonito eu acho atraente, e nem todo mundo que eu acho atraente eu acho bonito. Complicou? Descompliquemos.

@@ -7,6 +7,8 @@ categories: fictions
 
 Jota revirou-se na cama, transbordando de auto piedade. Tentava expor ao mundo a terrível moléstia da qual padecia, mas fracassava em convencer até a si mesmo. O rosto se iluminava, intermitente, com a luz da tela do celular. Não tinha forças pra começar nada, tão pouco conseguia deixar de responder a cada tremida ou apito de comando do aparelho.
 
+<!--more-->
+
 Esperança talvez, suave e delicada. Jota parecia ter crescido acreditando demais no refrão do Cidade Negra: todo mundo espera alguma coisa de um sábado à noite, sábado a noite tudo pode mudar. Era uma terça, mas foda-se. De repente a mudança também estava naquele fim de festa, procurando alguma coisa pra não ir pra casa no zero a zero, vai saber.
 
 Tirou a blusa, o ventilador já não dava conta, simplesmente fazia circular o ar fervente do quarto. Sentia-se como um frango numa churrasqueira de padaria, mas estava indisposto demais para girar.
