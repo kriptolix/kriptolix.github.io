@@ -14,3 +14,11 @@ Pois é, depois de passar algumas semanas procurando um título eu comecei a me 
 
 Depois dessa conversinha acontecer na minha cabeça, aqui estamos. Depois disso, a escolha do domínio (Título Mutante) foi até meio óbvia.
 
+### Histórico de Títulos
+
+Para os curiosos (e porque eu gosto de históricos), decide manter um registro de todos os títulos já utilizados aqui, a data corresponde ao dia em que o titulo anterior saiu, e não ao dia em que o novo 
+entrou.
+
+* marco zero - Toda forma de amor mata
+* 24/02/10 - O branco da minha janela
+

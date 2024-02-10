@@ -4,7 +4,7 @@ title: Tecnologia
 permalink: /technologies/
 ---
 
-Conteúdo de tutorialzinho, dicas ou comentarios sobre coisas em que eu
+Conteúdo de tutorialzinho, dicas ou comentários sobre coisas em que eu
 ando trabalhando, ou só estou curioso a respeito.
 
 <div class="technologies">

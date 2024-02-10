@@ -22,7 +22,7 @@ author:
   name: Diego C. Sampaio
   email: "slavelix@ymail.com"
 
-title: Toda forma de amor mata
+title: O branco da minha janela
 email: slavelix@ymail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Um blog para falar de todo um caleidoscópio de assuntos que
@@ -46,7 +46,8 @@ remote_theme: jekyll/minima
 
 header_pages:
   - page_fictions.markdown
-  - page_technology.markdown  
+  - page_technology.markdown
+  - page_rpg.markdown  
   - page_about.markdown    
 
 minima:
