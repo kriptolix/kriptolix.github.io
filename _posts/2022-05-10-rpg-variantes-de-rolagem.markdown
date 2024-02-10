@@ -15,15 +15,15 @@ Antes de tratar das variantes propriamente ditas, é importante falarmos sobre a
 
 **Uso automático** — A variante será usada em TODAS as jogadas daquela mecânica de rolagem específica, sem exceção. O uso automático tem um efeito estatístico muito mais previsível, e geralmente é utilizado quando é necessária uma correção da matemática do método de rolagem escolhido.
 
-    Ex.: Em GURPS, independente de qualquer modificador, um resultado 17 ou 18 é sempre considerado uma falha, assim como um resultado 3 ou 4 é sempre considerado um sucesso. É um exemplo de uso automático da variante de Chance Limite, nas suas sub variantes Limite Superior e Limite Inferior.
+*Ex.: Em GURPS, independente de qualquer modificador, um resultado 17 ou 18 é sempre considerado uma falha, assim como um resultado 3 ou 4 é sempre considerado um sucesso. É um exemplo de uso automático da variante de Chance Limite, nas suas sub variantes Limite Superior e Limite Inferior.*
 
 **Uso situacional** — A variante será usada sempre que uma determinada situação acontecer, para representar uma mudança estatística gerada por essa situação. O uso situacional geralmente é utilizado quando é necessária uma correção da matemática pontual, específica de certa situação, para um método de rolagem.
 
-    Ex.: Em D&D 5ª edição, certas situações de vantagem e desvantagem tática ou narrativa exigem a rolagem de um dado extra. É um exemplo de uso situacional da variante de Dado Extra, em suas sub variantes de Rolagem Simultânea, e Manutenção de Resultado Maior/Menor, a depender da situação.
+*Ex.: Em D&D 5ª edição, certas situações de vantagem e desvantagem tática ou narrativa exigem a rolagem de um dado extra. É um exemplo de uso situacional da variante de Dado Extra, em suas sub variantes de Rolagem Simultânea, e Manutenção de Resultado Maior/Menor, a depender da situação.*
 
 **Uso condicional** — A variante será usada atrelada a um pré requisito mecânico, uma característica que, quando possuída por um personagem, lhe permitirá ou lhe obrigará a utilizar uma variante em uma jogada específica para representar a influência dessa característica.
 
-    Ex.: Em Vampiro A Máscara 3ª edição, possuir uma habilidade em nível 4 ou mais permite ao personagem ter uma especialização de habilidade, o que vai permitir ao jogador rolar um dado adicional para cada resultado 10 que obtiver na sua jogada quando utilizando essa especialização. É um exemplo de uso condicional das variantes de Explosão de Valor, em sua sub variante Valor Máximo, e Dado Extra, na sua sub variante de Rolar e Adicionar.
+*Ex.: Em Vampiro A Máscara 3ª edição, possuir uma habilidade em nível 4 ou mais permite ao personagem ter uma especialização de habilidade, o que vai permitir ao jogador rolar um dado adicional para cada resultado 10 que obtiver na sua jogada quando utilizando essa especialização. É um exemplo de uso condicional das variantes de Explosão de Valor, em sua sub variante Valor Máximo, e Dado Extra, na sua sub variante de Rolar e Adicionar.*
 
 ## Variantes
 
@@ -33,7 +33,7 @@ As variantes expostas a seguir não esgotam o tema, posto que é sempre possíve
 
 Consistem em, além dos dados padrão a serem usados numa rolagem, se rolar também um ou mais dados extras. Essa variante tanto pode ser usada para facilitar um resultado quanto para dificultá-lo, e o seu efeito estatístico dependerá de sub variações.
 
-O momento da rolagem dos dados adicionais é importante, o fato dos dados extras serem alvo de Rolagem Simultânea a rolagem principal, ou de Rolagem Posterior, vai ser determinante para saber se é viável atrelar a variante a uso de recursos, como pontos heróicos.
+O momento da rolagem dos dados adicionais é importante, o fato dos dados extras serem alvo de Rolagem Simultânea a rolagem principal, ou de Rolagem Posterior, vai ser determinante para saber se é viável atrelar a variante a uso de recursos, como pontos heroicos.
 
 A depender do método de rolagem, algumas sub variantes são possíveis, como Role e Escolha, onde o valor rolado no dado extra vai substituir o valor de uma ou mais dados da rolagem padrão a escolha do jogador; Role e Mantenha, onde acontece mesmo, mas o jogador não pode escolher se irá usar o novo valor ou não, sendo obrigado a fazê-lo; e Role e Adicione, onde o valor dos dados adicionais será acrescentado ou deduzido do resultado da rolagem padrão. Sendo essas as três sub variantes mais comuns da variante de Dado Extra.
 
