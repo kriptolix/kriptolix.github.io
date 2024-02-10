@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Instalando o token Safran Morpho no Fedora 36"
-date:   2024-02-09 11:12:18 -0300
+date:   2022-08-23 11:12:18 -0300
 categories: technologies
 ---
 

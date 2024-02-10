@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "O homem que roubava títulos"
-date:   2024-02-09 11:12:18 -0300
+date:   2023-04-23 11:12:18 -0300
 ---
 
 Eu sempre odiei texto sobre o ato de escrever. Metalinguística é um negócio complicado e precisa de muito talento para não ficar uma merda. Mas hoje eu vou de “querido diário” nessa linha, porque estou com vontade de escrever e essa vontade é rara, não se pode desperdiçar. Escrever é como sexo, texto mais ou menos é melhor que texto nenhum.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RPG Design — Variantes de Rolagem"
-date:   2024-02-09 11:12:18 -0300
+date:   2022-05-10 11:12:18 -0300
 categories: ttrpgs
 ---
 
