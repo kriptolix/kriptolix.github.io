@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Instalando o token Safran Morpho no Fedora 36"
+title:  "Instalando o token Safran Morpho no Fedora 36 (Update 2025, Fedora 41)"
 date:   2022-08-23 11:12:18 -0300
 categories: technologies
 ---
@@ -45,6 +45,10 @@ No Fedora, há uma forma simples de se instalar um pacote antigo, usando o dnf d
 
     $ sudo dnf downgrade — releasever=30 pcsc-lite-ccid-1.4.30–2.fc30.x86_64
 
+**UPDATE 2025:** Com o Fedora 42 o DNF avançou para a versão 5 e esse comando não funciona mais. Tentei algumas outras sintaxes mas nao consegui mais fazer donwgrade. Para resolver isso, busquei esse pacote nos repositórios do Fedora e instalei manualmente com:
+
+    $ sudo dnf install pcsc-lite-ccid-1.4.30–2.fc30.x86_64
+
 Uma vez que instalamos o pacote, temos que garantir que ele não será atualizado para versões mais novas quando o sistema se atualizar, para usamos o comando:
 
     $ sudo dnf — exclude=pcsc-lite pcsc-lite-libs update
@@ -58,6 +62,10 @@ Agora que temos a lib e as dependências instaladas, vamos substituir o bundle d
     $ sudo rm -rf /usr/lib64/pcsc/drivers/ifd-ccid.bundle
 
     $ sudo cp -r /home/SeuUsuário/DownloadsContents/usr/lib64/pcsc/drivers/ifd-ypsid.bundle /usr/lib64/pcsc/drivers/
+
+**UPDATE 2025:** No Fedora 41 é necessário criar um link simbólico para o diretório padrão de libs, não sei exatamente o motivo mas sem isso o sistema não reconhece a lib. Para fazer isso: 
+
+    $ sudo ln -s /usr/lib64/pcsc/ /usr/lib/pcsc/
 
 Verifique se o daemon do pcscd está rodando.
 
@@ -101,6 +109,8 @@ Dentro de usr/lib encontraremos a lib que queremos, a ‘libaetpkss.so.3.8.4’.
 
 Antes de realizarmos a configuração no navegador, vamos primeiro baixar o shodo. Estou usando o link de download do TRT7: `https://pje.trt7.jus.br/shodo/shodo.jar`
 
+**UPDATE 2025:** O Shodo foi descontinuado, o aplicativo adotado agora é o PJEOffice, sendo assim, todas as instruções relacionadas aos Shodo podem ser ignoradas. Dito isso, ainda é recomendável a criação do diretório oculto.
+
 O shodo exige o Java oracle 8 para rodar, então vamos ter que instalá-lo. Estou usando o link oficial da Oracle que, por sorte, tem uma versão rpm: `https://www.java.com/pt-BR/download/`. Baixe a versão adequada ao seu sistema.
 
 Agora instale o java.
@@ -121,6 +131,8 @@ E movemos os arquivos que vamos utilizar pra lá.
 
 ### FIREFOX
 
+**UPDATE 2025:** O PJEOffice não precisa de configuração no Firefox, se você estiver utilizando ele pode ignorar as instruções abaixo e pular para a configuração do atalho. 
+
 Vamos configurar o firefox para reconhecer o token. Abra o firefox, digite na barra de endereço: about:preferences#privacy. Desça até o fim da página e clique no botão “dispositivos de segurança…”. Na janela que se abrir, clique sobre “NSS Internal PKCS #11 Module”. Então, na barra lateral, clique em “carregar”. Dê um nome ao módulo, “PJE” ou qualquer outra coisa. No caminho do arquivo do módulo digite `/home/SeuUsuário/.pje/libaetpkss.so.3.8.4` e clique em “ok”.
 
 Vamos testar o reconhecimento do token. Feche o firefox, conecte o seu token, e inicie o daemon do pcscd com:
@@ -134,6 +146,8 @@ Abra novamente o firefox e digite na barra de endereço: `about:preferences#priv
 Para utilizar o token no pje, será necessário primeiro iniciar o shodo. Para simplificar esse processo, vamos criar um atalho. No Fedora, não há como criar atalhos na área de trabalho por padrão, então vou ter que adicionar o atalho criado a dashboard do gnome. Vou usar o nano para isso, mas qualquer editor de texto pode ser usado no lugar.
 
     $ nano /home/SeuUsuario/.local/share/applications/shodo.desktop
+
+**UPDATE 2025:** Para criar um atalho para o PJEOffice ao inves do Shodo, altere o campo name para "Name=PJEOffice — Assinador Digital" e exec para "/home/SeuUsuario/.pje/pjeoffice.sh"  
 
 Colar o seguinte conteúdo:
 
@@ -153,6 +167,8 @@ GenericName[pt_BR]=Assinador
 ~~~~~~~~
 
 Depois `crtl+o` para s para salvar, `crtl+x` para sair. Faça logout da sessão e entre novamente para visualizar o ícone. Clique no ícone e siga as instruções. Quando o firefox abrir, ele dirá que a página é insegura, clique em “avançado”, “aceitar o risco e continuar’’. Aqui, mais uma vez, é possível testar o token. O shodo vai pedir o caminho da lib de reconhecimento do token, basta usar: `/home/SeuUsuário/.pje/libaetpkss.so.3.8.4.` Agora é só ir para o pje e tentar o acesso.
+
+**UPDATE 2025:** O PJEOffice vai precisar ser configurado, uma vez que ele estiver rodando clique com o botão direito -> configurações de segurança -> carregar certificado -> certificado A3. No segundo campo voce deve adicionar o caminho `/home/SeuUsuário/.pje/libaetpkss.so.3.8.4.`, lembrando que o nome das versões mais recentes da lib pode ser diferente.
 
 **OBSERVAÇÃO**: Lembre-se de alterar o caminho `/home/SeuUsuario` com o nome do seu usuário, e caminho do diretório java, que pode variar. Também vou deixar aqui uma imagem para servir de ícone para o shodo. salve-a em `/home/SeuUsuario/.pje/`` com o nome “shodo.png”.
 
