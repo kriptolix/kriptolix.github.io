@@ -21,4 +21,5 @@ entrou.
 
 * marco zero - Toda forma de amor mata
 * 24/02/10 - O branco da minha janela
+* 24/09/15 - Esse é um blog esquecido
 
