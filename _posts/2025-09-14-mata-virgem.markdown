@@ -2,6 +2,7 @@
 layout: post
 title:  "Mata Virgem"
 date:   2025-09-14 19:25:18 -0300
+categories: fictions
 ---
 
 Obs: Esse é um trecho de uma história cujas outras partes nunca foram escritas, ignore a falta de contexto geral. Quis publicá-la porque gosto muito do resultado dessa cena, escrever literatura erótica é difícil. 
