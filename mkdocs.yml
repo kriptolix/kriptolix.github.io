@@ -1,0 +1,72 @@
+site_name: Titulo Mutante
+site_description: "Personal website and blog of msleigh"
+site_url: https://titulomutante.com.br
+theme:
+    favicon: assets/images/favicon.ico
+    features:
+        - content.code.copy
+        - navigation.sections
+        - navigation.top
+    icon:
+        repo: material/git
+    language: pt
+    logo: assets/images/msleigh.png
+    name: material    
+    palette:
+      scheme: slate
+      primary: green
+      accent: deep purple
+extra_css:
+    - stylesheets/extra.css
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+plugins:
+    - blog:
+        post_excerpt: optional
+        post_excerpt_separator: <!--more-->
+    - search
+    - rss:
+          match_path: blog/posts/.*
+          date_from_meta:
+            as_creation: date
+          categories:
+            - categories
+            - tags
+          image:
+              https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png
+    - tags:
+          enabled: true
+          tags_file: tags.md
+extra:
+    social:
+        - icon: material/mastodon
+          link: https://mastodon.social/@msleigh
+          name: msleigh on mastodon.social
+        - icon: material/mastodon
+          link: https://mast.hpc.social/@msleigh
+          name: msleigh on mast.hpc.social
+        - icon: material/github
+          link: https://github.com/msleigh
+        - icon: material/rss
+          link: https://msleigh.io/
+copyright: Copyright &copy; 2022 - 2023 M Sleigh
+repo_url: https://github.com/msleigh/msleigh.io
+markdown_extensions:
+    - attr_list
+    - footnotes
+    - md_in_html
+    - pymdownx.arithmatex:
+        generic: true
+    - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - pymdownx.highlight:
+          anchor_linenums: true
+          line_spans: __span
+          pygments_lang_class: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences
+
