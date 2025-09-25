@@ -25,6 +25,12 @@ plugins:
     - blog:
         post_excerpt: optional
         post_excerpt_separator: <!--more-->
+        blog_dir: .
+        post_url_format: "blog/{slug}"
+        archive_url_format: "blog/archive/{date}"
+        categories_url_format: "category/{slug}"
+        categories: true
+        archive: false
     - search
     - rss:
           match_path: blog/posts/.*
@@ -66,8 +72,5 @@ markdown_extensions:
     - pymdownx.superfences
 
 nav:
-  - Início: blog/index.html  
-  - Ficções: blog/category/fictions/index.html
-  - Tecnologias: blog/category/technologies/index.html
-  - RPG: blog/category/ttrpgs/index.html
-  - Sobre: blog/page_about.md
+  - Início: index.md    
+  - Sobre Esse Blog: page_about.md
