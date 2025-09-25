@@ -1,0 +1,21 @@
+:root > * {
+  /* Cor principal (usada em botões, links, cabeçalhos) */
+  --md-primary-fg-color:        #000000;   /* preto */
+  --md-primary-fg-color--light: #555555;   /* cinza médio */
+  --md-primary-fg-color--dark:  #222222;   /* cinza escuro */
+
+  /* Cor de fundo padrão */
+  --md-default-bg-color:        #ffffff;   /* branco */
+  --md-default-bg-color--light: #f5f5f5;   /* branco suave */
+
+  /* Texto padrão */
+  --md-typeset-color:           #000000;   /* texto preto */
+
+  /* Links */
+  --md-accent-fg-color:         #333333;   /* cinza escuro para links */
+  --md-accent-fg-color--transparent: rgba(0, 0, 0, 0.1);
+
+  /* Bordas e linhas */
+  --md-divider-color:           #cccccc;   /* cinza claro */
+}
+

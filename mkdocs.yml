@@ -1,21 +1,24 @@
 site_name: Titulo Mutante
-site_description: "Personal website and blog of msleigh"
-site_url: https://titulomutante.com.br
+site_description: "Um blog esquecido"
+site_url: https://www.titulomutante.com.br
 theme:
     favicon: assets/images/favicon.ico
     features:
         - content.code.copy
         - navigation.sections
         - navigation.top
+        - navigation.tabs
+        - navigation.expand
+        - navigation.path
     icon:
         repo: material/git
-    language: pt
-    logo: assets/images/msleigh.png
-    name: material    
+    language: pt-BR
+    logo: assets/images/logo.png
+    name: material
     palette:
-      scheme: slate
-      primary: green
-      accent: deep purple
+    - scheme: default      
+      primary: black
+      accent: grey
 extra_css:
     - stylesheets/extra.css
 extra_javascript:
@@ -42,17 +45,14 @@ plugins:
 extra:
     social:
         - icon: material/mastodon
-          link: https://mastodon.social/@msleigh
-          name: msleigh on mastodon.social
-        - icon: material/mastodon
-          link: https://mast.hpc.social/@msleigh
-          name: msleigh on mast.hpc.social
+          link: https://ursal.zone/@Kriptolix
+          name: Diego on mastodon.social        
         - icon: material/github
           link: https://github.com/msleigh
         - icon: material/rss
-          link: https://msleigh.io/
-copyright: Copyright &copy; 2022 - 2023 M Sleigh
-repo_url: https://github.com/msleigh/msleigh.io
+          link: https://www.titulomutante.com.br
+copyright: Copyright &copy; 2025 Kriptolix
+repo_url: https://github.com/kriptolix/kriptolix.github.io
 markdown_extensions:
     - attr_list
     - footnotes
@@ -70,3 +70,9 @@ markdown_extensions:
     - pymdownx.snippets
     - pymdownx.superfences
 
+nav:
+  - Início: blog/  
+  - Ficções: blog/category/fictions
+  - Tecnologias: blog/category/technologies
+  - RPG: blog/category/ttrpgs
+  - Sobre: blog/page_about.md
