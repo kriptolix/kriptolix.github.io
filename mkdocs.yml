@@ -12,17 +12,13 @@ theme:
         - navigation.path
     icon:
         repo: material/git
-    language: pt-BR
-    logo: assets/images/logo.png
+    language: pt-BR    
     name: material
-    palette:
-    - scheme: default      
-      primary: black
-      accent: grey
+    palette:          
+      primary: custon      
 extra_css:
     - stylesheets/extra.css
-extra_javascript:
-  - javascripts/mathjax.js
+extra_javascript:  
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 plugins:
@@ -40,8 +36,7 @@ plugins:
           image:
               https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/128px-Feed-icon.svg.png
     - tags:
-          enabled: true
-          tags_file: tags.md
+          enabled: true          
 extra:
     social:
         - icon: material/mastodon
@@ -71,8 +66,8 @@ markdown_extensions:
     - pymdownx.superfences
 
 nav:
-  - Início: blog/  
-  - Ficções: blog/category/fictions
-  - Tecnologias: blog/category/technologies
-  - RPG: blog/category/ttrpgs
+  - Início: blog/index.html  
+  - Ficções: blog/category/fictions/index.html
+  - Tecnologias: blog/category/technologies/index.html
+  - RPG: blog/category/ttrpgs/index.html
   - Sobre: blog/page_about.md
