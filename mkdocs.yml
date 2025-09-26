@@ -1,21 +1,24 @@
-site_name: Titulo Mutante
-site_description: "Um blog esquecido"
+site_name: Esse é um blog esquecido
+site_description: "Um canto escuro da internet"
 site_url: https://www.titulomutante.com.br
 theme:
+    name: material
+    custom_dir: overrides
+    palette:          
+      primary: custon 
     favicon: assets/images/favicon.ico
     features:
         - content.code.copy
-        - navigation.sections
+        - navigation.indexes
         - navigation.top
         - navigation.tabs
         - navigation.expand
         - navigation.path
+        - toc.follow
+        - toc.integrate
     icon:
         repo: material/git
-    language: pt-BR    
-    name: material
-    palette:          
-      primary: custon      
+    language: pt-BR
 extra_css:
     - stylesheets/extra.css
 extra_javascript:  
@@ -72,5 +75,10 @@ markdown_extensions:
     - pymdownx.superfences
 
 nav:
-  - Início: index.md    
+  - Início: index.md
+  - Mono: 
+    - monocerus/introdução.md
+    - Caracteristicas:
+      - monocerus/caracteristicas.md
+      - monocerus/c_gerais.md    
   - Sobre Esse Blog: page_about.md

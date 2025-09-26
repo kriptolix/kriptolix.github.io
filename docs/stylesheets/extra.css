@@ -18,3 +18,31 @@
   /* Bordas e linhas */
   --md-divider-color:           #cccccc;   /* cinza claro */
 }
+
+/* Alinha título principal */
+.custom-header-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Primeira linha (menor) */
+.custom-header-line {
+  text-align: left;
+  align-self: flex-start;
+  font-size: 1.2rem;
+}
+
+/* Segunda linha (maior) */
+.custom-header-subtitle {
+  font-size: 2.5rem; 
+  line-height: 1.2;
+  margin-left: 1rem;
+}
+
+/* Permite que o header cresça com o conteúdo */
+.md-header {
+  height: 130px !important;
+  padding-bottom: 1rem; /* Espaço opcional para respirar */
+}
