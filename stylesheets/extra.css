@@ -1,0 +1,48 @@
+:root > * {
+  /* Cor principal (usada em botões, links, cabeçalhos) */
+  --md-primary-fg-color:        #000000;   /* preto */
+  --md-primary-fg-color--light: #555555;   /* cinza médio */
+  --md-primary-fg-color--dark:  #222222;   /* cinza escuro */
+
+  /* Cor de fundo padrão */
+  --md-default-bg-color:        #ffffff;   /* branco */
+  --md-default-bg-color--light: #f5f5f5;   /* branco suave */
+
+  /* Texto padrão */
+  --md-typeset-color:           #000000;   /* texto preto */
+
+  /* Links */
+  --md-accent-fg-color:         #333333;   /* cinza escuro para links */
+  --md-accent-fg-color--transparent: rgba(0, 0, 0, 0.1);
+
+  /* Bordas e linhas */
+  --md-divider-color:           #cccccc;   /* cinza claro */
+}
+
+/* Alinha título principal */
+.custom-header-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Primeira linha (menor) */
+.custom-header-line {
+  text-align: left;
+  align-self: flex-start;
+  font-size: 1.2rem;
+}
+
+/* Segunda linha (maior) */
+.custom-header-subtitle {
+  font-size: 2.5rem; 
+  line-height: 1.2;
+  margin-left: 1rem;
+}
+
+/* Permite que o header cresça com o conteúdo */
+.md-header {
+  height: 130px !important;
+  padding-bottom: 1rem; /* Espaço opcional para respirar */
+}
