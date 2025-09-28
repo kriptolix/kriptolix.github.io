@@ -58,9 +58,11 @@ extra:
 copyright: Copyright &copy; 2025 Kriptolix
 repo_url: https://github.com/kriptolix/kriptolix.github.io
 markdown_extensions:
+    - tables
     - attr_list
     - footnotes
     - md_in_html
+    - admonition  
     - pymdownx.arithmatex:
         generic: true
     - pymdownx.emoji:
@@ -72,13 +74,21 @@ markdown_extensions:
           pygments_lang_class: true
     - pymdownx.inlinehilite
     - pymdownx.snippets
-    - pymdownx.superfences
+    - pymdownx.details
+    - pymdownx.superfences    
 
 nav:
   - Início: index.md
   - Mono: 
     - monocerus/introdução.md
-    - Caracteristicas:
+    - monocerus/basico.md    
+    - monocerus/desafios.md
+    - Personagens:      
       - monocerus/caracteristicas.md
-      - monocerus/c_gerais.md    
+      - monocerus/habilidades.md
+      - monocerus/motivações.md
+      - monocerus/debilidades.md
+    - Narrador:
+      - monocerus/ameaças.md
+      - monocerus/perigos.md      
   - Sobre Esse Blog: page_about.md

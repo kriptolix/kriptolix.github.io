@@ -46,3 +46,22 @@
   height: 130px !important;
   padding-bottom: 1rem; /* Espaço opcional para respirar */
 }
+
+/* Remove estilos visuais dos cards dentro de grid.cards.no-borders */
+.md-typeset .grid.cards.no-borders > * {
+  box-shadow: none !important;
+  border: none !important;
+  background: transparent !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  transition: none !important;
+}
+
+/* Remove hover (mouse-over) */
+.md-typeset .grid.cards.no-borders > *:hover {
+  box-shadow: none !important;
+  background: transparent !important;
+  border: none !important;
+}
+
+

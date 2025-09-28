@@ -5,7 +5,7 @@ authors:
     - Diego C. Sampaio
 date: 2025-09-26
 ---
-#Introdução
+# Introdução
 
 Olá, bem vindo ao SDR do Monocerus. O objetivo do Monocerus é ser um framework modular e open source de regras para jogos de RPG.
 
@@ -19,16 +19,16 @@ Imagine a coisa toda como peças de lego que podem ser combinadas de várias man
 
 A ideia de open source, ou seja, de ser aberto, é permitir que qualquer um possa usar esse conjunto de regras, modificá-lo e distribuí-lo de forma comercial ou não sem ter que se preocupar com problemas de licenciamento ou diretos autorais. Todo o conteúdo apresentado aqui é coberto pela licença Creative Commons e, uma vez seguidos certos pré requisitos, pode ser usado por qualquer um sem qualquer custo.
 
-##Ninguém nunca fez isso antes?
+## Ninguém nunca fez isso antes?
 
 Muito pelo contrário, existem muitos motores de regras fantásticos disponibilizados de forma semelhante na internet. Alguns exemplos famosos são o Fudge, o Fate e o Apokalipse Engine.
 
-##Então por que fazer mais um?
+## Então por que fazer mais um?
 
 Essa pergunta tem várias respostas, mas eu vou dar a mais honesta: Nenhum conjunto de regras é perfeito, todos eles têm pontos descobertos, e o objetivo de criar um sistema de regras é cobrir um certo conjunto de pontos que outros sistemas de regras não cobrem da forma que eu desejo. 
 
 O Monocerus é resultado de um desejo por certas características que eu não consegui encontrar em outros jogos, ou melhor, que eu consigo encontrar espalhadas por uma série de jogos, mas nunca todas juntas num jogo só. Isso tudo é descrito na seção de Game Design, que registra a origem, os objetivos, e o caminho percorrido no desenvolvimento desse motor de jogos.
 
-##Por que tudo parece meio bagunçado?
+## Por que tudo parece meio bagunçado?
 
 O Monocerus é um trabalho em andamento ou, como se fala na indústria de jogos: um pré-release. Ainda carece de testes e correções e muita coisa ainda pode mudar, ser introduzida ou ser retirada. O objetivo de criar esse SDR é permitir que as pessoas interajam como motor de regras, leiam, testem e façam críticas e sugestões que permitam o seu aprimoramento. Além de, é claro, registrar todo o processo de criação para servir de orientação a outros que quiserem se aventurar pelos mares do RPG design.
