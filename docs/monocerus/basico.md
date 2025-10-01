@@ -9,9 +9,11 @@ date: 2025-09-28
 
 Monocerus, que vamos chamar de Mono a partir de agora, é um sistema de RPG e não um jogo completo, este conteúdo assume que você está familiarizado o que isso significa e, portanto, as definições envolvidas e explicações básicas não serão abordados aqui. Caso contrario, existem muitos lugares na internet em que voce pode aprender sobre isso.
 
+![Image title](/assets/the_ophanim.png){ align=left width="200" }
+
 Apesar de nao ter exatamente uma temática foco, o Mono funciona melhor em cenarios onde o a narrativa e drama são mais importantes do que a diferença de poder entre os personagens. O tom do jogo é bastante cinematográfico, e as regras se preocupam em garantir cenas memoráveis e evitar que as coisas saiam dos trilhos por causa de uma simples jogada de azar.   
 
-Mecanicamente, o Mono é inspirado em vários jogos que se concentram na simplicidade, agilidade e foco na historia e nos personagens. Em especial Blades in the Dark, Index Card RPG e vários jogos Powered by Apocalipse. 
+Mecanicamente, o Mono é inspirado em vários jogos que se concentram na simplicidade, agilidade e foco na historia e nos personagens. Em especial Blades in the Dark, Index Card RPG e vários jogos Powered by Apocalipse. <br><br><br>
 
 <div class="grid cards" markdown>
 

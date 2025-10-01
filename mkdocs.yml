@@ -52,7 +52,7 @@ extra:
           link: https://ursal.zone/@Kriptolix
           name: Diego on mastodon.social        
         - icon: material/github
-          link: https://github.com/msleigh
+          link: https://github.com/kriptolix
         - icon: material/rss
           link: https://www.titulomutante.com.br
 copyright: Copyright &copy; 2025 Kriptolix
@@ -75,7 +75,9 @@ markdown_extensions:
     - pymdownx.inlinehilite
     - pymdownx.snippets
     - pymdownx.details
-    - pymdownx.superfences    
+    - pymdownx.superfences
+    - pymdownx.blocks.caption
+    
 
 nav:
   - Início: index.md
