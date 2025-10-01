@@ -79,16 +79,18 @@ markdown_extensions:
 
 nav:
   - Início: index.md
-  - Mono: 
+  - Monocerus: 
     - monocerus/introdução.md
     - monocerus/basico.md    
-    - monocerus/desafios.md
+    - monocerus/jogo/desafios.md   
     - Personagens:      
-      - monocerus/caracteristicas.md
-      - monocerus/habilidades.md
-      - monocerus/motivações.md
-      - monocerus/debilidades.md
+      - monocerus/personagens/caracteristicas.md
+      - monocerus/personagens/habilidades.md
+      - monocerus/personagens/motivações.md
+      - monocerus/personagens/debilidades.md
+      - monocerus/personagens/conceitos.md
     - Narrador:
-      - monocerus/ameaças.md
-      - monocerus/perigos.md      
+      - Ameaças:
+        - monocerus/narrador/antagonistas.md
+        - monocerus/narrador/perigos.md      
   - Sobre Esse Blog: page_about.md

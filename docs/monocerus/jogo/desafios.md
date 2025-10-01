@@ -177,6 +177,16 @@ Condições são rótulos narrativos que vão impactar em como um personagem rea
 
 As condições em si não tem uma mecânica associada, mas uma condição pode ser invocada para impedir ou dificultar uma ação a depender da sua severidade. Quando isso acontece, o grau de severidade da condição é usado como penalidade de controle ou de potência.
 
+### Contadores 
+
+Contadores determinam o numero de condições necessárias para superar ou fracassar em um desafio longo. Também podem determinar reações a acontecimentos a depender de como o desafio progride. Todo contador tem quatro niveis e cada um deles é associado a uma certa quantidade de marcadores que vai depender do tipo de desafio. O contador basico, que representa o estado fisico e mental de um personagem jogador por exemplo, é representado abaixo.   
+
+|  Dramático  | O	|
+|  Intenso    |	OO  |
+|  Moderado   | OO  |
+|  Limitado   | OO  |
+
+
 Condições **Dramáticas** são incapacitantes. Uma vez que o personagem recebe uma condição **Dramática** ou uma condição de grau menor mas que é considerada **Dramática** porque não há mais espaços disponíveis para outros tipos de condições, qualquer ação do personagem exige que ele **Supere Limites**. 
 
 # Superando limites

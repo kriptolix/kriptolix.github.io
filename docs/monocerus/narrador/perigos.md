@@ -8,8 +8,6 @@ date: 2025-09-28
 
 # Perigos
 
-## 
-
 ## Corrida 
 
 O caminho está claro. O perigo é inevitável, e os personagens devem escapar antes que ele os alcance.  
