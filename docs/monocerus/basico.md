@@ -1,5 +1,5 @@
 ---
-title: Basico
+title: Básico
 summary: Introdução ao Monocerus
 authors:
     - Diego C. Sampaio
@@ -13,7 +13,7 @@ Este conteúdo assume que você está familiarizado com o conceito de RPG, mais 
 
 O Monocerus, que vamos chamar de Mono a partir de agora, não é um jogo completo e sim uma estrutura de criação (um *framework*). Isso significa que ele foi projetado como uma caixa de ferramentas, com elementos, inspirações e orientações para que os jogadores possam criar seus próprios jogos a partir dele.
 
-Apesar de não ter exatamente uma temática foco, o Mono funciona melhor em cenarios onde o a narrativa e drama são mais importantes do que a diferença de poder entre os personagens. O tom é bastante cinematográfico, inspirado em filmes de ação e romances aventurescos, histórias em quadrinhos e series de tv, e as regras se preocupam em garantir cenas memoráveis e evitar que as coisas saiam dos trilhos por causa de uma simples jogada de azar.
+Apesar de não ter exatamente uma temática foco, o Mono funciona melhor em cenários onde o a narrativa e drama são mais importantes do que a diferença de poder entre os personagens. O tom é bastante cinematográfico, inspirado em filmes de ação e romances aventurescos, histórias em quadrinhos e series de tv, e as regras se preocupam em garantir cenas memoráveis e evitar que as coisas saiam dos trilhos por causa de uma simples jogada de azar.
 
 Mecanicamente, o Mono é inspirado em vários jogos que se concentram na simplicidade, agilidade e foco na historia e nos personagens. Em especial Blades in the Dark, Index Card RPG e vários jogos Powered by Apocalipse. 
 
