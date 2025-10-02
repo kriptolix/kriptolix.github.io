@@ -7,13 +7,15 @@ date: 2025-09-28
 ---
 # Começando
 
-Monocerus, que vamos chamar de Mono a partir de agora, é um sistema de RPG e não um jogo completo, este conteúdo assume que você está familiarizado o que isso significa e, portanto, as definições envolvidas e explicações básicas não serão abordados aqui. Caso contrario, existem muitos lugares na internet em que voce pode aprender sobre isso.
+Este conteúdo assume que você está familiarizado com o conceito de RPG, mais especificamente de RPG de mesa e, portanto, as definições envolvidas e explicações básicas não serão abordados aqui. Caso contrario, existem muitos lugares na internet em que voce pode aprender sobre isso.
 
-![Image title](/assets/the_ophanim.png){ align=left width="200" }
+# O que é o Mono
 
-Apesar de nao ter exatamente uma temática foco, o Mono funciona melhor em cenarios onde o a narrativa e drama são mais importantes do que a diferença de poder entre os personagens. O tom do jogo é bastante cinematográfico, e as regras se preocupam em garantir cenas memoráveis e evitar que as coisas saiam dos trilhos por causa de uma simples jogada de azar.   
+O Monocerus, que vamos chamar de Mono a partir de agora, não é um jogo completo e sim uma estrutura de criação (um *framework*). Isso significa que ele foi projetado como uma caixa de ferramentas, com elementos, inspirações e orientações para que os jogadores possam criar seus próprios jogos a partir dele.
 
-Mecanicamente, o Mono é inspirado em vários jogos que se concentram na simplicidade, agilidade e foco na historia e nos personagens. Em especial Blades in the Dark, Index Card RPG e vários jogos Powered by Apocalipse. <br><br><br>
+Apesar de não ter exatamente uma temática foco, o Mono funciona melhor em cenarios onde o a narrativa e drama são mais importantes do que a diferença de poder entre os personagens. O tom é bastante cinematográfico, inspirado em filmes de ação e romances aventurescos, histórias em quadrinhos e series de tv, e as regras se preocupam em garantir cenas memoráveis e evitar que as coisas saiam dos trilhos por causa de uma simples jogada de azar.
+
+Mecanicamente, o Mono é inspirado em vários jogos que se concentram na simplicidade, agilidade e foco na historia e nos personagens. Em especial Blades in the Dark, Index Card RPG e vários jogos Powered by Apocalipse. 
 
 <div class="grid cards" markdown>
 
@@ -23,7 +25,7 @@ Mecanicamente, o Mono é inspirado em vários jogos que se concentram na simplic
 
     * Dados: Você vai precisar de pelo menos 3 dados comuns de 6 faces.
 
-    * Planilhas: Cada jogador precisa de um lugar pra registrar as características do seu personagem. Uma Planilha de personagem em branco esta disponível aqui (adicionar link).     
+    * Cartilhas: Cada jogador precisa de um lugar pra registrar as características do seu personagem. Uma cartilha de personagem em branco esta disponível aqui (adicionar link).     
 
 -   # Convenções desse material
 

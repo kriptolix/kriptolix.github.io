@@ -11,7 +11,7 @@ Olá, bem vindo ao SRD do Monocerus. O objetivo do Monocerus é ser um framework
 
 Muito inglês numa frase só? Calma, eu explico. Vamos por partes.
 
-Um SRD (System Reference Document, ou documento de referência de sistema) é um documento que contém todas as diretivas necessárias para se jogar, mas também para se criar um jogo derivado a partir de um sistema de regras. Apesar de não existir um padrão claro sobre o que um SRD deve conter, na maioria das vezes o conteúdo é apenas de regras gerais, ou seja, ficam de fora quaisquer regras mais específicas criados para um determinado jogo, cenário ou gênero.
+Um SRD (System Reference Document, ou documento de referência de sistema) é um documento que contém todas as diretivas necessárias para se jogar, mas também para se criar um jogo derivado a partir de um sistema de regras. Apesar de não existir um padrão claro sobre o que um SRD deve conter, na maioria das vezes o conteúdo é apenas de regras gerais, ou seja, ficam de fora quaisquer regras mais específicas criadas para um determinado jogo, cenário ou gênero.
 
 A ideia de um framework modular é ter uma base sólida bastante simples, composta de uma mecânica de resolução de conflitos e de alguns componentes elementares. Esses componentes tanto podem ser usados diretamente para se jogar como podem ser combinados para gerar novos componentes, mais complexos e específicos para refletir as necessidades de um certo tipo de jogo, gêneros ou cenários. 
 
@@ -35,6 +35,6 @@ O Monocerus é um trabalho em andamento ou, ainda carece de testes e correções
 
 ## Qual e a situação atual?
 
-Praticamente todos os aspectos maiores da mecânica já foram decididos e eu comecei a escrever o texto propriamente. Ainda há detalhes que precisam de atenção e esse documento precisa de muito trabalho de formatação (não inseri sequer uma imagem ainda). Quase todos os exemplos estão em branco e provavelmente existem problemas de coerência de nomenclaturas (que eu altero toda hora) de regras, além de, é claro, vários erros ortográficos.
+Praticamente todos os aspectos maiores da mecânica já foram decididos e eu comecei a escrever o texto propriamente. Ainda há detalhes que precisam de atenção e esse documento precisa de muito trabalho de formatação (não inseri sequer uma imagem ainda). Quase todos os exemplos estão em branco e provavelmente existem problemas de coerência de nomenclaturas (que eu altero toda hora) e de regras, além de, é claro, vários erros ortográficos.
 
 Eu diria que provavelmente estamos em algo como **60% pronto**.   

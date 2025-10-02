@@ -80,7 +80,7 @@ markdown_extensions:
     
 
 nav:
-  - Início: index.md
+  - Início: index.md  
   - Monocerus: 
     - monocerus/introdução.md
     - monocerus/basico.md    
@@ -94,5 +94,6 @@ nav:
     - Narrador:
       - Ameaças:
         - monocerus/narrador/antagonistas.md
-        - monocerus/narrador/perigos.md      
+        - monocerus/narrador/perigos.md    
+    - monocerus/game_design/diario.md      
   - Sobre Esse Blog: page_about.md

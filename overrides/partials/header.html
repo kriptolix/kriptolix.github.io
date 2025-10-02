@@ -47,10 +47,16 @@
         <!-- Header title -->
         <div class="md-header__title" data-md-component="header-title">
             <div class="md-header__ellipsis">
+                {% if page and page.url and page.url.startswith("monocerus/") %}
+                <div class="md-header__topic custom-header-title">
+                    <div class="custom-header-monocerus">Monocerus</div>                    
+                </div>               
+                {% else %}
                 <div class="md-header__topic custom-header-title">
                     <div class="custom-header-line">O Titulo de hoje é...</div>
                     <div class="custom-header-subtitle">{{ config.site_name }}</div>
                 </div>
+                {% endif %}                
                 <div class="md-header__topic" data-md-component="header-topic">
                     <span class="md-ellipsis">
                         {% if page.meta and page.meta.title %}

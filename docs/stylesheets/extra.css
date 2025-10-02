@@ -32,7 +32,6 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--md-primary-fg-color);
 }
 
-
 /* Alinha título principal */
 .custom-header-title {
   display: flex;
@@ -53,6 +52,12 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 2.5rem; 
   line-height: 1.2;
   margin-left: 1rem;
+}
+
+/* Segunda linha (maior) */
+.custom-header-monocerus {
+  font-size: 2.5rem; 
+  line-height: 1.2;  
 }
 
 /* Permite que o header cresça com o conteúdo */

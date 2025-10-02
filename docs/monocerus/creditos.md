@@ -9,3 +9,5 @@ date: 2025-09-28
 # Creditos
 
 Alexandre Aleixo
+Midrael Prestes
+Felipe Becchelli
