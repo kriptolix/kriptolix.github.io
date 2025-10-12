@@ -68,6 +68,9 @@ markdown_extensions:
     - pymdownx.emoji:
         emoji_index: !!python/name:material.extensions.emoji.twemoji
         emoji_generator: !!python/name:material.extensions.emoji.to_svg
+        options:
+          custom_icons:
+            - overrides/.icons
     - pymdownx.highlight:
           anchor_linenums: true
           line_spans: __span
@@ -83,8 +86,10 @@ nav:
   - Início: index.md  
   - Monocerus: 
     - monocerus/introdução.md
-    - monocerus/basico.md    
-    - monocerus/jogo/desafios.md   
+    - monocerus/basico.md
+    - monocerus/jogo/ferramentas.md     
+    - monocerus/jogo/desafios.md
+    - monocerus/jogo/consequencias.md   
     - Personagens:      
       - monocerus/personagens/aspectos.md
       - monocerus/personagens/habilidades.md
@@ -92,8 +97,9 @@ nav:
       - monocerus/personagens/debilidades.md
       - monocerus/personagens/conceitos.md
     - Narrador:
-      - Ameaças:
+      - monocerus/narrador/contadores.md
+      - Ameaças:        
         - monocerus/narrador/antagonistas.md
-        - monocerus/narrador/perigos.md    
+        - monocerus/narrador/perigos.md            
     - monocerus/game_design/diario.md      
   - Sobre Esse Blog: page_about.md
