@@ -138,6 +138,12 @@ Quando um personagem SOFRE Consequências, verificamos os elementos que poderiam
 
 Ex:
 
+!!! note "Mas, e se chutar alguém?"
+
+    O nível de intensidade de um personagem para ações, seja para agravar ou atenuar consequências, é um valor potencial. Isso significa que, por exemplo, se o personagem carrega uma espada mas decide atacar alguém com um chute a espada ainda conta para o seu nível de intensidade. O mesmo acontece para proteções.
+
+    Essa é uma escolha deliberada para evitar que o grau de intensidade tenha que ser recalculado durante desafios longos, mas também para estimular o jogador a realizar ações criativas sem se preocupar com a efetividade do efeito dessas ações. Se você tem uma arma e poderia tê-la usado, mas escolher chutar o rosto de um inimigo pq fazia mais sentido ou cena ficava mais divertida assim, a intensidade do efeito se mantém como se você tivesse utilizado sua arma. 
+
 ## Superando limites
 
 Em certas circunstâncias a situação do personagem pode ser tão desfavorável que não faz sentido sequer que haja um teste para definir o que acontece. Em outros, o personagem pode estar dando tudo de si, custe o que custar, para conseguir alguma coisa. Nesses e em outros casos específicos o personagem precisa Superar Limites. 
