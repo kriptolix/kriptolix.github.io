@@ -36,7 +36,7 @@ Outras princípios menores foram se somando a essas bases durante o desenvolvime
 
 Surgido de um artigo que eu li sobre a versão 2 de Dungeon World veio a ideia de um combate dinâmico em que, a cada rolagem, a situação mudasse. O que é diferente dos padrão da maioria dos RPGs em que a situação se matem basicamente a mesma até um lado chegar a zero pontos de vida.
 
-Aém disso, em algum momento, eu percebi aquilo que eu queria do Mono: um jogo feito para proporcionar cenas emocionantes e interessantes, e não um jogo que trancasse essas cenas atrás de chances de sucesso que, na pratica, só serviam para frustrar qualquer tentativa mais ousada ou divertida.
+Além disso, em algum momento, eu percebi aquilo que eu queria do Mono: um jogo feito para proporcionar cenas emocionantes e interessantes, e não um jogo que trancasse essas cenas atrás de chances de sucesso que, na pratica, só serviam para frustrar qualquer tentativa mais ousada ou divertida.
 
 ## Referências
 
@@ -52,7 +52,7 @@ Vou elencar uma lista completa de referências e das contribuições que obtive 
 
 Decidir como funcionariam as características de personagem me tomou um longo tempo. Comecei com a ideia de dividir em atributos e competências. Sendo o primeiro composto por capacidades inatas do personagem,e o segundo um misto de experiências e habilidades aprendidas. Confesso que não havia um motivo para isso a não ser familiaridade, é a divisão mais comum na maioria dos jogos. A partir daí, passei por vários formatos do que seriam atributos e competências variando em quantidade, natureza e escala, cada um deles com as suas vantagens e desvantagens. Alterava sempre que um novo problema ou possibilidade surgia.
 
-Só cheguei a um formato definitivo quando entendi o que eu realmente queria do jogo: cenas emocionantes e interessantes que eu via em filmes, series, quadrinhos e livros. E não só cenas, mas a representação dos personagens, quase sempre arquetípicos, que executavam essas cenas. Foi ai que eu percebi que eu so precisava de dois tipos de características: aspectos de personagem e habilidades icônicas. Com essas duas características eu poderia criar variações que serviriam a propósitos específicos como o **Conceito**. 
+Só cheguei a um formato definitivo quando entendi o que eu realmente queria do jogo: cenas emocionantes e interessantes que eu via em filmes, series, quadrinhos e livros. E não só cenas, mas a representação dos personagens, quase sempre arquetípicos, que executavam essas cenas. Foi ai que eu percebi que eu so precisava de dois tipos de características: aspectos de personagem e habilidades icônicas. Com essas duas características eu poderia criar variações que serviriam a propósitos específicos como o **Arquétipo**. 
 
 ### Aspectos
 
