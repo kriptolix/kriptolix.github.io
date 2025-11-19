@@ -15,8 +15,7 @@ A utilidade de uma ferramenta é sempre relativa ao desafio em que se está tent
 | Sem ferramentas disponíveis para o desafio. | Padrão |
 | Usando ferramentas inadequadas, danificadas ou improvisadas. | Aumente um grau | 
 | Ferramentas próprias para a tarefa e em boas condições. | Aumente dois graus |
-| Ferramentas superiores com capacidades além do normal. | Aumente três graus |
-
+| Ferramentas especializadas com excelente qualidade e condições. | Aumente três graus |
  
 ## O efeito das Ferramentas
 A maneira como uma ferramenta afeta uma certa ação vai depender da natureza da ferramenta e da natureza da ação. Uma ferramenta pode afetar o Controle do personagem, a intensidade das consequências ou pode afetar a viabilidade de uma ação, tornando-a possível ou impossível.

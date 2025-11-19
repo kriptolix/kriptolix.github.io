@@ -1,15 +1,14 @@
 ---
-title: Debilidades
+title: Fraquezas
 summary: Introdução ao Monocerus
 authors:
     - Diego C. Sampaio
 date: 2025-09-26
 ---
 
-# Debilidades
+# Fraquezas
 
-Debilidades são problemas ou fraquezas que um personagem pode possuir que o levam a se comportar de uma certa maneira ou afetam suas ações em certas circunstâncias. Debilidades são opcionais e podem ser adquiridas, substituídas ou removidas em qualquer momento do jogo, mesmo após a criação de personagem, desde que haja uma boa explicação narrativa para isso. A função maior das debilidades é ajudar a dar contexto e profundidade e representar certos defeitos comuns em personagens da ficção. 
-
+Fraquezas são problemas ou debilidades que um personagem pode possuir que o levam a se comportar de uma certa maneira ou afetam suas ações em certas circunstâncias. Fraquezas são opcionais e podem ser adquiridas, substituídas ou removidas em qualquer momento do jogo, mesmo após a criação de personagem, desde que haja uma boa explicação narrativa para isso. A função maior das Fraquezas é ajudar a dar contexto e profundidade e representar certos defeitos comuns em personagens da ficção. 
 
 **Não peguei a referência**:  Você vem de um lugar ou cultura diferente e desconhece muita coisa do mundo onde está agora. Sempre que detalhes locais entram em cena o narrador pode declarar que você não entende, não conhece ou não sabe usar alguma coisa. Se aceitar a declaração, recupere estresse, se recusar marque estresse.
 

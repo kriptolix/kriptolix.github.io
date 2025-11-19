@@ -18,9 +18,12 @@ Todas as habilidades têm custo :octicons-circle-16: e a lista a seguir cobre ap
 
 **Reputação** - Você é conhecido por alguma coisa que fez ou faz. Descreva a origem da sua reputação e escolha uma reação entre: temor, respeito e fascínio. Marque estresse para que um NPC reaja dessa forma a você até que você faça alguma coisa para justificar uma reação diferente.
 
-**Mentor** - Você tem alguém que te treina, aconselha e ajuda em situações difíceis. Caso o mentor não esteja disponível por qualquer motivo, considere que a lembrança dos ensinamentos dele faz o mesmo papel. Uma vez por arco, explique como um ensinamento do seu mentor te ajuda em uma situação e use uma habilidade do seu **Arquétipo** que você não possui como se possui-se. Caso já possua todas as habilidades do seu **Arquétipo**, escolha um segundo Conceito para esse efeito.
+**Mentor** - Você tem alguém que te treina, aconselha e ajuda em situações difíceis. Caso o mentor não esteja disponível por qualquer motivo, considere que a lembrança dos ensinamentos dele faz o mesmo papel. Uma vez por arco, explique como um ensinamento do seu mentor te ajuda em uma situação e use uma habilidade do seu **Arquétipo** que você não possui como se possui-se. Caso já possua todas as habilidades do seu **Arquétipo**, escolha um segundo **Arquétipo** para esse efeito.
 
 **Poliglota** - Você tem extrema facilidade com idiomas, além do seu idioma nativo, escolha mais seis idiomas nos quais você consegue se comunicar. Você não precisa definir todos os idiomas que conhece no momento da criação de personagem, mas uma vez que um idioma conhecido seja definido ele não pode mais ser alterado.
+
+**Treinado** - Escolha um campo de conhecimento, seu grau de Controle é considerado **Moderado** quando enfrentar desafios envolvendo esse campo. 
+
 
 **Aliado** - Ainda a definir detalhes e uso;
 

@@ -18,16 +18,30 @@ Pense no Arquétipo como um esqueleto narrativo: uma estrutura inicial que você
 
 Arquétipos são intrinsecamente ligados ao cenário em que o jogo ocorre e não é possível criá-los de uma forma ampla e geral sem perder de vista o seu propósito. Os exemplos a seguir levam em conta gêneros populares e, apesar de poderem ser usados como estão, são apresentados aqui mais como guias de como arquétipos devem ser criados.
 
-## O Cavaleiro Andante
+## Estrutura de um Arquétipo
+
+Arquétipos são construídos sobre uma estrutura base formada por alguns elementos:
+
+* **Nome** - O nome de um arquétipo deve refletir sua natureza geral. Nomes devem ser composto de uma palavra ou uma expressão curta.
+
+* **Descrição** - Um paragrafo ou dois para dar cor, tom e contexto ao arquétipo, para coloca ro jogador no clima certo.
+
+* **Equipamento** - Uma lista de sugestões do que um personagem desse arquétipo costuma carregar e ter como importante, sem se prender a detalhes ou itens de pouca relevância.
+
+* **Competências** - Lista campos em que o arquétipo é mais habilidoso do que o normal. A base mais comum são 4 campos de competência **Moderada** e 2 campos de competência **Alta**, mas podem haver variações. 
+
+* **Habilidades** - Todo arquétipo tem uma lista de, no mínimo, 10 habilidades que representam cenas icônicas que esse arquétipo costuma gerar.
+
+## Exemplo: O Cavaleiro Errante
 “O caminho é longo, mas a honra é o norte.”
 
-O Cavaleiro Andante é o retrato da virtude — um viajante armado de fé, aço e propósito. Carrega consigo uma armadura polida não apenas pelo metal, mas pelas histórias que ela testemunhou. Seu cavalo, fiel companheiro, é tão parte do cavaleiro quanto sua própria espada, conhecendo o ritmo das batalhas, as paradas solenes e as fugas desesperadas. Ao lado, um escudeiro — jovem aprendiz, servo, ou amigo — cuida das ferraduras, do elmo e, às vezes, do coração ferido de seu senhor. Juntos, percorrem estradas de pedra e lendas, buscando glória, penitência ou um ideal que talvez jamais se concretize. O Cavaleiro Andante acredita em códigos: a palavra dada é sagrada, o inocente deve ser protegido e o mal, enfrentado sem hesitação. 
+O Cavaleiro Errante é o retrato da virtude — um viajante armado de fé, aço e propósito. Carrega consigo uma armadura polida não apenas pelo metal, mas pelas histórias que ela testemunhou. Seu cavalo, fiel companheiro, é tão parte do cavaleiro quanto sua própria espada, conhecendo o ritmo das batalhas, as paradas solenes e as fugas desesperadas. Ao lado, um escudeiro — jovem aprendiz, servo, ou amigo — cuida das ferraduras, do elmo e, às vezes, do coração ferido de seu senhor. Juntos, percorrem estradas de pedra e lendas, buscando glória, penitência ou um ideal que talvez jamais se concretize. O Cavaleiro Errante acredita em códigos: a palavra dada é sagrada, o inocente deve ser protegido e o mal, enfrentado sem hesitação. 
 
 ### Equipamento 
 Um cavalo leal e treinado para o combate e longas jornadas. Armadura de placas, cota de malha ou o que restar do brilho da ordem que o forjou. Espada longa, lança e adaga. O cavaleiro também possui um escudeiro, um jovem assistente, seguidor devoto ou parceiro em treinamento, que auxilia em viagens, cuidados e pequenas tarefas.
 
 ### Competências
-O Cavaleiro Andante é habilidoso em duelos formais, torneios e confrontos onde a bravura e a técnica têm papel central. Permanece firme sob pressão moral e é conhecedor da etiqueta e da heráldica.
+O Cavaleiro Errante é habilidoso em duelos formais, torneios e confrontos onde a bravura e a técnica têm papel central. Permanece firme sob pressão moral e é conhecedor da etiqueta e da heráldica.
 
 Considere o que o cavaleiro tem **Controle Moderado** quando:
 

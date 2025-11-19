@@ -42,5 +42,10 @@ As motivações devem representar um objetivo de longo prazo, talvez algo que le
 
 ## Efeito da Motivação
 
-No jogo, os personagens são recompensados recuperando estresse quando escolhem seguir suas motivações pessoais, mesmo que isso resulte em desvantagens para eles. Sempre que for mais vantajoso ignorar a motivação de seu personagem, mas você optar por segui-la mesmo assim, recupera estresse. 
-Exemplo: Motivação - Hedonismo - Você encontra um momento em que poderia apreciar uma garrafa inteira de um whisky de qualidade, mas seria irresponsável fazer isso durante o seu turno de guarda.
+No jogo, os personagens são recompensados recuperando estresse quando escolhem seguir suas motivações pessoais, mesmo que isso resulte em desvantagens para eles. Sempre que for mais vantajoso ignorar a motivação de seu personagem, mas você optar por segui-la mesmo assim, recupera estresse.
+
+!!! note "Exemplo" 
+    
+    Motivação - Hedonismo 
+    
+    Você encontra um momento em que poderia apreciar uma garrafa inteira de um whisky de qualidade, mas seria irresponsável fazer isso durante o seu turno de guarda.

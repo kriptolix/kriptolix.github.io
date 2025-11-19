@@ -90,12 +90,14 @@ nav:
     - monocerus/jogo/ferramentas.md     
     - monocerus/jogo/desafios.md
     - monocerus/jogo/consequencias.md   
-    - Personagens:      
+    - Personagens:
+      - monocerus/personagens/criaçao.md
+      - monocerus/personagens/arquetipos.md            
       - monocerus/personagens/aspectos.md
       - monocerus/personagens/habilidades.md
+      - monocerus/personagens/passados.md
       - monocerus/personagens/motivações.md
-      - monocerus/personagens/debilidades.md
-      - monocerus/personagens/arquetipos.md
+      - monocerus/personagens/fraquezas.md      
     - Narrador:
       - monocerus/narrador/contadores.md
       - Ameaças:        
