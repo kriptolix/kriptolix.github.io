@@ -69,7 +69,7 @@ Você recebeu um símbolo de fé, amor ou lembrança (um lenço, uma flor, uma p
 #### Último Golpe
 Quando está prestes a cair, pode reunir as últimas forças para executar um ato heroico impossível. Quando marcar uma Consequência **Dramática**, explique como e cause imediatamente um Efeito **Intenso** em um desafio em que você esteja envolvido ou que possa intervir. Depois disso você estará incapacitado.
 
-#### Juramento de Honra
+#### Juramento
 Diante de uma injustiça, você faz um voto para corrigir o que está errado — a destruição de um mal, a restauração de uma terra ou o resgate de uma alma perdida. Enquanto estiver na jornada para cumprir esse juramento você recupere um ponto extra de estresse por descanso.
 
 #### Desafio de Honra

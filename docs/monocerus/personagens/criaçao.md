@@ -18,3 +18,5 @@ O primeiro passo para criar um personagem é imaginar como você quer que ele se
 * Escolha uma ou mais **Fraquezas** se quiser.
 
 Segue abaixo um exemplo de cartilha para o nosso **Cavaleiro Errante**.
+
+<iframe src="../cartilhas/work.html" width="100%" height="800px"></iframe>

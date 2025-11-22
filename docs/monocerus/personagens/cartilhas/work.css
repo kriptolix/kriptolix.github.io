@@ -1,0 +1,288 @@
+:root {
+    --bg: #ffffff;
+    /* fundo branco */
+    --panel: #DBDCDE;
+    --list-title-bg:#BBBDC0;
+    /* painel cinza muito claro */
+    --ink: #000000;
+    /* texto preto */
+    --muted: #555555;
+    /* texto secundário em cinza médio */
+    --accent: #333333;
+    /* destaque em cinza escuro */
+    --accent-ink: #ffffff;
+    /* texto sobre o destaque */
+    --line: #999999;
+    /* linhas e bordas em cinza médio */
+    --shadow: rgba(0, 0, 0, 0.15);
+    /* sombra leve */
+    --body-font: 10px;
+    --title-font: 14px;
+    --subtitle-font: 12px;
+}
+
+body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "Source Sans 3", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    line-height: 1.4;
+}
+
+.page {
+    background: var(--bg);
+    display: block;
+    margin: 0 auto;
+    margin-top: 0.5cm;
+    margin-bottom: 0.5cm;
+    width: 21cm;
+    height: 29.7cm;
+    box-shadow: 0 0 0.5cm var(--shadow)
+}
+
+/* Cabeçalho */
+
+.header {
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: end;
+    gap: 12px;
+    color: var(--ink)
+}
+
+.brand {
+    font-family: "Crimson Text", Georgia, serif;
+    letter-spacing: 0.5px;
+}
+
+.brand h1 {
+    margin: 0;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.brand p {
+    margin: 4px 0 0;
+    font-size: 12px;
+    color: var(--muted);
+}
+
+.meta {
+    display: grid;
+    gap: 6px;
+    align-content: end;
+    text-align: right;
+}
+
+.tag {
+    display: inline-block;
+    background: var(--accent);
+    color: var(--accent-ink);
+    padding: 4px 10px;
+    font-weight: 600;
+    font-size: 10px;
+    border-radius: 3px;
+    letter-spacing: 0.4px;
+}
+
+.muted {
+    color: var(--muted);
+    font-size: var(--body-font);
+}
+
+/* Layout em colunas: lateral (estatutos/recursos) + conteúdo */
+
+.content {
+    display: grid;
+    grid-template-columns: 30% 1fr;
+    gap: 0;
+}
+
+/* Sidebar */
+.sidebar {
+    border-right: 1px solid var(--line);    
+    padding: 16px;
+    font-size: var(--body-font);
+}
+
+/* Blocos “cartão” */
+
+.card {
+    border: 1px solid var(--line);
+    margin-bottom: 10px;    
+}
+
+.card .title {
+    font-family: "Crimson Text", Georgia, serif;
+    font-size: var(--subtitle-font);
+    font-weight: 700;
+    padding: 5px 5px;
+    background: black;
+    letter-spacing: 0.3px;
+    color: white;
+}
+
+.card .body {
+    padding: 8px;
+    font-size: var(--body-font);
+    color: var(--ink);
+}
+
+/* Entradas de texto */
+
+.text-header {
+    width: 100%;
+    background: transparent;    
+    border: none;    
+    border-bottom: 1px solid var(--line);    
+    color: var(--ink);    
+    padding: 4px 2px;
+    margin: 2px 0 2px;
+    outline: none;    
+    resize: none;    
+}
+
+
+/* Medidores e caixas de marcação */
+
+.tracker {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 3px;
+}
+
+input[type="checkbox"] {
+    /* Remove o estilo nativo */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+
+    /* Define formato e estilo da bolinha */
+    width: 12px;
+    height: 12px;
+    border: 1px solid #2a2d31;
+    border-radius: 50%;
+    /* deixa redondo */
+    background: var(--bg);
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: middle;
+    /* força alinhamento com o texto */    
+}
+
+/* Aspectos */
+
+.actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+}
+
+.action-label {
+    font-weight: 600;
+    letter-spacing: 0.4px;
+}
+
+.abilities {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+}
+
+/* Área principal com seções modulares */
+
+.main {
+    padding: 20px;
+    background: var(--panel);
+    margin-right: 18px;
+    font-size: var(--body-font);
+}
+
+/* Main sections */
+
+.section-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 5px;
+    background: var(--list-title-bg);
+}
+
+.section-header .bar {
+    width: 6px;
+    height: 22px;
+    background: var(--accent);
+    box-shadow: 0 0 0 1px var(--shadow) inset;
+}
+
+.section-header h2 {
+    font-family: "Crimson Text", Georgia, serif;
+    font-size: var(--title-font);
+    margin: 0;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+}
+
+.section-body {
+    padding-bottom: 16px;
+}
+
+/* Lista de itens */
+
+.grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+}
+
+.grid-3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+}
+
+.list {    
+    padding: 10px;
+}
+
+.list-header {    
+    background: var(--list-title-bg);
+    display: flex;
+    align-items: center;
+}
+
+.list-header .bar {
+    width: 6px;
+    height: 22px;
+    background: var(--accent);
+    box-shadow: 0 0 0 1px var(--shadow) inset;
+}
+
+.list h4 {
+    margin: 5px;
+    font-family: "Crimson Text", Georgia, serif;
+    font-size: var(--subtitle-font);
+    letter-spacing: 0.3px;
+    
+}
+
+.list ul {
+    margin: 0;
+    padding-left: 18px;
+    color: var(--muted);
+    font-size: var(--body-font);
+}
+
+/* Habilidades */
+
+.ability .name {
+    font-weight: 700;
+    margin-bottom: 6px;
+    letter-spacing: 0.3px;
+}
+
+.ability .desc {
+    color: var(--muted);
+    font-size: var(--body-font);
+}
