@@ -100,9 +100,8 @@ body {
 }
 
 /* Sidebar */
-.sidebar {
-    border-right: 1px solid var(--line);    
-    padding: 16px;
+.sidebar {        
+    padding: 12px;
     font-size: var(--body-font);
 }
 
@@ -192,10 +191,10 @@ input[type="checkbox"] {
 
 /* Área principal com seções modulares */
 
-.main {
-    padding: 20px;
+.archetype {
+    padding: 12px;
     background: var(--panel);
-    margin-right: 18px;
+    margin-right: 0px;
     font-size: var(--body-font);
 }
 
@@ -285,4 +284,9 @@ input[type="checkbox"] {
 .ability .desc {
     color: var(--muted);
     font-size: var(--body-font);
+}
+
+.right .card {
+    margin-top: 12px;
+    margin-right: 12px;
 }

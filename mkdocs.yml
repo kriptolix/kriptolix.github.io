@@ -84,7 +84,7 @@ markdown_extensions:
 
 nav:
   - Início: index.md  
-  - Monocerus: 
+  - Monocerus:     
     - monocerus/introdução.md
     - monocerus/basico.md
     - monocerus/jogo/ferramentas.md     
