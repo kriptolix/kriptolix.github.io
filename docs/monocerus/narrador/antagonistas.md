@@ -14,7 +14,7 @@ Antagonistas são desafios táticos imediatos. Desafios mais estratégicos e a l
 
 ## Descritivos
 
-Descriptivos representam certas características dos antagonistas e orientam como essas características afetam o jogo e a narrativa.
+Descritivos representam certas características dos antagonistas e orientam como essas características afetam o jogo e a narrativa.
  
 ### Comportamento
 
@@ -54,7 +54,7 @@ Inteligente - inteligência humanoide, inovação e comportamento social complex
 
 Num confronto, se uma ameaça tiver vantagem numérica recebe um grau a mais de controle e agravante. Se mais de um tipo de ameaça estiver presente, apenas o tipo mais numeroso recebe.
 
-Enxame: Um número de indivíduos grande demais pra contar que se comporta como uma coisa só. Enxames só podem ser afetados por ataques em aŕea.
+Enxame: Um número de indivíduos grande demais pra contar que se comporta como uma coisa só. Enxames só podem ser afetados por ataques em área.
 
 Horda: Um número de indivíduos grande demais pra contar. Destruir indivíduos não afeta o relógio da horda, a horda só é afetada se houver uma forma de detê-la coletivamente. 
 
@@ -92,7 +92,7 @@ Movimentos especiais - coisas que acontecem quando um jogador inferior falha (es
 
 São uma abstração mecânica das características de uma antagonista.
 
-Controle - Representa o quão habilidosa e insidiosa a ameaça é quando enfrentada. O Risco é o valor contra o qual os pcs comparam seu total de Controle.
+Controle - Representa o quão habilidosa e insidiosa a ameaça é quando enfrentada. O Controle é o valor contra o qual os pcs comparam seu total de Controle.
 
 Agravante - Quando a ameaça acerta, o tamanho do estrago que ela causa. É o valor contra o qual os pcs comparam seu Atenuante quando são acertados.
 

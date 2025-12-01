@@ -1,12 +1,17 @@
 ---
-title: Sob um céu estranho
+title: Introdução
 summary: Resumo das regras básicas do jogo
 authors:
     - Diego C. Sampaio
 date: 2025-11-07
 ---
+!!! danger "Aviso"
 
-# Introdução
+    Esse jogo é um trabalho em progresso e, portanto, está incompleto, além de possuir incongruências e sofrer mudanças e atualizações constantes. Quaisquer opiniões, sugestão e criticas construtivas são bem vindas.
+
+Sob um Céu Estranho é um RPG (Role-Playing Game). Este conteúdo assume que você está familiarizado com o conceito de RPG, mais especificamente de RPG de mesa e, portanto, as definições envolvidas e explicações básicas não serão abordados aqui. Caso contrario, existem muitos lugares na internet em que voce pode aprender sobre isso.
+
+## Sobre o que é esse jogo
 
 Vocês são tripulantes de uma nave que jamais deveria ter caído. Construída para atravessar o vazio entre as estrelas, ela agora repousa ferida em um planeta primitivo, sob um céu que nenhum de vocês reconhece. O impacto foi brutal, mas não definitivo: a nave continua habitável, funcionando como abrigo e base de operações. É o último vestígio da civilização que conhecem, um refúgio frágil diante da vastidão desconhecida.
 
@@ -18,7 +23,9 @@ Este é o coração de Sob um Céu Estranho: um jogo de sobrevivência, explora�
 
 Sob este céu estranho, a história começa.
 
-# Perguntas Iniciais
+## Começando
+
+### Perguntas Iniciais
 
 Antes de começar a jogar, os jogadores devem responder coletivamente às perguntas abaixo. Cada resposta moldará o cenário inicial e dará o tom da aventura. Pensem juntos, discutam possibilidades e escolham o que mais inspira o grupo.
 
@@ -65,11 +72,7 @@ Os exemplos de resposta são apenas isso: exemplos. Os jogadores devem se sentir
 
     * Planeta gelado: neve branca em todas as direções, silêncio desolador, frio que ameaça congelar até a esperança.
 
-## Como usar essas perguntas
-
-Cada resposta é uma peça do quebra-cabeça que define o início da história. Vejo o exemplo abaixo. 
-
-### Escolhas dos jogadores
+### Um exemplo escolhas
 
 **Tipo de nave**: Transporte científico, levando uma equipe de exploradores e arqueólogos para estudar ruínas alienígenas em um sistema distante.
 
@@ -81,7 +84,7 @@ Cada resposta é uma peça do quebra-cabeça que define o início da história. 
 
 **Primeira visão ao sair da nave**: Uma planície coberta por cristais gigantes que brilham sob o sol, refletindo cores hipnóticas. O chão vibra levemente, como se o planeta respirasse. Ao longe, há formações que lembram ruínas antigas.
 
-### Narrativa
+### A historia 
 
 A nave Aurora não foi destruída na queda. Embora marcada por cicatrizes metálicas e compartimentos selados às pressas, ela continua habitável. Os corredores e os laboratórios permanecem funcionais. É aqui que a tripulação encontra abrigo, organiza suprimentos e planeja suas incursões ao mundo exterior.
 

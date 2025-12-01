@@ -84,24 +84,23 @@ markdown_extensions:
 
 nav:
   - Início: index.md  
-  - Monocerus:     
-    - monocerus/introdução.md
-    - monocerus/basico.md
-    - monocerus/jogo/ferramentas.md     
-    - monocerus/jogo/desafios.md
-    - monocerus/jogo/consequencias.md   
+  - Sob um Céu Estranho:     
+    - monocerus/sob_um_ceu_estranho/inicio.md
+    - monocerus/sob_um_ceu_estranho/basico.md
     - Personagens:
-      - monocerus/personagens/criaçao.md
-      - monocerus/personagens/arquetipos.md            
-      - monocerus/personagens/aspectos.md
-      - monocerus/personagens/habilidades.md
-      - monocerus/personagens/passados.md
-      - monocerus/personagens/motivações.md
-      - monocerus/personagens/fraquezas.md      
+      - monocerus/sob_um_ceu_estranho/personagens/criaçao.md
+      - monocerus/sob_um_ceu_estranho/personagens/arquetipos.md
+      - monocerus/sob_um_ceu_estranho/personagens/aspectos.md
+      - monocerus/sob_um_ceu_estranho/personagens/habilidades.md
+      - monocerus/sob_um_ceu_estranho/personagens/passados.md
+      - monocerus/sob_um_ceu_estranho/personagens/motivações.md
+      - monocerus/sob_um_ceu_estranho/personagens/fraquezas.md
+    - O Jogo:
+      - monocerus/jogo/desafios.md
+      - monocerus/jogo/ferramentas.md
+      - monocerus/jogo/consequencias.md
     - Narrador:
-      - monocerus/narrador/contadores.md
-      - Ameaças:        
-        - monocerus/narrador/antagonistas.md
-        - monocerus/narrador/perigos.md            
-    - monocerus/game_design/diario.md      
+      - monocerus/narrador/antagonistas.md
+    - Game Design:
+      - monocerus/game_design/diario.md         
   - Sobre Esse Blog: page_about.md

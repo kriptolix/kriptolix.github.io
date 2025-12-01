@@ -6,7 +6,7 @@ authors:
 date: 2025-10-1
 ---
 
-Esse registro de game designing é uma tentativa de dar transparência às decisões que tomei durante o desenvolvimento do Mono. Uma vez que eu escolhi tornar o Mono um jogo aberto, eu quis dividir não só o resultado corrente (já que o resultado final nem está pronto ainda), mas também todas etapas, dramas e dúvidas que levaram a escolha de cada um dos elementos que o compõe. Eu acredito sinceramente que abrir a caixa preta do processo de desenvolvimento pode ajudar outros designers.  
+Esse registro de game designing é uma tentativa de dar transparência às decisões que tomei durante o desenvolvimento do Mono, que é framework que da base a mecanica usada em Sob um Céu Estranho. Uma vez que eu escolhi tornar Sob um Céu Estranho um jogo aberto, eu quis dividir não só o resultado corrente (já que o resultado final nem está pronto ainda), mas também todas etapas, dramas e dúvidas que levaram a escolha de cada um dos elementos que o compõe. Eu acredito sinceramente que abrir a caixa preta do processo de desenvolvimento pode ajudar outros designers.  
 
 ## A Motivação
 
