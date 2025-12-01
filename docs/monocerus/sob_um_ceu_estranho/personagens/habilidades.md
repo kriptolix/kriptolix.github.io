@@ -16,13 +16,13 @@ Todas as habilidades gerais têm custo :octicons-circle-16: e a lista a seguir c
 
 ## Habilidades Estranhas
 
-Habilidades estranhas são usadas para representar características exóticas que seres humanos comuns nao possuem. Elas são dividias em dois tipos: Psiquismo e Fisiologia exotica. Todas as habilidades estranhas custam :octicons-circle-16::octicons-circle-16: e, assim como Arquetipos, apenas um personagem pode ter cada uma delas.
+Habilidades estranhas são usadas para representar características exóticas que seres humanos comuns nao possuem. Elas são dividias em dois tipos: Psiquismo e Fisiologia exotica. Todas as habilidades estranhas custam :octicons-circle-16::octicons-circle-16: e, assim como Arquétipos, apenas um personagem pode ter cada uma delas.
 
 ### Psiquismo
 
-Por uma característica natural da sua especie, um salto evolutivo recente ou qualquer outro motivo, o personagem apresenta habilidades psiquicas emergentes. A maneira como a habilidade se apresenta fica a cargo do jogador.
+Por uma característica natural da sua especie, um salto evolutivo recente ou qualquer outro motivo, o personagem apresenta habilidades psíquicas emergentes. A maneira como a habilidade se apresenta fica a cargo do jogador.
 
-!!! Note "Exmplos"
+!!! Note "Exemplos"
 
     Empatia telepática, leitura de aura, percepção extrassensorial, psicometria, telecinese, rajada neural, vibração mental ou força psicossomática. Ilusões mentais, aura de desvio, camuflagem psíquica, premonição, sexto sentido, clarividência microtemporal, análise instintiva e etc.
 
@@ -65,7 +65,7 @@ Ecos mais antigos, traumáticos ou confusos podem ser intensos, causando dores d
 
 ### Fisiologia Exotica
 
-O personagem tem capacidades fisiologicas impossíveis para um ser humano comum. Escolher uma dessas características implica que o personagem não é humano ou, no minimo, é um mutante. 
+O personagem tem capacidades fisiológicas impossíveis para um ser humano comum. Escolher uma dessas características implica que o personagem não é humano ou, no mínimo, é um mutante. 
 
 #### Membro Adaptável
 

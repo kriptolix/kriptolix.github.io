@@ -79,6 +79,6 @@ Todas as características que alterem o grau do personagem em uma certa situaç�
 Às vezes, ambas as situações vão ocorrer. Nesses casos, o grau padrão do personagem naquela ação passa a ser o grau referido e depois é alterado pelo grau modificado que é empilhado sobre ele. 
 
 !!! note "Exemplo"
-    O tenente Aran é um oficial de segurança treinado para operar em ambientes hostis, e possui o **Arquetipo Combatente**, que lhe garante **Controle Alto** ao usar armamento de energia portátil. Isso significa que, sempre que estiver manipulando rifles de pulso, pistolas de plasma ou armas similares, seu grau base de Controle é Alto, em vez do padrão **Baixo**. 
+    O tenente Aran é um oficial de segurança treinado para operar em ambientes hostis, e possui o **Arquétipo Combatente**, que lhe garante **Controle Alto** ao usar armamento de energia portátil. Isso significa que, sempre que estiver manipulando rifles de pulso, pistolas de plasma ou armas similares, seu grau base de Controle é Alto, em vez do padrão **Baixo**. 
 
 Caso aconteça do personagem possuir duas características que alteram o grau base para uma certa situação, só a maior delas se aplica.

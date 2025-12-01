@@ -18,9 +18,9 @@ Pense no Arquétipo como um esqueleto narrativo: uma estrutura inicial que você
 
 Arquétipos são intrinsecamente ligados ao cenário em que o jogo ocorre e não é possível criá-los de uma forma ampla e geral sem perder de vista o seu propósito. Os exemplos a seguir levam em conta gêneros populares e, apesar de poderem ser usados como estão, são apresentados aqui mais como guias de como arquétipos devem ser criados.
 
-## Resumo dos arquetipos
+## Resumo dos arquétipos
 
-Os arquetipos disponíveis em Sob um Céu Estranho são:
+Os arquétipos disponíveis em Sob um Céu Estranho são:
 
 **O Comandante** – Líder, é quem mantém o grupo unido sob pressão. Toma decisões rápidas, coordena ações e inspira outras pessoas a agir além de seus limites.
 
@@ -38,11 +38,14 @@ Os arquetipos disponíveis em Sob um Céu Estranho são:
 
 ## Jogando como o estranho
 
-Os arquétipos definem o papel geral do seu persoagem, mas não a sua natureza. Nada obriga os personagens a serem humanos. Se você desejar jogar com um personagem alienígena ou qualquer outra criatura de fisiologia semelhante a humana basta declarar isso, descrever sua raça e aparência.
+Os arquétipos definem o papel geral do seu personagem, mas não a sua natureza. Nada obriga os personagens a serem humanos. Se você desejar jogar com um personagem alienígena ou qualquer outra criatura de fisiologia semelhante a humana basta declarar isso, descrever sua raça e aparência.
 
-No entanto, se você quiser ir além da aparência e jogar com um personagem de fisiologia estranha, existem algumas opções. No final do capitulo de **Habilidades** são apresentadas as opções para adicionar poderes psiquicos ou fisiologia exotica a um personagem.
+No entanto, se você quiser ir além da aparência e jogar com um personagem de fisiologia estranha, existem algumas opções. No final do capitulo de **Habilidades** são apresentadas as opções para adicionar poderes psíquicos ou fisiologia exotica a um personagem.
 
 **Nota**: Por enquanto nao é possível jogar com robôs, androides e outros seres sintéticos, mas essa possibilidade sera adicionada no futuro.
 
 
-(Arquetipos completos serão inseridos em breve)
+(Arquétipos completos serão inseridos em breve)
+
+
+--8<-- "docs/monocerus/sob_um_ceu_estranho/personagens/engenheiro.md"
