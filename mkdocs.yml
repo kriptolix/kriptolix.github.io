@@ -87,6 +87,8 @@ nav:
   - Sob um Céu Estranho:     
     - monocerus/sob_um_ceu_estranho/inicio.md
     - monocerus/sob_um_ceu_estranho/basico.md
+    - Nave:
+      - monocerus/sob_um_ceu_estranho/nave/criando_a_nave.md
     - Personagens:
       - monocerus/sob_um_ceu_estranho/personagens/criaçao.md
       - monocerus/sob_um_ceu_estranho/personagens/arquetipos.md

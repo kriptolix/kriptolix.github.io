@@ -42,10 +42,9 @@ Os arquétipos definem o papel geral do seu personagem, mas não a sua natureza.
 
 No entanto, se você quiser ir além da aparência e jogar com um personagem de fisiologia estranha, existem algumas opções. No final do capitulo de **Habilidades** são apresentadas as opções para adicionar poderes psíquicos ou fisiologia exotica a um personagem.
 
-**Nota**: Por enquanto nao é possível jogar com robôs, androides e outros seres sintéticos, mas essa possibilidade sera adicionada no futuro.
+**Nota**: Por enquanto não é possível jogar com robôs, androides e outros seres sintéticos, mas essa possibilidade será adicionada no futuro.
 
-
-(Arquétipos completos serão inseridos em breve)
-
-
+--8<-- "docs/monocerus/sob_um_ceu_estranho/personagens/doutor.md"
 --8<-- "docs/monocerus/sob_um_ceu_estranho/personagens/engenheiro.md"
+
+(O restante dos Arquétipos vai ser inserido em breve)
