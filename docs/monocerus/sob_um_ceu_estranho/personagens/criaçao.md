@@ -17,3 +17,6 @@ O primeiro passo para criar um personagem é imaginar como você quer que ele se
 * Escolha uma **Motivação**.
 * Escolha uma ou mais **Fraquezas** se quiser.
 
+Abaixo segue um exemplo de cartilha.
+
+<iframe src="../cartilhas/engenheiro.html" width="100%" height="1200px"></iframe>

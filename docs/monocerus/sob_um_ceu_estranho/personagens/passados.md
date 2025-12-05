@@ -16,6 +16,9 @@ A função principal do Passado é estabelecer uma base para que o narrador poss
 
 Passados também podem usados para justificar conhecimentos incomuns e algumas situações. Quando em um desafio, o jogador pode marcar estresse para considerar seu grau como **Razoável** num campo de conhecimento envolva o passado do personagem. Se o personagem já tem um grau igual ou melhor do que **Razoável** isso não se aplica.
 
+!!! note "Passados que passaram"
+    A ideia de ter um passado quer dizer que o personagem mudou, que ele não é mais aquela pessoa. Se o personagem ainda mantêm as habilidade e características de seu passado isso não é um passado, ainda é o que ele é. Se você não consegue pensar num passado que faça sentido pro personagem ou se o personagem for jovem demais pra ter um, você pode deixar essa opção em branco.  
+
 # Exemplos de Passado
 
 A sugestões abaixo não são restritivas. Você pode adapta-las, altera-las ou criar Passados totalmente novos em conjunto com o seu Narrador.

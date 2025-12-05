@@ -65,7 +65,7 @@ Toda característica no jogo que possuir uma graduação tem seu grau definido p
 | Superior |
 | Máximo   |
 
-O grau padrão para um personagem jogador em qualquer situação é **Padrão**, isso pode ser modificado por habilidades ou circunstâncias que garantam ao personagem aumentos ou reduções de grau. **Mínimo** e **Máximo** são considerados os limites da escala mesmo que o acúmulo de modificadores permitam subir ou descer mais que isso.
+O grau padrão para um personagem jogador em qualquer situação é **Padrão**, isso pode ser modificado por habilidades ou circunstâncias que garantam ao personagem aumentos ou reduções de grau. **Baixo** e **Máximo** são considerados os limites da escala mesmo que o acúmulo de modificadores permitam subir ou descer mais que isso.
 
 Ex: 
 
@@ -73,12 +73,12 @@ Ex:
 
 Todas as características que alterem o grau do personagem em uma certa situação, seja de controle ou de intensidade, vão se referir a essa alteração de uma entre duas formas:
 
-* Alterando o grau base para uma situação.. Ex: **Controle Alto** em armas de fogo.
+* Alterando o grau base para uma situação.. Ex: **Controle Elevado** em armas de fogo.
 * Modificando o grau de forma incremental. Ex: Aumenta um grau o **Controle** em armas de fogo.
 
 Às vezes, ambas as situações vão ocorrer. Nesses casos, o grau padrão do personagem naquela ação passa a ser o grau referido e depois é alterado pelo grau modificado que é empilhado sobre ele. 
 
 !!! note "Exemplo"
-    O tenente Aran é um oficial de segurança treinado para operar em ambientes hostis, e possui o **Arquétipo Combatente**, que lhe garante **Controle Alto** ao usar armamento de energia portátil. Isso significa que, sempre que estiver manipulando rifles de pulso, pistolas de plasma ou armas similares, seu grau base de Controle é Alto, em vez do padrão **Baixo**. 
+    O tenente Aran é um oficial de segurança treinado para operar em ambientes hostis, e possui o **Arquétipo Tático**, que lhe garante **Controle Elevado** ao usar armamento de energia portátil. Isso significa que, sempre que estiver manipulando rifles de pulso, pistolas de plasma ou armas similares, seu grau base de Controle é Alto, em vez de **Padrão**. 
 
 Caso aconteça do personagem possuir duas características que alteram o grau base para uma certa situação, só a maior delas se aplica.

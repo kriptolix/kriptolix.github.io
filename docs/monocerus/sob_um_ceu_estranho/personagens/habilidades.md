@@ -12,7 +12,7 @@ Habilidades representam ações ou capacidades de um personagem que resultam em 
 
 Todas as habilidades gerais têm custo :octicons-circle-16: e a lista a seguir cobre apenas habilidades gerais, ou seja, habilidades que qualquer personagem pode adquirir. A maioria das habilidades de um personagem, no entanto, está ligada ao seu **Arquétipo**.
 
-(Em construção...)
+(Em processo de adequação...)
 
 ## Habilidades Estranhas
 
@@ -48,6 +48,7 @@ Marque estresse para obter um insight emocional útil sobre um ser vivo, como: m
 Você altera a percepção de alguém — não necessariamente criando ilusões completas, mas distorções simples e eficazes.
 
 Marque estresse para:
+
 * parecer estar em outro lugar por um instante para um alvo,
 * esconder um detalhe relevante para um alvo,
 * distrair um alvo com uma sensação falsa (som, cheiro, presença),
@@ -58,6 +59,7 @@ Marque estresse para:
 Ao tocar um objeto, você desperta ecos psíquicos deixados nele
 
 Ao tocar um objeto marque estresse para obter impressões sobre sobre ele como:
+
 * captar vislumbres ou flashes de um momento significativo ligado ao objeto.
 * perceber emoções fortes associadas ao objeto. Medo, alegria, raiva, etc.
 

@@ -78,7 +78,7 @@ Uma vez obtido o resultado dos dados, o jogador terá que fazer algumas escolhas
 
     **6+:**  Escolha dois, ou um duas vezes: 
 
-    * Um jogador rola um dado a mais a partir de agora ¹ 
+    * Um jogador rola um dado a mais a partir de agora¹. 
     * Recupere estresse. 
     * Cause uma Consequência Moderada (uma Consequência Intensa se escolhido duas vezes). 
 
@@ -86,12 +86,12 @@ Uma vez obtido o resultado dos dados, o jogador terá que fazer algumas escolhas
 
     **3-5:**  Como acima, mas também escolha um: 
 
-    * Role um dado a menos só na próxima rolagem. 
+    * Role um dado a menos só na próxima rolagem². 
     * Sofra uma Consequência Limitada. 
 
     **1-2:**  Escolha um: 
 
-    * Role um dado a menos a partir de agora.  
+    * Role um dado a menos a partir de agora².  
     * Sofra uma Consequência Moderada. 
 
 ¹ Não pode ser escolhido se o jogador já rola tres dados.<br>
@@ -138,7 +138,7 @@ Quando um personagem SOFRE Consequências, verificamos os elementos que poderiam
 
 Ex:
 
-!!! note "Mas, e se chutar alguém?"
+!!! note "Mas, e se eu chutar alguém?"
 
     O nível de intensidade de um personagem para ações, seja para agravar ou atenuar consequências, é um valor potencial. Isso significa que, por exemplo, se o personagem carrega uma espada mas decide atacar alguém com um chute a espada ainda conta para o seu nível de intensidade. O mesmo acontece para proteções.
 
@@ -146,10 +146,12 @@ Ex:
 
 ## Superando limites
 
-Em certas circunstâncias a situação do personagem pode ser tão desfavorável que não faz sentido sequer que haja um teste para definir o que acontece. Em outros, o personagem pode estar dando tudo de si, custe o que custar, para conseguir alguma coisa. Nesses e em outros casos específicos o personagem precisa Superar Limites. 
+Em certas circunstâncias a situação do personagem pode ser tão desfavorável que não faz sentido sequer que haja um teste para definir o que acontece. Em outros, o personagem pode estar dando tudo de si, custe o que custar, para conseguir alguma coisa. Nesses e em outros casos específicos o personagem precisa **Superar Limites**. 
 
-Superar limites permite que: 
+**Superar Limites** permite que: 
 
 * O personagem ignore, durante uma jogada, quaisquer condições que o estejam afetando. 
 * O personagem aumente em um grau qualquer efeito físico que envolva segurar, erguer ou mover objetos pesados, prender a respiração ou resistir a sono e cansaço.
-* O personagem realize um teste mesmo que a diferença de magnitude tornasse a ação impossível.
+* O personagem realize um teste mesmo que a diferença de magnitude de **Controle** tornasse a ação impossível.
+
+**Superar Limites** exige que o jogador marque estresse.

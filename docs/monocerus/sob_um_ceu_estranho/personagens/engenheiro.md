@@ -19,7 +19,7 @@ Considere que o Engenheiro tem **Controle Moderado** quando:
 
 Considere que o Engenheiro tem **Controle Elevado** quando:
 
-* Realiza reparos improvisados em crises (fissuras no casco, falhas de energia).
+* Realiza reparos improvisados em crises.
 * Compreende e adapta tecnologia desconhecida ou alienígena.
 
 
@@ -41,7 +41,7 @@ Com fios expostos, chips avulsos e muito talento, você força comunicação com
 Quando tudo parece perdido, você realiza um milagre. Marque estresse para consertar instantaneamente qualquer equipamento ou sistema danificado, ele permanece funcionando até o final da cena.
 
 #### Ressonância Controlada
-Usando ferramentas vibratórias, scanners e conhecimento técnico, você enfraquece materiais ou estruturas. Uma vez por cena, escolha um objeto, porta, estrutura. O a próxima Consequência que o objeto sofrer aumenta um Grau.
+Usando ferramentas vibratórias, scanners e conhecimento técnico, você enfraquece materiais ou estruturas. Uma vez por cena, escolha um objeto, porta, estrutura. A próxima Consequência que o objeto sofrer aumenta um Grau.
 
 #### Reconfiguração Rápida
 Você canibaliza equipamento para criar outro com novas funções. Uma vez por cena, escolha um equipamento funcional que você tenha em mãos e explique como você o configura para uma outra função. Um scanner que vira uma arma sônica, um teaser se torna uma bateria, etc.
@@ -50,7 +50,7 @@ Você canibaliza equipamento para criar outro com novas funções. Uma vez por c
 você constrói um pequeno drone capaz de ser aviado para observar uma e coletar informações. Uma vez por cena, marque estresse para ter visão aérea de um lugar, para escutar uma conversa, ou para mapear uma estrutura.
 
 #### Voo suborbital
-Apesar do estado da nave, você ainda consegue fazer com que ela voe pequenas distâncias através do planeta. Uma vez por sessão você pode mover a nave para uma outra localização. A nova não pode fazer nada além de voar e isso esgota as reservas de energia (ainda a pensar).
+Apesar do estado da nave, você ainda consegue fazer com que ela voe pequenas distâncias através do planeta. Uma vez por sessão você pode mover a nave para uma outra localização. A nova não pode fazer nada além de voar.
 
 #### Redirecionar energia
 Os sistemas da nave estão desligados ou avariados, mas você consegue redirecionar energia ou fazer reparos para usá-los. Uma vez por sessão, marque estresse para um utilizar um dos subsistemas desativados na nave:

@@ -36,7 +36,7 @@ Os arquétipos disponíveis em Sob um Céu Estranho são:
 
 **O Primitivo** – Profundamente familiarizado com a vida na natureza. Capaz de rastrear criaturas, construir armadilhas improvisadas e identificar perigos.
 
-## Jogando como o estranho
+## Jogando com o estranho
 
 Os arquétipos definem o papel geral do seu personagem, mas não a sua natureza. Nada obriga os personagens a serem humanos. Se você desejar jogar com um personagem alienígena ou qualquer outra criatura de fisiologia semelhante a humana basta declarar isso, descrever sua raça e aparência.
 
