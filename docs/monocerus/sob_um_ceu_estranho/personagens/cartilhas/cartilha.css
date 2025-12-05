@@ -164,9 +164,11 @@ input[type="checkbox"] {
     border-radius: 50%;
     /* deixa redondo */
     background: var(--bg);
-    cursor: pointer;
+    cursor: pointer;    
     display: inline-block;
-    vertical-align: middle;
+    vertical-align: middle; 
+    margin-left: 0px;
+    margin-right: 0px;
     /* força alinhamento com o texto */    
 }
 
@@ -232,13 +234,27 @@ input[type="checkbox"] {
 .grid-2 {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 5px;
+    gap: 2px;
 }
 
-.grid-3 {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 5px;
+.grid-3 {    
+    column-count: 3;
+    gap: 2px;
+    padding: 10px;
+}
+
+.grid-3 .name {    
+    margin-bottom: 6px;
+    margin-left: 4px;
+    letter-spacing: 0.3px;
+}
+
+.grid-3 .title {
+    margin: 2px;
+    font-weight: 700;
+    font-family: "Crimson Text", Georgia, serif;
+    font-size: var(--subtitle-font);
+    letter-spacing: 0.3px;    
 }
 
 .list {    
@@ -259,7 +275,7 @@ input[type="checkbox"] {
 }
 
 .list h4 {
-    margin: 5px;
+    margin: 2px;
     font-family: "Crimson Text", Georgia, serif;
     font-size: var(--subtitle-font);
     letter-spacing: 0.3px;
@@ -268,9 +284,15 @@ input[type="checkbox"] {
 
 .list ul {
     margin: 0;
-    padding-left: 18px;
+    padding-left: 6px;
     color: var(--muted);
     font-size: var(--body-font);
+}
+
+.list .name {    
+    margin-bottom: 6px;
+    margin-left: 4px;
+    letter-spacing: 0.3px;
 }
 
 /* Habilidades */
@@ -278,6 +300,7 @@ input[type="checkbox"] {
 .ability .name {
     font-weight: 700;
     margin-bottom: 6px;
+    margin-left: 4px;
     letter-spacing: 0.3px;
 }
 

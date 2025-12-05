@@ -2,10 +2,6 @@
 
 Capaz de reparar, modificar e criar tecnologias usando recursos encontrados no planeta. Hábil em manutenção de sistemas da nave, conserto de equipamentos, e improvisação de dispositivos. (Revisar descrição)
 
-### Equipamento
-
-OO - Kit de reparos. 
-
 ### Competências
 
 O Engenheiro domina máquinas, sistemas e improvisação técnica. É capaz de transformar sucata em soluções funcionais.

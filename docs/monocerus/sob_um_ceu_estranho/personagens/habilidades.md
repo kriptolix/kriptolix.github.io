@@ -80,7 +80,7 @@ Você pode realizar ações que exige uma manipulação simultânea, impossível
 * resgatar alguém enquanto mantém equilíbrio;
 * usar duas ferramentas e ainda ter um membro livre.
 
-#### Exsudação Extra Funcional
+#### Exsudação Incomum
 
 Seu corpo secreta substâncias sob comando: resinas, lubrificantes, toxinas brandas, feromônios, enzimas, poeira bioluminescente, etc. 
 
@@ -92,7 +92,7 @@ Escolha um dos efeitos abaixo, marque estresse para realizar:
 * secretar enzima que dissolve material orgânico leve;
 * produzir sinal luminoso ou químico.
 
-#### Sistema Sensorial Exótico
+#### Sentido Exótico
 
 Você possui um sistema de percepção não humano: cheiro químico analítico, visão térmica, tato elétrico, percepção de pressão, camadas sensoriais na pele, eco-sensibilidade e etc.
 

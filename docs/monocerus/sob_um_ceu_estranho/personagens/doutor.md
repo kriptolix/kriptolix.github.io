@@ -2,19 +2,6 @@
 
 Médico ou especialista em saúde, com habilidades de diagnóstico e tratamento. Além de cuidar das feridas e doenças da tripulação, pode ser importante para estudar os efeitos da exposição ao ambiente alienígena. Tem conhecimento em biotecnologia, podendo até criar tratamentos inovadores a partir dos recursos disponíveis.
 
-### Equipamento
-
-Equipamento Médico
-
-O — Um conjunto básico pensado para estabilizar ferimentos leves.<br>
-OO — Uma maleta capaz de lidar com pequenos procedimentos cirúrgicos em campo.<br>
-OOO — Um módulo médico pronto para realizar até cirurgias maiores.*tags: estorvo*.
-
-Equipamento Químico
-
-OO — Uma maleta sensível projetada para análises básicas.<br>
-OOO — Uma estação robusta para analisar profundamente amostras químicas ou biológicas.*tags: estorvo*.
-
 ### Competências
 
 O Doutor é treinado para salvar vidas, compreender anatomias diversas e manter a equipe saudável sob condições extremas.

@@ -56,7 +56,6 @@ extra:
         - icon: material/rss
           link: https://www.titulomutante.com.br
 copyright: Copyright &copy; 2025 Kriptolix
-repo_url: https://github.com/kriptolix/kriptolix.github.io
 markdown_extensions:
     - tables
     - attr_list
