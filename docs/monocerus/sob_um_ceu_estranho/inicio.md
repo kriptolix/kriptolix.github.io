@@ -5,21 +5,25 @@ authors:
     - Diego C. Sampaio
 date: 2025-11-07
 ---
+<figure markdown="span">
+  ![](.//imagens/capa.png/){ width="100%" }  
+</figure>
+
 !!! danger "Aviso"
 
     Esse jogo é um trabalho em progresso e, portanto, está incompleto, além de possuir incongruências e sofrer mudanças e atualizações constantes. Quaisquer opiniões, sugestão e criticas construtivas são bem vindas.
 
-    **Ultima Atualização**: 05/12/2025
+    **Ultima Atualização**: 07/12/2025 (Algumas imagens, equipamentos e contadores adicionados)
 
 Sob um Céu Estranho é um RPG (Role-Playing Game). Este conteúdo assume que você está familiarizado com o conceito de RPG, mais especificamente de RPG de mesa e, portanto, as definições envolvidas e explicações básicas não serão abordados aqui. Caso contrario, existem muitos lugares na internet em que voce pode aprender sobre isso.
 
 ## Sobre o que é esse jogo
 
-Vocês são tripulantes de uma nave que jamais deveria ter caído. Construída para atravessar o vazio entre as estrelas, ela agora repousa ferida em um planeta primitivo, sob um céu que nenhum de vocês reconhece. O impacto foi brutal, mas não definitivo: a nave continua habitável, funcionando como abrigo e base de operações. É o último vestígio da civilização que conhecem, um refúgio frágil diante da vastidão desconhecida.
+Vocês são tripulantes de uma nave que jamais deveria ter caído. Construída para atravessar o vazio entre as estrelas, ela agora repousa ferida em um planeta primitivo, sob um céu que nenhum de vocês reconhece. O impacto foi brutal, mas não definitivo: a nave continua habitável, funcionando como abrigo e base de operações. É o último vestígio da civilização que vocês conhecem, um refúgio frágil diante da vastidão desconhecida.
 
-O planeta, por sua vez, é belo e ameaçador. Florestas exuberantes, desertos escaldantes, campos gelados, mares revoltos e outros ambientes majestosos e perigosos. Cada passo fora da nave é uma incursão em território inexplorado, onde maravilhas e perigos se confundem. Talvez vocês não estão sozinhos, há sinais de vida? ruínas antigas? forças que talvez não desejem sua presença?
+O planeta, por sua vez, é belo e ameaçador. Florestas exuberantes, desertos escaldantes, campos gelados, mares revoltos e outros ambientes majestosos e perigosos. Cada passo fora da nave é uma incursão em território inexplorado, onde maravilhas e perigos se confundem. Talvez vocês não estejam sozinhos. Há sinais de vida? ruínas antigas? forças que talvez não desejem sua presença?
 
-E, embora a nave ofereça segurança temporária, o tempo não está a favor da tripulação. Um perigo distante, mas inevitável, paira sobre todos: ciclos de destruição, mudanças ambientais fatais ou inimigos que se aproximam lentamente. Vocês têm meses, talvez menos, para explorar, descobrir e encontrar uma saída antes que o planeta se torne sua tumba.
+Embora a nave ofereça segurança temporária, o tempo não está a favor da tripulação. Um perigo distante, mas inevitável, paira sobre todos: ciclos de destruição, mudanças ambientais fatais ou inimigos que se aproximam lentamente. Vocês têm meses, talvez menos, para explorar, descobrir ou encontrar uma saída antes que o planeta se torne sua tumba.
 
 Este é o coração de Sob um Céu Estranho: um jogo de sobrevivência, exploração e descoberta. Cada decisão molda o destino da tripulação. Vocês não são apenas sobreviventes — são pioneiros em um mundo que desafia a imaginação, correndo contra o tempo para escapar de um destino inevitável.
 

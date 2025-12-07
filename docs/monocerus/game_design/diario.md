@@ -6,7 +6,7 @@ authors:
 date: 2025-10-1
 ---
 
-Esse registro de game designing é uma tentativa de dar transparência às decisões que tomei durante o desenvolvimento do Mono, que é framework que da base a mecanica usada em Sob um Céu Estranho. Uma vez que eu escolhi tornar Sob um Céu Estranho um jogo aberto, eu quis dividir não só o resultado corrente (já que o resultado final nem está pronto ainda), mas também todas etapas, dramas e dúvidas que levaram a escolha de cada um dos elementos que o compõe. Eu acredito sinceramente que abrir a caixa preta do processo de desenvolvimento pode ajudar outros designers.  
+Esse registro de game designing é uma tentativa de dar transparência às decisões que tomei durante o desenvolvimento do Mono, que é framework que da base a mecânica usada em Sob um Céu Estranho. Uma vez que eu escolhi tornar Sob um Céu Estranho um jogo aberto, eu quis dividir não só o resultado corrente (já que o resultado final nem está pronto ainda), mas também todas etapas, dramas e dúvidas que levaram a escolha de cada um dos elementos que o compõe. Eu acredito sinceramente que abrir a caixa preta do processo de desenvolvimento pode ajudar outros designers.  
 
 ## A Motivação
 
@@ -56,4 +56,7 @@ Só cheguei a um formato definitivo quando entendi o que eu realmente queria do 
 
 ### Aspectos
 
-### Habilidades
+Os Aspectos, apesar da sua similaridade com atributos, não funcionam da mesma forma. A ideia por trás deles é emular características marcantes de certos arquétipos de personagem. A escolha pelo modo binário, ou seja, por não ter um graduação nos Aspectos, veio do fato de que características marcantes em personagens de cultura pop quase nunca são graduadas, ou o personagem tem ou não tem.
+
+No caso dos Aspectos mais físicos, ainda resta um problema a ser resolvido. Eu não consegui uma forma de representar características negativas. As fraquezas fazem isso muito bem para Aspectos sociais e mentais negativos, pelo menos das manerias mais comuns em que eles aparecem na mídia, mas o mesmo método não funciona para características físicas. 
+

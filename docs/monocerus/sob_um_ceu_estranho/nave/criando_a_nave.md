@@ -66,6 +66,10 @@ O estado da IA da nave.
 ## Exemplos de Naves
 Abaixo segue alguns exemplo de naves com números variados de características. Elas podem ser adaptadas ou o Narrador pode escolher um numero diferente da pontuação padrão para ser distribuída caso deseje emular um tipo especifico de situação.
 
+<figure markdown="span">
+  ![](../imagens/queda.png/){ width="100%" }  
+</figure>
+
 ### NAVE DE COMBATE (7)
 Uma nave militar projetada para conflito, patrulha e dissuasão. Tripulação pequena, sistemas potentes, recursos focados em força e resposta rápida.
 

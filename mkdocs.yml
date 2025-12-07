@@ -97,11 +97,13 @@ nav:
       - monocerus/sob_um_ceu_estranho/personagens/motivações.md
       - monocerus/sob_um_ceu_estranho/personagens/fraquezas.md
     - O Jogo:
-      - monocerus/jogo/desafios.md
-      - monocerus/jogo/ferramentas.md
-      - monocerus/jogo/consequencias.md
+      - monocerus/sob_um_ceu_estranho/jogo/desafios.md
+      - monocerus/sob_um_ceu_estranho/jogo/ferramentas.md
+      - monocerus/sob_um_ceu_estranho/jogo/equipamento.md
+      - monocerus/sob_um_ceu_estranho/jogo/consequencias.md
     - Narrador:
-      - monocerus/narrador/antagonistas.md
+      - monocerus/sob_um_ceu_estranho/narrador/antagonistas.md
+      - monocerus/sob_um_ceu_estranho/narrador/contadores.md
     - Game Design:
       - monocerus/game_design/diario.md         
   - Sobre Esse Blog: page_about.md

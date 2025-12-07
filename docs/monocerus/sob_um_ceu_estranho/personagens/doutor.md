@@ -33,7 +33,7 @@ Você injeta potentes estimulantes e analgésicos em alguém para mantê-lo luta
 Enquanto estiver tratando alguém, você pode ignorar distrações, explosões ou ataques indiretos. Marque estresse, até o final da cena, ignore qualquer condição que não seja Dramática e que possa atrapalhar quando você estiver tratando alguém.
 
 #### O que é essa coisa....
-Você pode analisar rapidamente um organismo desconhecido e identificar uma verdade útil: fraqueza, toxina, forma de neutralização, ponto vulnerável biológico. Funciona uma vez por tipo de organismo.
+Você pode analisar rapidamente um organismo desconhecido. Marque estresse para identificar uma verdade útil: fraqueza, toxina, forma de neutralização, ponto vulnerável biológico, etc. Funciona uma vez por tipo de organismo.
 
 #### Vacina de Emergência
 Com uma amostra mínima da ameaça ou um sensor portátil, você sintetiza rapidamente um agente protetor — vacina, antídoto, quelante, micro escudo celular ou filme bioquímico. Marque estresse e prepare uma substância que concede resistência por uma cena contra qualquer perigo biológico (vírus, bactérias, esporos, parasitas, toxinas orgânicas) ou certos perigos ambientais (radiação leve a moderada, contaminação química, poeira não reativa) para um indivíduo.

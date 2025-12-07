@@ -226,21 +226,30 @@ input[type="checkbox"] {
 }
 
 .section-body {
-    padding-bottom: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
 
 /* Lista de itens */
 
 .grid-2 {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2px;
+    column-count: 2;
+    gap: 25px;
+    padding-bottom: 10px;
+    
+}
+
+.grid-2 .name {    
+    margin-bottom: 6px;
+    margin-left: 4px;
+    letter-spacing: 0.3px;
 }
 
 .grid-3 {    
     column-count: 3;
-    gap: 2px;
-    padding: 10px;
+    gap: 8px;
+    padding-top: 8px;
+    
 }
 
 .grid-3 .name {    
@@ -255,44 +264,6 @@ input[type="checkbox"] {
     font-family: "Crimson Text", Georgia, serif;
     font-size: var(--subtitle-font);
     letter-spacing: 0.3px;    
-}
-
-.list {    
-    padding: 10px;
-}
-
-.list-header {    
-    background: var(--list-title-bg);
-    display: flex;
-    align-items: center;
-}
-
-.list-header .bar {
-    width: 6px;
-    height: 22px;
-    background: var(--accent);
-    box-shadow: 0 0 0 1px var(--shadow) inset;
-}
-
-.list h4 {
-    margin: 2px;
-    font-family: "Crimson Text", Georgia, serif;
-    font-size: var(--subtitle-font);
-    letter-spacing: 0.3px;
-    
-}
-
-.list ul {
-    margin: 0;
-    padding-left: 6px;
-    color: var(--muted);
-    font-size: var(--body-font);
-}
-
-.list .name {    
-    margin-bottom: 6px;
-    margin-left: 4px;
-    letter-spacing: 0.3px;
 }
 
 /* Habilidades */

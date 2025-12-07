@@ -27,13 +27,6 @@ date: 2025-09-28
 
 </div>
 
-## Descritivos
-
-Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo, especialmente equipamentos. Os descritivos são orientações narrativas de como usar esse elemento tendo, às vezes, alguma implicação mecânica também.
-
-Ex: 
-
-
 ## Modificadores
 
 Todas as características que podem afetar uma **Jogada** e suas **Consequências** pertencem a uma de duas categorias:
