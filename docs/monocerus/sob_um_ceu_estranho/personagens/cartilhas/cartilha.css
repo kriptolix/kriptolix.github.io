@@ -21,6 +21,11 @@
     --subtitle-font: 12px;
 }
 
+@font-face {
+  font-family: kalam; /* set name */
+  src: url(kalam.bold.woff2); /* url of the font */
+}
+
 body {
     margin: 0;
     background: var(--bg);
@@ -135,11 +140,13 @@ body {
     background: transparent;    
     border: none;    
     border-bottom: 1px solid var(--line);    
-    color: var(--ink);    
+    color: var(--muted);    
     padding: 4px 2px;
     margin: 2px 0 2px;
     outline: none;    
-    resize: none;    
+    resize: none;
+    font-family: kalam;
+        
 }
 
 
@@ -169,7 +176,12 @@ input[type="checkbox"] {
     vertical-align: middle; 
     margin-left: 0px;
     margin-right: 0px;
-    /* força alinhamento com o texto */    
+    /* força alinhamento com o texto */  
+
+}
+
+input[type="checkbox"]:checked {
+    background-color: grey;
 }
 
 /* Aspectos */
@@ -234,7 +246,7 @@ input[type="checkbox"] {
 
 .grid-2 {
     column-count: 2;
-    gap: 25px;
+    gap: 8px;
     padding-bottom: 10px;
     
 }

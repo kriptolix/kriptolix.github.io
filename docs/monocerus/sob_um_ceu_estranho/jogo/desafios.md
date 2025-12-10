@@ -146,12 +146,24 @@ Ex:
 
 ## Superando limites
 
-Em certas circunstâncias a situação do personagem pode ser tão desfavorável que não faz sentido sequer que haja um teste para definir o que acontece. Em outros, o personagem pode estar dando tudo de si, custe o que custar, para conseguir alguma coisa. Nesses e em outros casos específicos o personagem precisa **Superar Limites**. 
+Em certas circunstâncias a situação do personagem pode ser tão desfavorável que não faz sentido sequer que haja um teste para definir o que acontece. Em outras, o personagem pode estar dando tudo de si, custe o que custar, para conseguir alguma coisa. Nesses e em outros casos específicos o personagem precisa **Superar Limites**. 
 
 **Superar Limites** permite que: 
 
 * O personagem ignore, durante uma jogada, quaisquer condições que o estejam afetando. 
-* O personagem aumente em um grau qualquer efeito físico que envolva segurar, erguer ou mover objetos pesados, prender a respiração ou resistir a sono e cansaço.
+* O personagem aumenta em um grau qualquer efeito que envolva segurar, erguer ou mover objetos pesados, prender a respiração ou resistir a sono e cansaço.
 * O personagem realize um teste mesmo que a diferença de magnitude de **Controle** tornasse a ação impossível.
 
 **Superar Limites** exige que o jogador marque estresse.
+
+## Coordenando ações
+
+Um personagem pode coodenar um grupo para realizar uma certa ação, na qual todos teriam de fazer a mesma rolagem, de forma coletiva. Quando isso acontecer, todos os jogadores cujos personagens estejam envolvidos na ação fazem suas rolagens, e apenas o melhor resultado entre elas é considerado. Como efeito de coordenar uma ação, o personagem que esteja liderando marca estresse para cada falha. Caso todos falhem, todos sofrem as consequências e o líder ainda marca um de estresse para cada personagem envolvido na ação.
+
+### Coordenando ações em combate
+
+É possível usar a mecanica de Coordenação de ações em um combate ou outro conflito longo, o funcionamento é exatamente mesmo. O detalhe fica por conta do fato de que, com apenas o melhor resultado é considerado, apenas a Consequência desse resultado é aplicada ao alvo. O que, em geral, não é muito eficiente para uma ofensiva mas talvez seja uma alternativa para denfender-se conta um inimigo muito superior.
+
+## Protegendo um aliado
+
+Um personagem pode escolher sofrer uma Consequência que seria aplicada a outro, desde que isso seja narrativamente possível. O protetor usa seu próprio Atenuante para calcular a intensidade da Consequência.

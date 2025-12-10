@@ -8,7 +8,7 @@ date: 2025-09-28
 
 # Perigos
 
-Representam ameaças ambientais ou situacionais que os personagens precisam superar. Os perigos são divididos em algumas estrturas que podem ser usadas para representar uma miríade de situações.
+Representam ameaças ambientais ou situacionais que os personagens precisam superar. Os perigos são divididos em algumas estruturas que podem ser usadas para representar uma miríade de situações.
 
 ## Corrida Urgente
 

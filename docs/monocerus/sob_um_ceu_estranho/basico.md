@@ -75,3 +75,22 @@ Todas as características que alterem o grau do personagem em uma certa situaç�
     O tenente Aran é um oficial de segurança treinado para operar em ambientes hostis, e possui o **Arquétipo Tático**, que lhe garante **Controle Elevado** ao usar armamento de energia portátil. Isso significa que, sempre que estiver manipulando rifles de pulso, pistolas de plasma ou armas similares, seu grau base de Controle é Alto, em vez de **Padrão**. 
 
 Caso aconteça do personagem possuir duas características que alteram o grau base para uma certa situação, só a maior delas se aplica.
+
+## Estresse e traumas
+
+Em Sob um Céu Estranho, os personagens possuem uma capacidade especial de garantir que algumas coisas aconteçam da maneira que desejam, para isso, o personagem marca Estresse. Estresse representa habilidade, sorte, destino, força de vontade e ou qualquer outra coisa que o personagem possa usar para fazer com que a historia vá numa certa direção. Algumas habilidades especiais exigem que o personagem marque estresse para utiliza-las, assim como certas situações narrativas
+
+Ex.:  (adicionar exemplo de uso)
+
+### Traumas
+
+A quantidade de estresse a quem um personagem pode ser submetido tem limites. Ultrapassar esses limites vai gerar consequências permanentes. Essas consequências são chamadas de Traumas. 
+
+Caso um personagem marque todas as oito caixas de estresse ele recebe um Trauma. Quando isso acontece o jogador deve descrever uma cena em que demonstra como o personagem vai ficar definitivamente marcado por aquele momento e escolher uma Fraqueza que combine com a situação para afetar o personagem a partir de então. Receber um trauma remove imediatamente todo o estresse acumulado pelo personagem. 
+
+Diferente de uma Fraqueza comum, o Trauma não recompensa o jogador com remoção de estresse quando é ativado, mas ainda exige marcas estresse para evitar que ele se manifeste.
+
+Ao sofrer o quarto Trauma, o personagem é considerado disfuncional demais para continuar. O jogador escolhe um fim apropriado para o personagem e descreve uma cena explicando como aconteceu. O fim pode ser morrer num momento épico, se retirar para uma posição de personagem não jogador, ser dado como perdido ou qualquer outro fim de historia que pareça interessante. 
+
+
+
