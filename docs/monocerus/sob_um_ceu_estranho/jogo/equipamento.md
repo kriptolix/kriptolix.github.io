@@ -18,11 +18,13 @@ Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo,
 
 **Pesada**: equipamento pesado existe que o personagem seja Atlético para usá-lo com eficiência. Usar equipamento pesado sem possuir Atlético vai implicar na redução de um grau de Controle nas tarefas em que o equipamento esteja envolvido.
 
-**Perigosa**: Arma capaz de causar danos sérios apenas com o toque como uma motosserra ligada, um sabre de luz ou ferro em brasa, pode causar dano passivo ou exige cuidado extremo mesmo fora do ataque.
+**Perigosa**: Item capaz de causar danos apenas com o contato, como uma motosserra ligada, um sabre de luz ou ferro em brasa, pode causar dano passivo ou exige cuidado extremo mesmo fora do combate.
 
-**Ocultável**: Fácil de esconder. Tentar esconder esse item não vai implicar em redução de um grau de Controle na tentativa.
+**Volatil**: Se o item for atingido pode causar explosões ou outros efeitos danos ao portador e/ou a uma area proxima. 
 
-**Duas mãos**: Precisa de duas mãos para ser usado.
+**Ocultável**: Fácil de esconder. Tentar esconder esse item tem grau alvo **Baixo** ou invés de **Padrão**.
+
+**Duas mãos**: Precisa de duas mãos para ser usado. Usa-lo com uma mão implica redução de um grau de **Controle** nas tarefas em que o equipamento esteja envolvido.
 
 **Recarga**: Pode ficar sem munição ou precisar ser recarregada numa rolagem de “Sucesso com custo”.
  
@@ -30,25 +32,25 @@ Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo,
 
 **Barulhento**: O equipamento faz um som alto e distinto quando usado.
 
-**Traiçoeiro**: Em uma falha, pode causar dano ao próprio usuário.
-
 **Esquisito**: É difícil ou complicado de usar. Sofre redução de um grau de **Controle** nas tarefas em que o equipamento esteja envolvido.
 
 **Desalinhada**: Arma difícil de ser utilizada contra um alvo em combate corpo a corpo. Sofre redução de um grau de **Controle**.
 
-**Arremessável**: Própria para arremesso a pequenas distâncias. Tentar arremessar uma arma que não tenha esse descritivo vai implicar na redução de um grau de **Controle**.
+**Arremesso**: Própria para arremesso a pequenas distâncias. Tentar arremessar uma arma que não tenha esse descritivo vai implicar na redução de um grau de **Controle**.
 
-**Longa distância**: Armas de longo alcance, geralmente autopropelidas.  
+**Próximo**: Longe demais pra dar um soco mas perto o suficiente para jogar algo.
 
-**Média distância**: Armas para uso a distâncias, em geral arcos e bestas.
+**Afastado**: Longe demais pra jogar algo, mas perto o suficiente para um tiro fácil.
 
-**Curta distância**: Armas para uso a distâncias, lanças e itens de arremesso.
+**Distante**: Longe demais pra um tiro fácil, mas perto o suficiente para reconhecer.
 
-**servo-assistência**: o item torna o usuário mais forte através de micro motores. Especialmente util em ambientes de ultra gravidade.
+**Servo-assistência**: o item torna o usuário mais forte através de micro motores. Especialmente util em ambientes de ultra gravidade.
 
-**auto-mira**: A arma escolhe alvos sem a intervenção do usuário.
+**Area**: O item afeta uma area, Para saber o tamanho da área imagine um círculo suficientemente grande para caber um(a): sedan(+24), lancha(+35), casa(+47), quarteirão(+60).
 
-**função-assistida**: a principal função do item é auxiliada por computador. O grau mínimo de Controle para ações que digam respeito a essa função é Razoável.
+**Auto-mira**: A arma escolhe alvos sem a intervenção do usuário.
+
+**Auto-assistência**: a principal função do item é auxiliada por computador. O grau mínimo de Controle para ações que digam respeito a essa função é Razoável.
 
 **Obs**: Os itens abaixo ainda nao contam com Descritivos mas eles serão adicionados.
 
@@ -56,45 +58,43 @@ Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo,
 
 ### Armas Improvisadas (Agravante Razoável)
 
-● Bastão improvisado — Um pedaço de metal ou madeira encontrado após a queda.
+● Bastão — Um pedaço de metal ou madeira encontrado após a queda.
 
-● Faca improvisada — Lâmina feita de sucata afiada; útil para cortar, caçar ou lutar.
+● Faca improvisada — Lâmina feita de sucata afiada; útil para cortar, caçar ou lutar. *Tags: Ocultável, Frágil.*
 
-● Estilingue improvisado — Usa pedras ou parafusos como munição; baixa precisão.
+● Estilingue improvisado — Usa pedras ou parafusos como munição; baixa precisão.*Tags: Ocultável, Frágil, Esquisito, Próximo.*
 
-● Arma de manutenção — Pistola técnica usada para cortar materiais leves; baixa capacidade ofensiva. 
+● Arma de manutenção — Pistola técnica usada para cortar materiais leves; baixa capacidade ofensiva.*Tags: Ocultável, Esquisito.* 
 
-### Armas Básicas (Agravante Elevado)
+●-● Bastão de arco elétrico — Ferramenta convertida em arma de choque contínuo.*Tags: Requisito: Engenhearia Básica, Perigoso, Recarga, Frágil.* 
+
+●-● Carga de corte — Explosivo controlado para abrir portas ou perfurações.*Tags: Requisito: Engenhearia Básica, Volatil.*
+
+### Arsenal Básico (Agravante Elevado)
 
 Obs: Inclui arcos, lanças e outras armas primitivas. 
 
-● Pistola energética padrão — Dispara rajadas de energia de baixa potência. 
+● Pistola padrão — Dispara rajadas de energia de baixa potência.*Tags: Recarga, Afastado.* 
 
-● Pistola compacta de bolso — Arma energética pequena, fácil de esconder. 
+● Pistola compacta — Arma energética pequena, fácil de esconder.*Tags: Recarga, Ocultável, Proximo.* 
 
-●-● Bastão de choque — Arma corpo-a-corpo com descarga elétrica. 
+●-● Bastão de choque — Arma corpo-a-corpo com descarga elétrica.*Tags: Recarga, Perigoso.* 
 
-● Faca tática — Lâmina de liga resistente; usada por combatentes. 
+● Faca tática — Lâmina de liga resistente; usada por combatentes.*Tags: Arremesso.* 
 
 ● Arma de pulso curto — Pequena arma de curto alcance que gera pulsos de energia. 
 
-● Arma não-letal (dardos anestésicos) — Pistola que dispara projéteis sedativos.
+● Arma não-letal (dardos anestésicos) — Pistola que dispara projéteis sedativos.*Tags: Recarga, Afastado.* 
 
-●-● Bastão sonoro de dissuasão — Emite vibrações sonoras que atordoam. 
+●-● Bastão sonoro de dissuasão — Emite vibrações sonoras que atordoam.(?) 
 
-●-● Bastão de arco elétrico — Ferramenta convertida em arma de choque contínuo. 
-
-●-● Carga de corte — Explosivo controlado para abrir portas ou perfurações. 
-
-### Arsenal Militar Completo (Agravante Superior)
+### Arsenal Militar (Agravante Superior)
 
 ● Faca monomolecular — Lâmina hiperafiada feita com borda molecular. 
 
-●-● Rifle de pulso — Arma padrão de infantaria; alto poder.
+●-● Rifle de plasma — Arma padrão de infantaria; alto poder. *Tags: Recarga, Duas Mãos, Distante.*
 
 ●-● Arma de ondas neurais (não letal) — Atordoa inimigos com pulsos direcionados. 
-
-●-● Carabina leve tática — Versão portátil com boa precisão. 
 
 ●-● Carabina de Pulso Leve - Arma energética compacta que dispara pulsos de energia estáveis e de média potência. 
 
@@ -114,12 +114,6 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 
 ●-● Minas de disrupção — Criam pulsos que desativam eletrônicos. 
 
-●-● Escudo portátil — Barra de energia gerada por um bracelete ou mochila. 
-
-●-●-● Escudo tático pesado — Versão maior usada por unidades militares. 
-
-●-●-● Torreta danificada reativável — Unidade defensiva com mobilidade mínima. 
-
 ### Armaduras e proteções (Atenuante Razoável)
 
 ●-● Roupa reforçada — Tecido resistente a cortes e abrasões. 
@@ -131,6 +125,12 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 ●-● Armadura leve de combate — Peitoral, braçais e proteção de pernas; mobilidade razoável. 
 
 #### Proteções Militares (Atenuante Superior)
+
+●-● Escudo portátil — Barra de energia gerada por um bracelete ou mochila. 
+
+●-●-● Escudo tático pesado — Versão maior usada por unidades militares. 
+
+●-●-● Torreta danificada reativável — Unidade defensiva com mobilidade mínima. 
 
 ●-●-● Traje espacial reforçado — Versão avançada, mais pesada e completa.
 

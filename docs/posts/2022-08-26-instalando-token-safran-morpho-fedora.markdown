@@ -4,8 +4,6 @@ title:  "Instalando o token Safran Morpho no Fedora 36 (Update 2025, Fedora 41)"
 date: 2022-08-23
 categories: 
   - technologies
-
-
 ---
 
 Este artigo visa orientar a instalação do token Safran Morpho no Fedora Worksatation 36, mas instruções gerais serão apresentadas e talvez seja possível adaptá-lo a outras distros. Também não vou tratar aqui de instalação da caideia de certificados, já que as cadeias necessárias variam de acordo com o com o tempo a instituição.
