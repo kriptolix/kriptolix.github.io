@@ -67,8 +67,8 @@ Para se definir o resultado da rolagem apenas o  dado com o valor mais alto impo
 
 **6+ : Abençoado** \- As coisas foram melhor do que esperado, você consegue mais do que pretendia.  
 **6 : Favorável** \- Os acontecimentos estão indo no sentido do que você queria que acontecesse.  
-**3-5: Confuso** \- Houve algum progresso, mas alguma coisa que não estava nos planos atrapalhou o resultado.  
-**1-2: Sinistro** \- Seus esforços foram em vão, algo deu errado e as coisas não estão indo bem.
+**4-5: Confuso** \- Houve algum progresso, mas alguma coisa que não estava nos planos atrapalhou o resultado.  
+**1-3: Sinistro** \- Seus esforços foram em vão, algo deu errado e as coisas não estão indo bem.
 
 ### Agindo de acordo
 

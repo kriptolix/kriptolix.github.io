@@ -19,4 +19,6 @@ O primeiro passo para criar um personagem é imaginar como você quer que ele se
 
 Abaixo segue um exemplo de cartilha.
 
-<iframe src="../cartilhas/engenheiro.html" width="100%" height="1200px"></iframe>
+<iframe src="../cartilhas/engenheiro.html" width="100%" height="1173px" frameborder="0"></iframe>
+
+<iframe src="../cartilhas/doutor.html" width="100%" height="1173px" frameborder="0"></iframe>

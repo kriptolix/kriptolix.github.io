@@ -1,25 +1,30 @@
-:root > * {
+:root>* {
   /* Fundo principal (corpo do site) */
-  --md-default-bg-color:        #f4ecd8;   /* sépia claro */
+  --md-default-bg-color: #f4ecd8;
+  /* sépia claro */
   --md-default-bg-color--light: #f8f1e3;
-  --md-default-bg-color--dark:  #e8dcc2;
+  --md-default-bg-color--dark: #e8dcc2;
 
   /* Texto sobre fundo claro */
-  --md-typeset-color:           #2a2a2a;   /* cinza escuro para leitura */
+  --md-typeset-color: #2a2a2a;
+  /* cinza escuro para leitura */
 
   /* Títulos e cabeçalhos */
-  --md-primary-fg-color:        #1c1c1e;   /* preto grafite para topo */
+  --md-primary-fg-color: #1c1c1e;
+  /* preto grafite para topo */
   --md-primary-fg-color--light: #2a2a2d;
-  --md-primary-fg-color--dark:  #121213;
+  --md-primary-fg-color--dark: #121213;
 
   /* Links com cor fria para contraste */
-  --md-accent-fg-color:         #3e5c76;   /* azul acinzentado */
-  --md-accent-fg-color--light:  #6c8ca3;
-  --md-accent-fg-color--hover:  #2a4a63;
+  --md-accent-fg-color: #3e5c76;
+  /* azul acinzentado */
+  --md-accent-fg-color--light: #6c8ca3;
+  --md-accent-fg-color--hover: #2a4a63;
   --md-accent-fg-color--transparent: rgba(62, 92, 118, 0.1);
 
   /* Bordas e divisores */
-  --md-divider-color:           #c2b8a3;   /* sépia médio */
+  --md-divider-color: #c2b8a3;
+  /* sépia médio */
 }
 
 a:hover {
@@ -28,7 +33,12 @@ a:hover {
   text-decoration-color: var(--md-accent-fg-color--hover);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: var(--md-primary-fg-color);
 }
 
@@ -47,21 +57,50 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 1.2rem;
 }
 
-/* Segunda linha (maior) */
-.custom-header-subtitle {
-  font-size: 2.5rem; 
-  line-height: 1.2;
-  margin-left: 1rem;
-}
-
-/* Segunda linha (maior) */
+/* Título grande em desktop */
+.custom-header-subtitle,
 .custom-header-monocerus {
-  font-size: 2.5rem; 
-  line-height: 1.2;  
+  font-size: 2.5rem;
+  line-height: 1.2;
 }
 
-/* Permite que o header cresça com o conteúdo */
-.md-header {
-  height: 130px !important;
-  padding-bottom: 1rem; /* Espaço opcional para respirar */
+/* Ajuste para telas menores */
+@media (max-width: 600px) {
+
+  .custom-header-subtitle,
+  .custom-header-monocerus {
+    font-size: 1.6rem;
+    /* menor no celular */
+    margin-left: 0;
+    /* remove deslocamento lateral */
+    text-align: center;
+    /* centraliza */
+  }
+
+  .custom-header-line {
+    font-size: 1rem;
+    text-align: center;
+    align-self: center;
+  }
+
+  .md-header {
+    height: auto !important;
+    /* deixa crescer conforme o conteúdo */
+    padding-bottom: 0.5rem;
+  }
+
+  .page-wrapper {
+    transform: scale(0.6);
+    /* reduz proporcionalmente */
+    transform-origin: top left;
+    /* garante que comece do canto superior */
+    width: 794px;
+    /* largura A4 em px */
+    height: 1123px;
+    /* altura A4 em px */
 }
+
+}
+
+
+

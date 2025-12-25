@@ -2,7 +2,7 @@
     --bg: #ffffff;
     /* fundo branco */
     --panel: #DBDCDE;
-    --list-title-bg:#BBBDC0;
+    --list-title-bg: #BBBDC0;
     /* painel cinza muito claro */
     --ink: #000000;
     /* texto preto */
@@ -22,8 +22,10 @@
 }
 
 @font-face {
-  font-family: kalam; /* set name */
-  src: url(kalam.bold.woff2); /* url of the font */
+    font-family: kalam;
+    /* set name */
+    src: url(kalam.bold.woff2);
+    /* url of the font */
 }
 
 body {
@@ -38,8 +40,8 @@ body {
     background: var(--bg);
     display: block;
     margin: 0 auto;
-    margin-top: 0.5cm;
-    margin-bottom: 0.5cm;
+    margin-top: 20px;
+    margin-bottom: 20px;
     width: 794px;
     height: 1123px;
     box-shadow: 0 0 0.5cm var(--shadow)
@@ -98,14 +100,14 @@ body {
 
 /* Layout em colunas: lateral (estatutos/recursos) + conteúdo */
 
-.content {
+.contente {
     display: grid;
-    grid-template-columns: 30% 1fr;
+    grid-template-columns: 20% 1fr;
     gap: 0;
 }
 
 /* Sidebar */
-.sidebar {        
+.sidebar {
     padding: 12px;
     font-size: var(--body-font);
 }
@@ -114,7 +116,7 @@ body {
 
 .card {
     border: 1px solid var(--line);
-    margin-bottom: 10px;    
+    margin-bottom: 10px;
 }
 
 .card .title {
@@ -137,28 +139,28 @@ body {
 
 .text-header {
     width: 100%;
-    background: transparent;    
-    border: none;    
-    border-bottom: 1px solid var(--line);    
-    color: var(--muted);    
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid var(--line);
+    color: var(--muted);
     padding: 4px 2px;
     margin: 2px 0 2px;
-    outline: none;    
+    outline: none;
     resize: none;
     font-family: kalam;
-        
+
 }
 
 .text-invisible {
     width: 100%;
-    background: transparent;    
-    border: none;           
-    color: var(--muted);    
-    padding: 4px 2px;   
-    outline: none;    
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    padding: 4px 2px;
+    outline: none;
     resize: none;
     font-family: kalam;
-        
+
 }
 
 
@@ -183,12 +185,12 @@ input[type="checkbox"] {
     border-radius: 50%;
     /* deixa redondo */
     background: var(--bg);
-    cursor: pointer;    
+    cursor: pointer;
     display: inline-block;
-    vertical-align: middle; 
+    vertical-align: middle;
     margin-left: 0px;
     margin-right: 0px;
-    /* força alinhamento com o texto */  
+    /* força alinhamento com o texto */
 
 }
 
@@ -196,24 +198,7 @@ input[type="checkbox"]:checked {
     background-color: grey;
 }
 
-/* Aspectos */
 
-.actions {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 5px;
-}
-
-.action-label {
-    font-weight: 600;
-    letter-spacing: 0.4px;
-}
-
-.abilities {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 5px;
-}
 
 /* Área principal com seções modulares */
 
@@ -260,23 +245,23 @@ input[type="checkbox"]:checked {
     column-count: 2;
     gap: 8px;
     padding-bottom: 10px;
-    
+
 }
 
-.grid-2 .name {    
+.grid-2 .name {
     margin-bottom: 6px;
     margin-left: 4px;
     letter-spacing: 0.3px;
 }
 
-.grid-3 {    
+.grid-3 {
     column-count: 3;
     gap: 8px;
     padding-top: 8px;
-    
+
 }
 
-.grid-3 .name {    
+.grid-3 .name {
     margin-bottom: 6px;
     margin-left: 4px;
     letter-spacing: 0.3px;
@@ -287,21 +272,32 @@ input[type="checkbox"]:checked {
     font-weight: 700;
     font-family: "Crimson Text", Georgia, serif;
     font-size: var(--subtitle-font);
-    letter-spacing: 0.3px;    
+    letter-spacing: 0.3px;
 }
 
 /* Habilidades */
 
+.ability {
+    margin-bottom: 6px;
+
+}
+
 .ability .name {
     font-weight: 700;
     margin-bottom: 6px;
-    margin-left: 4px;
     letter-spacing: 0.3px;
 }
 
 .ability .desc {
     color: var(--muted);
     font-size: var(--body-font);
+}
+
+.ability .zero {
+    font-weight: 700;
+    margin-bottom: 6px;
+    margin-left: 3px;
+    margin-right: 3px;
 }
 
 .right .card {

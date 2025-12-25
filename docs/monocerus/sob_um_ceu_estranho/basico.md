@@ -51,12 +51,12 @@ Toda característica no jogo que possuir uma graduação tem seu grau definido p
 
 |          |
 |----------|
-| Baixo    |
-| Padrão   |
-| Razoável |
-| Elevado  |
-| Superior |
 | Máximo   |
+| Superior |
+| Elevado  |
+| Razoável |
+| Padrão   |
+| Baixo    |
 
 O grau padrão para um personagem jogador em qualquer situação é **Padrão**, isso pode ser modificado por habilidades ou circunstâncias que garantam ao personagem aumentos ou reduções de grau. **Baixo** e **Máximo** são considerados os limites da escala mesmo que o acúmulo de modificadores permitam subir ou descer mais que isso.
 

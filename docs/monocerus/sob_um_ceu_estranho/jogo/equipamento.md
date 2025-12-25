@@ -52,6 +52,14 @@ Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo,
 
 **Auto-assistência**: a principal função do item é auxiliada por computador. O grau mínimo de Controle para ações que digam respeito a essa função é Razoável.
 
+**Laser**: Emite pulsos laser de baixa energia. Alcance limitado, mas alta confiabilidade e zero risco de perfuração estrutural.
+
+**Plasma**: Emissor de plasma de curto alcance que projeta energia térmica instável. Extremamente eficaz a curta distância, causando queimaduras severas e sobrecarga de sistemas. O plasma se dissipa rapidamente, tornando a arma segura para uso em naves e instalações pressurizadas.
+
+**Partículas**: Dispara um feixe concentrado de partículas energizadas. instantâneo,silencioso e virtualmente sem queda.
+
+**Gauss**: Dispara micro-projéteis metálicos acelerados por bobinas eletromagnéticas, com potência ajustável.
+
 **Obs**: Os itens abaixo ainda nao contam com Descritivos mas eles serão adicionados.
 
 ## Armas e outras coisas perigosas
@@ -74,11 +82,13 @@ Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo,
 
 Obs: Inclui arcos, lanças e outras armas primitivas. 
 
-● Pistola padrão — Dispara rajadas de energia de baixa potência.*Tags: Recarga, Afastado.* 
+● Pistola padrão — Pistola de uso geral. Dispara micro-projéteis metálicos acelerados por bobinas eletromagnéticas, com potência ajustável. Em potência reduzida, não perfura cascos nem estruturas críticas.*Tags: Recarga, Afastado.*
 
-● Pistola compacta — Arma energética pequena, fácil de esconder.*Tags: Recarga, Ocultável, Proximo.* 
+● Pistola compacta — Arma projetada para ocultação que emite pulsos laser de baixa energia. Alcance limitado, mas alta confiabilidade e zero risco de perfuração estrutural. *Tags: Recarga, Ocultável, Proximo.* 
 
-●-● Bastão de choque — Arma corpo-a-corpo com descarga elétrica.*Tags: Recarga, Perigoso.* 
+carabina civil -Arma longa simples e robusta para defesa de perímetro e controle de fauna. Fácil manutenção, munição padronizada e modos não letais.
+
+●-● Bastão de choque — Bastão retrátil que envolve o alvo em um arco de plasma de baixa temperatura. Causa dor intensa, espasmos musculares e desorientação sem danos permanentes. Totalmente seguro para uso em naves e estações..*Tags: Recarga, Perigoso.* 
 
 ● Faca tática — Lâmina de liga resistente; usada por combatentes.*Tags: Arremesso.* 
 
@@ -90,9 +100,19 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 
 ### Arsenal Militar (Agravante Superior)
 
+● Pistola Pesada - Arma de grande calibre eletromagnético, projetada para neutralizar alvos blindados ou criaturas de grande porte. Seus projéteis densos atingem velocidades extremas, transferindo energia massiva ao impacto. Pode atravessar paredes e veículos não blindados. *Tags: Recarga, Afastado.*
+
+●-● Submetralhadora compacta - Arma eletromagnética compacta de alta cadência, projetada para combate em ambientes confinados. Usa micro-projéteis leves e um sistema de alimentação horizontal. Excelente controle, baixo recuo e modos não letais integrados.
+
+●-● Metralhadora leve - Arma de apoio portátil que dispara projéteis gauss de média potência em fogo sustentado. Utiliza baterias e capacitores intercambiáveis. Ideal para supressão de área sem destruição estrutural excessiva.
+
+●-●-● Metralhadora pesada - Sistema pesado de supressão que emite pulsos de partículas de alta energia. Capaz de atravessar veículos, escudos e fortificações leves. Geralmente montada em tripé ou veículo devido ao alto consumo energético.
+
 ● Faca monomolecular — Lâmina hiperafiada feita com borda molecular. 
 
-●-● Rifle de plasma — Arma padrão de infantaria; alto poder. *Tags: Recarga, Duas Mãos, Distante.*
+●-● Fuzil de Assalto — Rifle eletromagnético automático, equilibrando cadência, alcance e controle. Dispara projéteis padrão com excelente precisão e baixa assinatura sonora. Pode alternar entre modos letais e de supressão, ajustando a velocidade do projétil. *Tags: Recarga, Duas Mãos, Distante.*
+
+●-● Escopeta de Plasma - Emissor de plasma de curto alcance que projeta um cone de energia térmica instável. Extremamente eficaz a curta distância, causando queimaduras severas e sobrecarga de sistemas. O plasma se dissipa rapidamente, tornando a arma segura para uso em naves e instalações pressurizadas.
 
 ●-● Arma de ondas neurais (não letal) — Atordoa inimigos com pulsos direcionados. 
 
@@ -100,13 +120,21 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 
 ●-● Rifle leve furtivo — Arma silenciada e com baixa assinatura energética. 
 
-●-●-● Lança-granadas inteligente — Equipamento que dispara projéteis assistidos. 
+●-●-● Rifle de Precisão - Arma de longo alcance que dispara um feixe concentrado de partículas energizadas. instantâneo,silencioso e virtualmente sem queda. Requer tempo de recarga e resfriamento entre tiros. 
+
+●-●-● Lança-granadas modular — Sistema portátil de lançamento de cápsulas energéticas. As granadas não usam explosivos químicos; são cápsulas de plasma ou emissores de partículas que se ativam no impacto ou por proximidade. Seguro para uso em ambientes pressurizados, dependendo do tipo de munição.
+
+lança-granadas acoplável - Módulo acoplável a rifles gauss. Dispara granadas de curto alcance, usadas para controle de área, negação de passagem e efeitos não letais. Muito comum em forças coloniais.
+
+●-●-● Míssil portátil anti-veículo - Sistema portátil de lançamento de mísseis inteligentes. Utiliza propulsão convencional e ogiva de impacto cinético assistido por pulso de partículas, eficaz contra veículos, drones e naves de baixa altitude. Extremamente perigoso para uso em ambientes urbanos ou pressurizados.
 
 ●-● Explosivos de demolição — Cargas potentes usadas para estruturas e combate. 
 
-● Granadas inteligentes (concussão/controle) — Dispositivos que calculam trajetória automática. 
+● Granada de plasma.
 
-● Granada sônica — Gera onda de choque sonora não letal. 
+● Granada PEM
+
+● Granada de pulso sônico — Gera onda de choque sonora não letal. 
 
 ● Minas adesivas — Fixam-se a superfícies antes de detonar. 
 
@@ -121,6 +149,12 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 ●-●-● Traje espacial padrão — Protege contra vácuo e ambientes hostis; limitado em mobilidade.
 
 #### Proteções Básicas (Atenuante Elevado)
+
+Escudos
+
+Tecnologia: Campo de energia direcional
+Descrição:
+Escudos pessoais que desviam projéteis e dissipam energia. Limitados por capacidade energética.
 
 ●-● Armadura leve de combate — Peitoral, braçais e proteção de pernas; mobilidade razoável. 
 
@@ -164,7 +198,7 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 
 ●-● Kits de estabilização estrutural — Evitam desabamentos ou estabilizam paredes. 
 
-### Equipamento cientifico de de exploração
+### Equipamento cientifico e de exploração
 
 #### Equipamento Básico
 
@@ -181,8 +215,6 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 ●-● Drones exploradores — Mapeiam áreas remotas; transmitem dados. 
 
 ●-●-● Laboratório portátil — Equipamento para análises avançadas. 
-
-●-●-● Laboratório científico completo — Unidade volumosa e modular. 
 
 ### Medicina e suporte biológico
 
@@ -211,6 +243,19 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 ● Água purificada ou módulos de filtragem — Suprimento essencial. 
 
 ●-● Mochila de sobrevivência — Leva ferramentas, comida e mantimentos.
+
+TRAJES
+Traje espacial padrão
+
+Tecnologia: Pressurização, suporte de vida e blindagem leve
+Descrição:
+Traje de trabalho espacial. Protege contra vácuo, radiação leve e impactos mínimos.
+
+Traje espacial de combate
+
+Tecnologia: Blindagem ativa + escudo integrado
+Descrição:
+Versão militarizada com reforço estrutural, sensores táticos e proteção contra armas de energia.
 
 #### Itens Avançados
 
