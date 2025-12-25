@@ -57,11 +57,18 @@ h6 {
   font-size: 1.2rem;
 }
 
-/* Título grande em desktop */
-.custom-header-subtitle,
-.custom-header-monocerus {
+/* Segunda linha (maior) */
+.custom-header-subtitle {
   font-size: 2.5rem;
   line-height: 1.2;
+  margin-left: 1rem;
+}
+
+/* Permite que o header cresça com o conteúdo */
+.md-header {
+  height: 130px !important;
+  padding-bottom: 1rem;
+  /* Espaço opcional para respirar */
 }
 
 /* Ajuste para telas menores */
@@ -69,24 +76,25 @@ h6 {
 
   .custom-header-subtitle,
   .custom-header-monocerus {
-    font-size: 1.6rem;
-    /* menor no celular */
-    margin-left: 0;
-    /* remove deslocamento lateral */
+    font-size: 1.3rem;    
+    margin-left: 0;    
     text-align: center;
-    /* centraliza */
+   
+  }
+  
+  .custom-header-monocerus{
+    margin-top: 32px;
   }
 
   .custom-header-line {
-    font-size: 1rem;
+    font-size: 0.7rem;
     text-align: center;
     align-self: center;
   }
 
   .md-header {
-    height: auto !important;
-    /* deixa crescer conforme o conteúdo */
-    padding-bottom: 0.5rem;
+    height: 90px !important;   
+    padding-bottom: 0.4rem;
   }
 
   .page-wrapper {
@@ -98,9 +106,6 @@ h6 {
     /* largura A4 em px */
     height: 1123px;
     /* altura A4 em px */
-}
+  }
 
 }
-
-
-

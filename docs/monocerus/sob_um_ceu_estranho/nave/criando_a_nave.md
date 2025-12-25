@@ -9,7 +9,7 @@ date: 2025-09-28
 
 Depois de responder às perguntas iniciais, os jogadores escolheram os detalhes da nave. Eles têm seis :octicons-circle-16: para escolher características na cartilha da nave. Essas escolhas não refletem tudo o que a nave era, mas sim aquilo que realmente sobreviveu a queda e está ativo e funcional. o :octicons-x-circle-16: representa o nível padrão de cada característica.
 
-<iframe src="../../personagens/cartilhas/nave.html" width="100%" height="1173px" frameborder="0"></iframe>
+<iframe src="../nave.html" width="100%" height="1173px" frameborder="0"></iframe>
 
 ## Arsenal
 Define o acesso a armas e equipamentos bélicos.
