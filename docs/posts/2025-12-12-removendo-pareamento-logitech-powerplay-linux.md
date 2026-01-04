@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Removendo pareamento do  Logitech Powerplay no Linux"
+title:  "Removendo pareamento do Logitech Powerplay no Linux"
 date: 2025-12-12
 categories: 
   - technologies

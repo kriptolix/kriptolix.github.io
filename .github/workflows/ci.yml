@@ -4,6 +4,8 @@ on:
     branches:
       - master
       - main
+    paths-ignore:
+      - ".github/last_post_sent"
 permissions:
   contents: write
 jobs:
@@ -31,7 +33,14 @@ jobs:
       - run: pip install requests
       - run: mkdocs gh-deploy --force
       - name: Post to Mastodon via RSS 
-        run: python mastodon_post_rss.py 
+        run: python .github/scripts/mastodon_post.py 
         env: 
           MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }} 
           MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+      - name: Commit last post send state
+        run: |
+          if [[ -f .github/last_post_sent ]]; then            
+            git add .github/last_post_sent
+            git diff --cached --quiet || git commit -m "chore: last post sent updated"
+            git push
+          fi

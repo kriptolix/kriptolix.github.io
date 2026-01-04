@@ -36,7 +36,7 @@ plugins:
         archive: false
     - search
     - rss:
-          match_path: docs/posts/.*
+          match_path: "posts/.*"
           date_from_meta:
             as_creation: date
           categories:
@@ -54,7 +54,7 @@ extra:
         - icon: material/github
           link: https://github.com/kriptolix
         - icon: material/rss
-          link: https://www.titulomutante.com.br
+          link: https://www.titulomutante.com.br/feed_rss_created.xml
 copyright: Copyright &copy; 2025 Kriptolix
 markdown_extensions:
     - tables
