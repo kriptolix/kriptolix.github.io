@@ -16,11 +16,13 @@ Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo,
 
 **Estorvo**: O item é muito grande e/ou pesado e impossível de esconder, é difícil de carregar sem algum tipo de aparato próprio para transporte. Um personagem só pode carregar um de cada vez e, ao fazê-lo, é considerado Sobrecarregado. Tentar carregar um segundo item com esse descritivo vai fazer com o que o personagem se mova tão lentamente que pode ser considerado imóvel para todos os efeitos.
 
+**Area**: O efeito que a ferramenta causa afeta uma area, podendo afetar mais de um alvo de uma vez. O efeito final aumenta um grau se usado contra um grupo. Para saber o tamanho da área imagine um círculo suficientemente grande para caber um(a): sedan(pequena), lancha(media), casa(grande), quarteirão(enorme).
+
 **Pesada**: equipamento pesado existe que o personagem seja Atlético para usá-lo com eficiência. Usar equipamento pesado sem possuir Atlético vai implicar na redução de um grau de Controle nas tarefas em que o equipamento esteja envolvido.
 
 **Perigosa**: Item capaz de causar danos apenas com o contato, como uma motosserra ligada, um sabre de luz ou ferro em brasa, pode causar dano passivo ou exige cuidado extremo mesmo fora do combate.
 
-**Volatil**: Se o item for atingido pode causar explosões ou outros efeitos danos ao portador e/ou a uma area proxima. 
+**Volátil**: Se o item for atingido pode causar explosões ou outros efeitos danos ao portador e/ou a uma area proxima. 
 
 **Ocultável**: Fácil de esconder. Tentar esconder esse item tem grau alvo **Baixo** ou invés de **Padrão**.
 
@@ -38,6 +40,8 @@ Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo,
 
 **Arremesso**: Própria para arremesso a pequenas distâncias. Tentar arremessar uma arma que não tenha esse descritivo vai implicar na redução de um grau de **Controle**.
 
+**Não-letal**: efeitos danosos causando pelo item não causam dano letal.
+
 **Próximo**: Longe demais pra dar um soco mas perto o suficiente para jogar algo.
 
 **Afastado**: Longe demais pra jogar algo, mas perto o suficiente para um tiro fácil.
@@ -45,8 +49,6 @@ Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo,
 **Distante**: Longe demais pra um tiro fácil, mas perto o suficiente para reconhecer.
 
 **Servo-assistência**: o item torna o usuário mais forte através de micro motores. Especialmente util em ambientes de ultra gravidade.
-
-**Area**: O item afeta uma area, Para saber o tamanho da área imagine um círculo suficientemente grande para caber um(a): sedan(+24), lancha(+35), casa(+47), quarteirão(+60).
 
 **Auto-mira**: A arma escolhe alvos sem a intervenção do usuário.
 
@@ -74,29 +76,27 @@ Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo,
 
 ● Arma de manutenção — Pistola técnica usada para cortar materiais leves; baixa capacidade ofensiva.*Tags: Ocultável, Esquisito.* 
 
-●-● Bastão de arco elétrico — Ferramenta convertida em arma de choque contínuo.*Tags: Requisito: Engenhearia Básica, Perigoso, Recarga, Frágil.* 
+●-● Bastão de arco elétrico — Ferramenta convertida em arma de choque contínuo.*Tags: Requisito: Engenharia Básica, Perigoso, Recarga, Frágil.* 
 
-●-● Carga de corte — Explosivo controlado para abrir portas ou perfurações.*Tags: Requisito: Engenhearia Básica, Volatil.*
+●-● Carga de corte — Explosivo controlado para abrir portas ou perfurações.*Tags: Requisito: Engenharia Básica, Volátil, Area: Pequena.*
 
 ### Arsenal Básico (Agravante Elevado)
 
-Obs: Inclui arcos, lanças e outras armas primitivas. 
+Obs: Inclui arcos, lanças e outras armas primitivas.
 
-● Pistola padrão — Pistola de uso geral. Dispara micro-projéteis metálicos acelerados por bobinas eletromagnéticas, com potência ajustável. Em potência reduzida, não perfura cascos nem estruturas críticas.*Tags: Recarga, Afastado.*
+● Faca tática — Lâmina de liga resistente; usada por combatentes.*Tags: Arremesso.*
+
+● Pistola — Pistola de uso geral. Dispara micro-projéteis metálicos acelerados por bobinas eletromagnéticas, com potência ajustável. Em potência reduzida, não perfura cascos nem estruturas críticas.*Tags: Recarga, Afastado.*
 
 ● Pistola compacta — Arma projetada para ocultação que emite pulsos laser de baixa energia. Alcance limitado, mas alta confiabilidade e zero risco de perfuração estrutural. *Tags: Recarga, Ocultável, Proximo.* 
 
-carabina civil -Arma longa simples e robusta para defesa de perímetro e controle de fauna. Fácil manutenção, munição padronizada e modos não letais.
+●-● Carabina Civil -Arma longa simples e robusta para defesa de perímetro e controle de fauna. Fácil manutenção, munição padronizada e modos não letais.
 
 ●-● Bastão de choque — Bastão retrátil que envolve o alvo em um arco de plasma de baixa temperatura. Causa dor intensa, espasmos musculares e desorientação sem danos permanentes. Totalmente seguro para uso em naves e estações..*Tags: Recarga, Perigoso.* 
 
-● Faca tática — Lâmina de liga resistente; usada por combatentes.*Tags: Arremesso.* 
+● Arma de dardos — Pistola que dispara projéteis sedativos.*Tags: Recarga, Afastado.* 
 
-● Arma de pulso curto — Pequena arma de curto alcance que gera pulsos de energia. 
-
-● Arma não-letal (dardos anestésicos) — Pistola que dispara projéteis sedativos.*Tags: Recarga, Afastado.* 
-
-●-● Bastão sonoro de dissuasão — Emite vibrações sonoras que atordoam.(?) 
+●-● Bastão sonoro de dissuasão — Emite vibrações sonoras que atordoam.*Tags: Não-Letal.* 
 
 ### Arsenal Militar (Agravante Superior)
 
@@ -114,17 +114,13 @@ carabina civil -Arma longa simples e robusta para defesa de perímetro e control
 
 ●-● Escopeta de Plasma - Emissor de plasma de curto alcance que projeta um cone de energia térmica instável. Extremamente eficaz a curta distância, causando queimaduras severas e sobrecarga de sistemas. O plasma se dissipa rapidamente, tornando a arma segura para uso em naves e instalações pressurizadas.
 
-●-● Arma de ondas neurais (não letal) — Atordoa inimigos com pulsos direcionados. 
+●-● Arma de ondas neurais — Atordoa inimigos com pulsos direcionados. 
 
-●-● Carabina de Pulso Leve - Arma energética compacta que dispara pulsos de energia estáveis e de média potência. 
-
-●-● Rifle leve furtivo — Arma silenciada e com baixa assinatura energética. 
+●-● Carabina de Pulso - Arma energética compacta que dispara pulsos de energia estáveis e de média potência. 
 
 ●-●-● Rifle de Precisão - Arma de longo alcance que dispara um feixe concentrado de partículas energizadas. instantâneo,silencioso e virtualmente sem queda. Requer tempo de recarga e resfriamento entre tiros. 
 
 ●-●-● Lança-granadas modular — Sistema portátil de lançamento de cápsulas energéticas. As granadas não usam explosivos químicos; são cápsulas de plasma ou emissores de partículas que se ativam no impacto ou por proximidade. Seguro para uso em ambientes pressurizados, dependendo do tipo de munição.
-
-lança-granadas acoplável - Módulo acoplável a rifles gauss. Dispara granadas de curto alcance, usadas para controle de área, negação de passagem e efeitos não letais. Muito comum em forças coloniais.
 
 ●-●-● Míssil portátil anti-veículo - Sistema portátil de lançamento de mísseis inteligentes. Utiliza propulsão convencional e ogiva de impacto cinético assistido por pulso de partículas, eficaz contra veículos, drones e naves de baixa altitude. Extremamente perigoso para uso em ambientes urbanos ou pressurizados.
 
@@ -150,17 +146,13 @@ lança-granadas acoplável - Módulo acoplável a rifles gauss. Dispara granadas
 
 #### Proteções Básicas (Atenuante Elevado)
 
-Escudos
-
-Tecnologia: Campo de energia direcional
-Descrição:
-Escudos pessoais que desviam projéteis e dissipam energia. Limitados por capacidade energética.
+● Escudos de Campo - Barra de energia gerada por um bracelete que desvia projéteis e dissipa energia. 
 
 ●-● Armadura leve de combate — Peitoral, braçais e proteção de pernas; mobilidade razoável. 
 
 #### Proteções Militares (Atenuante Superior)
 
-●-● Escudo portátil — Barra de energia gerada por um bracelete ou mochila. 
+●-● Escudo portátil — Barra de energia gerada por uma mochila. 
 
 ●-●-● Escudo tático pesado — Versão maior usada por unidades militares. 
 

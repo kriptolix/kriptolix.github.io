@@ -1,22 +1,51 @@
 ## O Doutor
 
-Médico ou especialista em saúde, com habilidades de diagnóstico e tratamento. Além de cuidar das feridas e doenças da tripulação, pode ser importante para estudar os efeitos da exposição ao ambiente alienígena. Tem conhecimento em biotecnologia, podendo até criar tratamentos inovadores a partir dos recursos disponíveis.
+O Doutor sustenta a linha tênue entre vida e morte. Em condições ideais, já seria indispensável; em um planeta alienígena, ele se torna um explorador da biologia desconhecida.
+
+O Doutor atua como pesquisador de campo e cientista aplicado. Ele analisa amostras, identifica compostos desconhecidos, estuda organismos locais e testa hipóteses com recursos mínimos. Sua compreensão permite transformar dados brutos em tratamentos, antídotos e procedimentos. 
+
 
 ### Competências
 
-O Doutor é treinado para salvar vidas, compreender anatomias diversas e manter a equipe saudável sob condições extremas.
+O Doutor é competente em:
 
-Considere que o Doutor **Controle Moderado** quando:
+* Diagnosticar doenças, ferimentos e condições anormais.
 
-* Diagnostica doenças comuns, toxinas e ferimentos físicos.
-* Utiliza equipamentos médicos ou laboratoriais.
-* Recorda protocolos sobre biologia, imunologia e química.
-* Improvise tratamentos com recursos escassos ou não convencionais.
+* Tratar ferimentos e estabilizar pacientes.
 
-Considere que o Doutor **Controle Elevado** quando:
+* Operar equipamentos médicos.
 
-* Opera ou trata ferimentos graves sob pressão.
-* Reconhece ameaças biológicas novas.
+* Criar e analisar compostos (remédios, toxinas, substâncias).
+
+* Recordar protocolos de biologia, imunologia e química.
+
+### Sugestões de Aparência e Estilo
+
+* Olhos Precisos, Olhos Gentis, Olhos Analíticos.
+
+* Cabelo Preso, Cabelo Curto Limpo, Cabelo Desarrumado.
+
+* Traje Médico, Roupas Estéreis Adaptadas, Roupas Funcionais.
+
+* Corpo Delicado, Corpo Esbelto, Corpo Frágil.
+
+* Olhos atentos demais para feridas pequenas.
+
+* Mochila médica sempre à mão.
+
+* Luvas manchadas que nunca parecem limpas.
+
+* Voz suave em situações horríveis.
+
+* Instrumentos adaptados a novas anatomias.
+
+### Sugestões de Nomes
+
+**Humanos:** Lívia, Eduardo, Xiu, Ren, Se-ah, Joon-seok, Meera, Sanjay, Misaki, Akira, Tatiana, Nikolai, Miriam, Jonas, Elena, Andrés, Sophie, Julien, Francesca, Matteo.
+
+**Alienígenas:** Zheel, Amara-Ti, Noq, Sehlun, Prae.
+
+**Androide:** MED-02 “Asclepto”, MED-08 “Salus”, MED-14 “Cuidador”
 
 ### Habilidades
 

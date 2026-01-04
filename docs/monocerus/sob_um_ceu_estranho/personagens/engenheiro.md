@@ -1,23 +1,50 @@
 ## O Engenheiro
 
-Capaz de reparar, modificar e criar tecnologias usando recursos encontrados no planeta. Hábil em manutenção de sistemas da nave, conserto de equipamentos, e improvisação de dispositivos. (Revisar descrição)
+O Engenheiro vê potencial onde outros veem sucata. Destroços viram ferramentas, restos viram armas, tecnologia quebrada vira esperança. Em um planeta sem infraestrutura, ele traduz engenhosidade em sobrevivência prática.
+
+Mais do que consertar, o Engenheiro improvisa. Ele entende sistemas o suficiente para quebrar regras, forçar limites e criar soluções perigosas — mas funcionais. Seus projetos raramente são elegantes, quase sempre são instáveis, mas são absolutamente vitais. 
 
 ### Competências
 
-O Engenheiro domina máquinas, sistemas e improvisação técnica. É capaz de transformar sucata em soluções funcionais.
+O Engenheiro é competente em:
 
-Considere que o Engenheiro tem **Controle Moderado** quando:
+* Reparar, adaptar e improvisar equipamentos.
 
-* Opera, calibra ou faz manutenção em equipamentos.
-* Avalia falhas, ruídos, vibrações e outros sinais de problemas mecânicos.
-* Monta ou desmonta mecanismos de baixa complexidade.
-* Lida com ferramentas e sistemas elétricos ou hidráulicos.
+* Diagnosticar falhas mecânicas e eletrônicas.
 
-Considere que o Engenheiro tem **Controle Elevado** quando:
+* Construir soluções improvisadas com poucos recursos.
 
-* Realiza reparos improvisados em crises.
-* Compreende e adapta tecnologia desconhecida ou alienígena.
+* Operar e modificar sistemas tecnológicos.
 
+* Avaliar limites e riscos de máquinas e estruturas.
+
+### Sugestões de Aparência e Estilo
+
+* Olhos Atentos, Olhos Curiosos, Olhos Exaustos.
+
+* Cabelo Oleoso, Cabelo Bagunçado, Cabelo Raspado.
+
+* Macacão Técnico, Roupas Reforçadas, Roupas Improvisadas.
+
+* Corpo Compacto, Corpo Magro, Corpo Resistente.
+
+* Mãos sempre sujas de óleo, sangue ou resina.
+
+* Ferramentas penduradas em todo lugar.
+
+* Implantes expostos ou danificados.
+
+* Óculos, visor ou sensor improvisado.
+
+* Cheiro constante de metal queimado.
+
+### Sugestões de Nomes
+
+**Humanos:** Renata, Thiago, Chen, Huang, Hae-in, Dong-hyun, Kavita, Rohan, Yumi, Taro, Irina, Pavel, Lena, Tobias, Marta, Javier, Élodie, Pierre, Alessia, Luca. 
+
+**Alienígenas:** Klik-Tar, Oolme, Xar’ith, Brenn-Ka, Uuvo.
+
+**Androide:** ENG-03 “Remendão”, ENG-09 “Funileiro”, ENG-22 “Faísca”.
 
 ### Habilidades
 

@@ -27,4 +27,11 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material
       - run: pip install mkdocs-rss-plugin
+      - run: pip install feedparser
+      - run: pip install requests
       - run: mkdocs gh-deploy --force
+      - name: Post to Mastodon via RSS 
+        run: python mastodon_post_rss.py 
+        env: 
+          MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }} 
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}

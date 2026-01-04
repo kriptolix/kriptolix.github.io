@@ -76,26 +76,28 @@ Uma vez obtido o resultado dos dados, o jogador terá que fazer algumas escolhas
 
 !!! note
 
-    **6+:**  Escolha dois, ou um duas vezes: 
+    **6+:**  Escolha dois, ou um duas vezes:
 
+    * Role um dado a mais adiante³.
     * Um jogador rola um dado a mais a partir de agora¹. 
     * Recupere estresse. 
     * Cause uma Consequência Moderada (uma Consequência Intensa se escolhido duas vezes). 
 
     **6:**	Como acima, mas escolha apenas um. 
 
-    **3-5:**  Como acima, mas também escolha um: 
+    **4-5:**  Como acima, mas também escolha um: 
 
     * Role um dado a menos só na próxima rolagem². 
     * Sofra uma Consequência Limitada. 
 
-    **1-2:**  Escolha um: 
+    **1-3:**  Escolha um: 
 
     * Role um dado a menos a partir de agora².  
     * Sofra uma Consequência Moderada. 
 
-¹ Não pode ser escolhido se o jogador já rola tres dados.<br>
-² Não pode ser escolhido se o jogador já rola apenas um dado. 
+¹ Não pode ser escolhido se o jogador já rola tres dados.
+<br>² Não pode ser escolhido se o jogador já rola apenas um dado.
+<br>³ Só pode ser escolhido em desafios simples, 3 continua sendo o limite de dados.
 
 Ex:
 

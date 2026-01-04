@@ -26,15 +26,15 @@ Os arquétipos disponíveis em Sob um Céu Estranho são:
 
 **O Engenheiro** – Especialista em tecnologia, improvisação e reparos. Conserta, adapta e reaproveita equipamentos, muitas vezes criando soluções inesperadas a partir de recursos limitados.
 
-**O Tático** – Combatente disciplinado, perito em leitura de terreno, posicionamento e estratégias de confronto. Age com precisão e mantém o grupo vivo quando a situação exige força e foco.
+**O Combatente** – Combatente disciplinado, perito em leitura de terreno, posicionamento e estratégias de confronto. Age com precisão e mantém o grupo vivo quando a situação exige força e foco.
 
 **O Doutor** – Responsável por cuidar da saúde física e mental da equipe. Entende anatomia, diagnósticos e tratamentos, sendo essencial para lidar com ferimentos, toxinas e ameaças biológicas.
-
-**O Diplomata** – Comunicador versátil capaz de acalmar tensões, negociar recursos e entender culturas desconhecidas. 
 
 **O Sobrevivente** – Adaptável, resistente e intuitivo. Combina astúcia, improviso, um pouco de lábia, um pouco de violência e uma dose indecente de sorte
 
 **O Primitivo** – Profundamente familiarizado com a vida na natureza. Capaz de rastrear criaturas, construir armadilhas improvisadas e identificar perigos.
+
+**O Diplomata** – Comunicador versátil capaz de acalmar tensões, negociar recursos e entender culturas desconhecidas. 
 
 ## Jogando com o estranho
 
