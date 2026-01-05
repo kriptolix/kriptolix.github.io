@@ -16,7 +16,7 @@ def write_last_post(file, value):
 
 
 STATE_FILE = ".github/last_post_sent"
-rss_url = "https://www.titulomutante.com.br/feed_rss_created.xml"
+# rss_url = "https://www.titulomutante.com.br/feed_rss_created.xml"
 
 instance = os.getenv("MASTODON_INSTANCE")
 token = os.getenv("MASTODON_TOKEN")
@@ -25,7 +25,13 @@ if not instance or not token:
     print("No instance ot token configured.")
     exit(0)
 
-feed = feedparser.parse(rss_url)
+# feed = feedparser.parse(rss_url)
+# Caminho absoluto baseado no diretório atual do workflow
+
+workspace = os.getenv("GITHUB_WORKSPACE", os.getcwd())
+rss_path = os.path.join(workspace, "site", "feed_rss_created.xml")
+
+feed = feedparser.parse(rss_path)
 
 if not feed.entries:
     print("No items found in RSS.")
