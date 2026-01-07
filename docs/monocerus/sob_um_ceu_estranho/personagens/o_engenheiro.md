@@ -44,7 +44,7 @@ O Engenheiro é competente em:
 
 **Alienígenas:** Klik-Tar, Oolme, Xar’ith, Brenn-Ka, Uuvo.
 
-**Androide:** ENG-03 “Remendão”, ENG-09 “Funileiro”, ENG-22 “Faísca”.
+**Sintéticos:** ENG-03 “Remendão”, ENG-09 “Funileiro”, ENG-22 “Faísca”.
 
 ### Habilidades
 
@@ -83,3 +83,5 @@ Os sistemas da nave estão desligados ou avariados, mas você consegue redirecio
 * Armas (se a nave possuir).
 * Projetores de campo.
 * Câmeras internas.
+
+<iframe src="../cartilhas/engenheiro.html" width="100%" height="1173px" frameborder="0"></iframe>

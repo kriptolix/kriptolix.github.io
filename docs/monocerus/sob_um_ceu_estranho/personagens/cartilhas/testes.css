@@ -40,7 +40,7 @@
 /* Cabeçalho */
 
 .logo{
-    padding: 4px;
+    padding: 8px;
     background: var(--accent);
     color: var(--accent-ink);
     font-family: "Crimson Text", Georgia, serif;
@@ -48,12 +48,17 @@
     font-size: 28px;
     font-weight: 700;
     line-height: 1em;
-    text-align: center;    
+    text-align: center;
+    float: right;
+    margin-left: 12px;
+          
 }
+
 
 .brand {
     font-family: "Crimson Text", Georgia, serif;
     letter-spacing: 0.5px;
+    
 }
 
 .brand h1 {
@@ -255,6 +260,13 @@ input[type="checkbox"]:checked {
     gap: 0px;
     margin-bottom: 8px;
     margin-top: 8px;
+}
+
+.noflow-2{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
 }
 
 .grid-2 .name { 

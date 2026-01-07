@@ -4,7 +4,6 @@ O Doutor sustenta a linha tênue entre vida e morte. Em condições ideais, já 
 
 O Doutor atua como pesquisador de campo e cientista aplicado. Ele analisa amostras, identifica compostos desconhecidos, estuda organismos locais e testa hipóteses com recursos mínimos. Sua compreensão permite transformar dados brutos em tratamentos, antídotos e procedimentos. 
 
-
 ### Competências
 
 O Doutor é competente em:
@@ -45,7 +44,7 @@ O Doutor é competente em:
 
 **Alienígenas:** Zheel, Amara-Ti, Noq, Sehlun, Prae.
 
-**Androide:** MED-02 “Asclepto”, MED-08 “Salus”, MED-14 “Cuidador”
+**Sintéticos:** MED-02 “Asclepto”, MED-08 “Salus”, MED-14 “Cuidador”
 
 ### Habilidades
 
@@ -82,3 +81,5 @@ Você administra um composto neuroinibidor — dardo, spray, gás — no alvo. M
 **Dormir**: o alvo fica inconsciente por uma cena ou até ser despertado.
 **Paralisar**: o alvo fica incapaz de se mover, mas consciente; qualquer tentativa de agir sofre grande desvantagem.
 **Desorientar**: o alvo sofre uma **Condição Moderada** apropriada (tontura, lentidão, visão turva, espasmos).
+
+<iframe src="../cartilhas/doutor.html" width="100%" height="1173px" frameborder="0"></iframe>

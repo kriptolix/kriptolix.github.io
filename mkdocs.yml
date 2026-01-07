@@ -90,13 +90,16 @@ nav:
       - monocerus/sob_um_ceu_estranho/nave/criando_a_nave.md
     - Personagens:
       - monocerus/sob_um_ceu_estranho/personagens/criação.md
-      - monocerus/sob_um_ceu_estranho/personagens/arquetipos.md
+      - Arquetipos:
+        - monocerus/sob_um_ceu_estranho/personagens/arquetipos.md
+        - monocerus/sob_um_ceu_estranho/personagens/o_engenheiro.md
+        - monocerus/sob_um_ceu_estranho/personagens/o_doutor.md      
       - monocerus/sob_um_ceu_estranho/personagens/aspectos.md
       - monocerus/sob_um_ceu_estranho/personagens/habilidades.md
       - monocerus/sob_um_ceu_estranho/personagens/passados.md
       - monocerus/sob_um_ceu_estranho/personagens/motivações.md
       - monocerus/sob_um_ceu_estranho/personagens/fraquezas.md
-      - monocerus/sob_um_ceu_estranho/personagens/progressão.md
+      - monocerus/sob_um_ceu_estranho/personagens/progressão.md      
     - O Jogo:
       - monocerus/sob_um_ceu_estranho/jogo/desafios.md
       - monocerus/sob_um_ceu_estranho/jogo/ferramentas.md

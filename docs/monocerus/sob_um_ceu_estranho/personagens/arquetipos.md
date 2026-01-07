@@ -41,10 +41,3 @@ Os arquétipos disponíveis em Sob um Céu Estranho são:
 Os arquétipos definem o papel geral do seu personagem, mas não a sua natureza. Nada obriga os personagens a serem humanos. Se você desejar jogar com um personagem alienígena ou qualquer outra criatura de fisiologia semelhante a humana basta declarar isso, descrever sua raça e aparência.
 
 No entanto, se você quiser ir além da aparência e jogar com um personagem de fisiologia estranha, existem algumas opções. No final do capitulo de **Habilidades** são apresentadas as opções para adicionar poderes psíquicos ou fisiologia exotica a um personagem.
-
-**Nota**: Por enquanto não é possível jogar com robôs, androides e outros seres sintéticos, mas essa possibilidade será adicionada no futuro.
-
---8<-- "docs/monocerus/sob_um_ceu_estranho/personagens/doutor.md"
---8<-- "docs/monocerus/sob_um_ceu_estranho/personagens/engenheiro.md"
-
-(O restante dos Arquétipos vai ser inserido em breve)
