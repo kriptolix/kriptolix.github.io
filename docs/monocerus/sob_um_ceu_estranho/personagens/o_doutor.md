@@ -1,4 +1,8 @@
-## O Doutor
+---
+title: O Doutor
+authors:
+    - Diego C. Sampaio
+---
 
 O Doutor sustenta a linha tênue entre vida e morte. Em condições ideais, já seria indispensável; em um planeta alienígena, ele se torna um explorador da biologia desconhecida.
 
@@ -82,4 +86,6 @@ Você administra um composto neuroinibidor — dardo, spray, gás — no alvo. M
 **Paralisar**: o alvo fica incapaz de se mover, mas consciente; qualquer tentativa de agir sofre grande desvantagem.
 **Desorientar**: o alvo sofre uma **Condição Moderada** apropriada (tontura, lentidão, visão turva, espasmos).
 
-<iframe src="../cartilhas/doutor.html" width="100%" height="1173px" frameborder="0"></iframe>
+### Cartilha
+
+<iframe src="../cartilhas/doutor.html" width="100%" height="1200px" frameborder="0"></iframe>

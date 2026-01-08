@@ -27,6 +27,14 @@
   /* sépia médio */
 }
 
+a {
+  text-decoration: underline;
+}
+
+a.toclink, a.md-tabs__link{
+  text-decoration: none;
+}
+
 a:hover {
   color: var(--md-accent-fg-color--hover);
   text-decoration: underline;
@@ -58,7 +66,7 @@ h6 {
 }
 
 /* Segunda linha (maior) */
-.custom-header-subtitle {
+.custom-header-subtitle, .custom-header-monocerus {
   font-size: 2.5rem;
   line-height: 1.2;
   margin-left: 1rem;

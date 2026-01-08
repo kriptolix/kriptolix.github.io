@@ -1,4 +1,8 @@
-## O Engenheiro
+---
+title: O Engenheiro
+authors:
+    - Diego C. Sampaio
+---
 
 O Engenheiro vê potencial onde outros veem sucata. Destroços viram ferramentas, restos viram armas, tecnologia quebrada vira esperança. Em um planeta sem infraestrutura, ele traduz engenhosidade em sobrevivência prática.
 
@@ -84,4 +88,6 @@ Os sistemas da nave estão desligados ou avariados, mas você consegue redirecio
 * Projetores de campo.
 * Câmeras internas.
 
-<iframe src="../cartilhas/engenheiro.html" width="100%" height="1173px" frameborder="0"></iframe>
+### Cartilha
+
+<iframe src="../cartilhas/engenheiro.html" width="100%" height="1200px" frameborder="0"></iframe>
