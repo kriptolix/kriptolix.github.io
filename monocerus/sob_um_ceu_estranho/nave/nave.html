@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Cartilha — Cavaleiro Errante</title>
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&family=Source+Sans+3:wght@400;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="nave.css">
+
+</head>
+
+<body>
+    <div class="page">
+
+        <header class="header">
+            <div class="brand">
+                <h1>A Nave</h1>
+                <p>A nave, o refugio, a origem</p>
+            </div>
+            <div class="meta">
+                <span class="tag">Cartilha</span>
+                <span class="muted">Versão protótipo</span>
+            </div>
+        </header>
+
+
+        <div class="content">
+            <!------------------------------- Sidebar --------------->
+            <div class="sidebar">
+
+                <div class="card">
+                    <div class="title">Nome e detalhes</div>
+                    <div class="body">
+                        <div class="muted">Qual é a origem da tripulação e o propósito da nave?</div>
+                        <input type="text" class="text-header" />
+                        <div class="muted">Como e porque a nave caiu?</div>
+                        <input type="text" class="text-header" />                        
+                        <div class="muted">Por que a nave não consegue mais viajar pelo espaço?</div>
+                        <input type="text" class="text-header" />
+                        <div class="muted">Por que é imperativo sair do planeta o quanto antes?</div>
+                        <input type="text" class="text-header" />
+                        <div class="muted">O que vocês veem quando saem da nave pela primeira vez?</div>
+                        <input type="text" class="text-header" /> 
+                    </div>
+                </div>             
+
+            </div>
+
+            <!------------------------------- Main --------------->
+
+            <div class="right">
+                <div class="archetype">
+                 
+                        <!------------------------------- Habilidades --------------->
+
+                        <section class="section">
+                            <div class="section-header">
+                                <div class="bar" aria-hidden="true"></div>
+                                <h2>Caraterísticas da Nave</h2>
+                            </div>
+
+                            <div class="section-body grid-2">
+                                
+                                <div class="ability">
+                                    <label class="name">Arsenal</label> 
+                                    <br><label class="desc">Armas e equipamentos bélicos</label>
+                                    <br><label class="zero">X</label> <label class="desc">Sem armamento: Nada além do que puderem improvisar após a queda.</label>
+                                    <br><input type="checkbox"> <label class="desc">Armas básicas: Pistolas energéticas simples, bastões, armas de defesa pessoal.</label>
+                                    <br><input type="checkbox"> <label class="desc">Arsenal militar completo: Rifles, explosivos, escudos táticos, torretas danificadas reaproveitáveis.</label>
+                                </div>
+                                
+                                <div class="ability">
+                                    <label class="name">Suprimentos</label> 
+                                    <br><label class="desc">Comida, remédios e consumíveis.</label>
+                                    <br><label class="zero">X</label> <label class="desc">Escassez extrema: Comida para poucos dias, kits médicos básicos.</label>
+                                    <br><input type="checkbox"> <label class="desc">Suprimento razoável: Rações para semanas, primeiros socorros, água purificada.</label>
+                                    <br><input type="checkbox"> <label class="desc">Suprimentos abundantes: Estoques duradouros, remédios avançados, módulos de produção de alimentos.</label>
+                                </div>  
+
+                                <div class="ability">
+                                    <label class="name">Equipamento Médico</label> 
+                                    <br><label class="desc">Equipamentos de cuidado e tratamento.</label>
+                                    <br><label class="zero">X</label> <label class="desc">Apenas curativos básicos: Enfermaria destruída ou ausente.</label>
+                                    <br><input type="checkbox"> <label class="desc">Enfermaria funcional: Medicamentos, kits de cura, equipamento para pequenas cirurgias.</label>
+                                    <br><input type="checkbox"> <label class="desc">Unidade médica avançada: Regeneradores, cápsulas médicas, drogas especializadas.</label>
+                                </div>
+                                
+                                <div class="ability">
+                                    <label class="name">Ferramentas e Engenharia</label> 
+                                    <br><label class="desc">Equipamentos técnicos, bancadas e peças.</label>
+                                    <br><label class="zero">X</label> <label class="desc">Ferramentas improvisadas: Kits simples ou danificados.</label>
+                                    <br><input type="checkbox"> <label class="desc">Ferramentas padrão: Ferramentas completas, peças sobressalentes, soldadores, scanners.</label>
+                                    <br><input type="checkbox"> <label class="desc">Ferramentas de engenharia avançada: Impressoras de peças, drones reparadores, bancos de energia reserva.</label>
+                                </div>
+                                
+                                <div class="ability">
+                                    <label class="name">Equipamentos Científicos</label> 
+                                    <br><label class="desc">Sensores, laboratórios e instrumentos de análise.</label>
+                                    <br><label class="zero">X</label> <label class="desc">Quase nada funcional: Apenas sensores básicos ou quebrados.</label>
+                                    <br><input type="checkbox"> <label class="desc">Laboratório funcional: Equipamentos de análise portáteis, coletores, sensores planetários.</label>
+                                    <br><input type="checkbox"> <label class="desc">Complexo científico avançado: Drones exploradores, laboratório completo, scanners de alta precisão.</label>
+                                </div>
+                                
+                                <div class="ability">
+                                    <label class="name">Exploração e Colonização</label> 
+                                    <br><label class="desc">Equipamentos para explorar e sobreviver em ambientes diversos.</label>
+                                    <br><label class="zero">X</label> <label class="desc">Kit mínimo: Lanternas simples, cordas básicas, roupas comuns. Sem proteção contra frio extremo ou ambientes aquáticos.</label>
+                                    <br><input type="checkbox"> <label class="desc">Equipamento especializado: Roupas térmicas, cilindros de mergulho, kits de escalada, máscaras filtradoras, mochilas de exploração.</label>
+                                    <br><input type="checkbox"> <label class="desc">Equipamento exploratório completo: Trajes ambientais avançados (frio, calor, radiação), drones de reconhecimento, módulos de sobrevivência portáteis, equipamentos de mergulho profundo, kits de escalada e voo planado, balizas de mapeamento.</label>
+                                </div>
+
+                                <div class="ability">
+                                    <label class="name">Transporte Auxiliar</label> 
+                                    <br><label class="desc">Veículos auxiliares ou módulos de mobilidade.</label>
+                                    <br><label class="zero">X</label> <label class="desc">Nada além das próprias pernas: Nenhum veículo, toda locomoção é feita a pé.</label>
+                                    <br><input type="checkbox"> <label class="desc">Algum veículo: Um ou dois veículos terrestres leves (2–4 lugares), suficientes para transportar parte da tripulação em cada viagem.</label>
+                                    <br><input type="checkbox"> <label class="desc">Frotilha auxiliar: Frota terrestre suficiente para levar toda a tripulação ao mesmo tempo, incluindo veículos exploratórios maiores e barcos para travessia de rios ou lagos. Permite transporte de carga e deslocamento organizado em qualquer terreno.</label>
+                                </div>
+
+                                <div class="ability">
+                                    <label class="name">Tripulação e Sobreviventes</label> 
+                                    <br><label class="desc">Sobreviventes além dos personagens jogadores.</label>
+                                    <br><label class="zero">X</label> <label class="desc">Só os jogadores sobreviveram: Nenhuma ajuda externa.</label>
+                                    <br><input type="checkbox"> <label class="desc">Pequeno grupo de civis ou especialistas: Competências de um arquétipo disponíveis.</label>
+                                    <br><input type="checkbox"> <label class="desc">Grupo grande e diverso: Competências de três arquétipos disponíveis.</label>
+                                </div>
+
+                                <div class="ability">
+                                    <label class="name">Inteligência Artificial</label> 
+                                    <br><label class="desc">O estado da IA da nave.</label>
+                                    <br><label class="zero">X</label> <label class="desc">IA perdida ou inoperante: Nenhum suporte. Os personagens dependem só das próprias habilidades.</label>
+                                    <br><input type="checkbox"> <label class="desc">IA fragmentada: Acesso limitado a dados e sistemas. Fornece informações incompletas ou imprecisas.</label>
+                                    <br><input type="checkbox"> <label class="desc">IA operacional: Consegue integrar dados de múltiplos sensores, gerar mapas e análises úteis, e controlar equipamentos automáticos.</label>
+                                </div>
+                            </div>
+
+                        </section>          
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
