@@ -44,7 +44,7 @@ O Doutor é competente em:
 
 ### Sugestões de Nomes
 
-**Humanos:** Lívia, Eduardo, Xiu, Ren, Se-ah, Joon-seok, Meera, Sanjay, Misaki, Akira, Tatiana, Nikolai, Miriam, Jonas, Elena, Andrés, Sophie, Julien, Francesca, Matteo.
+**Humanos:** Lívia, Eduardo, Xiu, Ren, Se-ah, Joon-seok, Meera, Sanjay, Misaki, Akira, Tatiana, Nikolai, Miriam, Jonas, Elena, Andrés, Sophie, Julien, Francesca, Matteo, Makena, Omari, Yasmin, Hassan.
 
 **Alienígenas:** Zheel, Amara-Ti, Noq, Sehlun, Prae.
 
@@ -88,4 +88,4 @@ Você administra um composto neuroinibidor — dardo, spray, gás — no alvo. M
 
 ### Cartilha
 
-<iframe src="../cartilhas/doutor.html" width="100%" height="1200px" frameborder="0"></iframe>
+<iframe src="../cartilhas/doutor.html" width="100%" height="1300px" frameborder="0"></iframe>

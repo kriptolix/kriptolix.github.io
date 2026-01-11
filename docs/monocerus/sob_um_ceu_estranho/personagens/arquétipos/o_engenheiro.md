@@ -44,7 +44,7 @@ O Engenheiro é competente em:
 
 ### Sugestões de Nomes
 
-**Humanos:** Renata, Thiago, Chen, Huang, Hae-in, Dong-hyun, Kavita, Rohan, Yumi, Taro, Irina, Pavel, Lena, Tobias, Marta, Javier, Élodie, Pierre, Alessia, Luca. 
+**Humanos:** Renata, Thiago, Chen, Huang, Hae-in, Dong-hyun, Kavita, Rohan, Yumi, Taro, Irina, Pavel, Lena, Tobias, Marta, Javier, Élodie, Pierre, Alessia, Luca, Nia, Chike, Samira, Tariq. 
 
 **Alienígenas:** Klik-Tar, Oolme, Xar’ith, Brenn-Ka, Uuvo.
 
@@ -90,4 +90,4 @@ Os sistemas da nave estão desligados ou avariados, mas você consegue redirecio
 
 ### Cartilha
 
-<iframe src="../cartilhas/engenheiro.html" width="100%" height="1200px" frameborder="0"></iframe>
+<iframe id="engenheiro" src="../cartilhas/engenheiro.html" width="100%" height="1300px" frameborder="0"></iframe>

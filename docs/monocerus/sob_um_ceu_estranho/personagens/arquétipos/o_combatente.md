@@ -1,4 +1,8 @@
-## Combatente
+---
+title: O Combatente
+authors:
+    - Diego C. Sampaio
+---
 
 O Combatente é o escudo entre a tripulação e a extinção. Treinado para agir sob pressão, ele lê o terreno, antecipa movimentos inimigos e transforma segundos em vantagem.
 
@@ -38,7 +42,7 @@ O Combatente sabe que força sem disciplina é desperdício, e que sobrevivênci
 
 ### Sugestões de Nomes
 
-**Humanos:** Camila , Henrique, Fang, Qiang, Ji-won, Hyun-woo, Pooja, Vikram, Rei, Daichi, Natalya, Sergei, Anja, Florian, Nuria, Carlos, Manon, Étienne, Valentina, Enzo.
+**Humanos:** Camila , Henrique, Fang, Qiang, Ji-won, Hyun-woo, Pooja, Vikram, Rei, Daichi, Natalya, Sergei, Anja, Florian, Nuria, Carlos, Manon, Étienne, Valentina, Enzo, Zola, Jabari, Aisha, Khalid.
 
 **Alienígenas:** Krag, T’vosh, Rellak, Sha’mon, Durgal.
 

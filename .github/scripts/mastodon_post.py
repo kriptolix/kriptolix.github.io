@@ -1,6 +1,7 @@
 import os
 import requests
 import feedparser
+import re
 
 
 def read_last_post(file):
@@ -45,7 +46,9 @@ if last_post == post_id:
 
 title = latest.title
 link = latest.link
-summary = latest.get("summary", "").strip()
+raw_summary = latest.get("summary", "").strip()
+
+summary = re.sub(r"<.*?>", "", raw_summary)
 
 message = f'Novo post no blog: "{title}"\n\n{summary}\n\nLeia em: {link}'
 

@@ -18,6 +18,10 @@ Pense no Arquétipo como um esqueleto narrativo: uma estrutura inicial que você
 
 Arquétipos são intrinsecamente ligados ao cenário em que o jogo ocorre e não é possível criá-los de uma forma ampla e geral sem perder de vista o seu propósito. Os exemplos a seguir levam em conta gêneros populares e, apesar de poderem ser usados como estão, são apresentados aqui mais como guias de como arquétipos devem ser criados.
 
+!!! danger "Aviso"
+
+    Apenas so Doutor e o Engenheiro estão completos, apesar de ainda carecerem de revisões. O resto dos arquétipos está em processo de construção
+
 ## Resumo dos arquétipos
 
 Os arquétipos disponíveis em Sob um Céu Estranho são:
@@ -34,7 +38,8 @@ Os arquétipos disponíveis em Sob um Céu Estranho são:
 
 **O Primitivo** – Profundamente familiarizado com a vida na natureza. Capaz de rastrear criaturas, construir armadilhas improvisadas e identificar perigos.
 
-**O Diplomata** – Comunicador versátil capaz de acalmar tensões, negociar recursos e entender culturas desconhecidas. 
+**O Diplomata** – Comunicador versátil capaz de acalmar tensões, negociar recursos e entender culturas desconhecidas.
+
 
 ## Jogando com o estranho
 

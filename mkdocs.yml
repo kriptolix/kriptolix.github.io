@@ -11,19 +11,19 @@ theme:
         - content.code.copy
         - navigation.indexes
         - navigation.top
-        - navigation.tabs
+        - navigation.tabs        
         - navigation.expand
         - navigation.path
         - toc.follow
         - toc.integrate
+        - navigation.instant
     icon:
         repo: material/git
     language: pt-BR
 extra_css:
-    - stylesheets/extra.css
-extra_javascript:  
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js  
+    - extras/stylesheets/extra.css
+extra_javascript:
+    - extras/js/extra.js  
 plugins:
     - blog:
         post_excerpt: optional
@@ -79,35 +79,38 @@ markdown_extensions:
     - pymdownx.details
     - pymdownx.superfences
     - pymdownx.blocks.caption
-    
 
 nav:
   - Início: index.md  
   - Sob um Céu Estranho:     
-    - monocerus/sob_um_ceu_estranho/inicio.md
-    - monocerus/sob_um_ceu_estranho/basico.md
+    - monocerus/sob_um_ceu_estranho/index.md
+    - monocerus/sob_um_ceu_estranho/básico.md
     - Nave:
-      - monocerus/sob_um_ceu_estranho/nave/criando_a_nave.md
+      - monocerus/sob_um_ceu_estranho/nave/index.md
     - Personagens:
-      - monocerus/sob_um_ceu_estranho/personagens/criação.md
+      - monocerus/sob_um_ceu_estranho/personagens/index.md
       - Arquetipos:
-        - monocerus/sob_um_ceu_estranho/personagens/arquetipos.md
-        - monocerus/sob_um_ceu_estranho/personagens/o_engenheiro.md
-        - monocerus/sob_um_ceu_estranho/personagens/o_doutor.md      
+        - monocerus/sob_um_ceu_estranho/personagens/arquétipos/index.md
+        - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_comandante.md
+        - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_combatente.md
+        - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_doutor.md        
+        - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_engenheiro.md
+        - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_primitivo.md        
+        - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_sobrevivente.md              
       - monocerus/sob_um_ceu_estranho/personagens/aspectos.md
-      - monocerus/sob_um_ceu_estranho/personagens/habilidades.md
       - monocerus/sob_um_ceu_estranho/personagens/passados.md
       - monocerus/sob_um_ceu_estranho/personagens/motivações.md
       - monocerus/sob_um_ceu_estranho/personagens/fraquezas.md
+      - monocerus/sob_um_ceu_estranho/personagens/habilidades.md      
       - monocerus/sob_um_ceu_estranho/personagens/progressão.md      
     - O Jogo:
       - monocerus/sob_um_ceu_estranho/jogo/desafios.md
       - monocerus/sob_um_ceu_estranho/jogo/ferramentas.md
       - monocerus/sob_um_ceu_estranho/jogo/equipamento.md
-      - monocerus/sob_um_ceu_estranho/jogo/consequencias.md
+      - monocerus/sob_um_ceu_estranho/jogo/consequências.md
     - Narrador:
       - monocerus/sob_um_ceu_estranho/narrador/antagonistas.md
       - monocerus/sob_um_ceu_estranho/narrador/contadores.md
     - Game Design:
-      - monocerus/game_design/diario.md         
+      - monocerus/game_design/index.md         
   - Sobre Esse Blog: page_about.md
