@@ -60,3 +60,11 @@ Os Aspectos, apesar da sua similaridade com atributos, não funcionam da mesma f
 
 No caso dos Aspectos mais físicos, ainda resta um problema a ser resolvido. Eu não consegui uma forma de representar características negativas. As fraquezas fazem isso muito bem para Aspectos sociais e mentais negativos, pelo menos das manerias mais comuns em que eles aparecem na mídia, mas o mesmo método não funciona para características físicas. 
 
+### Competências
+
+A minha ideia original era usar o conceito geral do arquetipo para definir as coisas um personagem sabia fazer e o quão bem ele fazia. Apesar de funcionar para a maioria dos casos, isso restringia competências muito únicas e inesperadas que um peonagem pudesse ter e dificultava a evolução dessas competências já que, se o conceito não mudava, as competências também não.
+
+Acabei decidindo por um modelo mais especifico onde há um lista predeterminada do que o personagem sabe fazer mas o jogador decide o que, nesse lista, ele sabe fazer melhor, além de competências diferentes poderem ser adicionadas. Preferencialmente, as existentes de outros arquetipos, mas não descartando a criação de competências totalmente novas. 
+
+### Habilidades
+

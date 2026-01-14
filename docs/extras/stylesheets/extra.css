@@ -25,13 +25,19 @@
   /* Bordas e divisores */
   --md-divider-color: #c2b8a3;
   /* sépia médio */
+  --seal-bg: #e8dcc2;
+  --seal-border: #1f2937;
+  --seal-text: ##2a2a2a;
+  --seal-accent: #0f766e;
+  /* cor para “não por IA” */
 }
 
 a {
   text-decoration: underline;
 }
 
-a.toclink, a.md-tabs__link{
+a.toclink,
+a.md-tabs__link {
   text-decoration: none;
 }
 
@@ -66,7 +72,8 @@ h6 {
 }
 
 /* Segunda linha (maior) */
-.custom-header-subtitle, .custom-header-monocerus {
+.custom-header-subtitle,
+.custom-header-monocerus {
   font-size: 2.5rem;
   line-height: 1.2;
   margin-left: 1rem;
@@ -84,13 +91,13 @@ h6 {
 
   .custom-header-subtitle,
   .custom-header-monocerus {
-    font-size: 1.3rem;    
-    margin-left: 0;    
+    font-size: 1.3rem;
+    margin-left: 0;
     text-align: center;
-   
+
   }
-  
-  .custom-header-monocerus{
+
+  .custom-header-monocerus {
     margin-top: 32px;
   }
 
@@ -101,7 +108,7 @@ h6 {
   }
 
   .md-header {
-    height: 90px !important;   
+    height: 90px !important;
     padding-bottom: 0.4rem;
   }
 

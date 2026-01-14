@@ -1,5 +1,5 @@
-site_name: Meu blog que ninguém lê
-site_description: "Um canto escuro da internet"
+site_name: Pato Zumbi
+site_description: "Morto, porém multitarefa"
 site_url: https://www.titulomutante.com.br
 theme:
     name: material
@@ -15,8 +15,7 @@ theme:
         - navigation.expand
         - navigation.path
         - toc.follow
-        - toc.integrate
-        - navigation.instant
+        - toc.integrate        
     icon:
         repo: material/git
     language: pt-BR
@@ -79,7 +78,6 @@ markdown_extensions:
     - pymdownx.details
     - pymdownx.superfences
     - pymdownx.blocks.caption
-
 nav:
   - Início: index.md  
   - Sob um Céu Estranho:     

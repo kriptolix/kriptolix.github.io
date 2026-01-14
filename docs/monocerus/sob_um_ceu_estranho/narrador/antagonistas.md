@@ -52,8 +52,6 @@ Inteligente - inteligência humanoide, inovação e comportamento social complex
 
 ### Números
 
-Num confronto, se uma ameaça tiver vantagem numérica recebe um grau a mais de controle e agravante. Se mais de um tipo de ameaça estiver presente, apenas o tipo mais numeroso recebe.
-
 Enxame: Um número de indivíduos grande demais pra contar que se comporta como uma coisa só. Enxames só podem ser afetados por ataques em área.
 
 Horda: Um número de indivíduos grande demais pra contar. Destruir indivíduos não afeta o relógio da horda, a horda só é afetada se houver uma forma de detê-la coletivamente. 
@@ -70,13 +68,23 @@ Minúsculo: Um gato ou menor.
 
 Pequeno: Um lobo. 
 
-Médio: uma pessoa.
+Médio: uma pessoa. Agravante e atenuante base é Padrão
 
-Grande: Um urso.
+Grande: Um urso. Agravante e atenuante base é Razoável
 
-Enorme: uma pickup.
+Enorme: uma pickup. Agravante e atenuante base é Elevado
 
-Colossal: Uma casa ou maior.
+Colossal: Uma casa ou maior. Criaturas colossais são consideradas como fora da escala humana, só podem receber dano de armas de cerco e qualquer dano que causam sob dois graus.
+
+### Ofensivas e Proteções
+
+arisca - a ameaça tem armas perigosas, Agravante base Razoável.
+agressiva - a ameaça tem armas perigosas, Agravante base Elevado.
+letal - a ameaça tem armas perigosas, Agravante base Superior.
+
+endurecida - a ameaça tem armas perigosas, Atenuante base Razoável.
+armadurada - a ameaça tem armas perigosas, Atenuante base Elevado.
+blindada - a ameaça tem armas perigosas, Atenuante base Superior.
 
 ### Especiais
 
@@ -120,7 +128,15 @@ O contador pode variar muito de acordo com a natureza do antagonista. Para criar
 
 Ex.
 
-|  Dramático  | O   |
-|  Intenso       |	OO |
-|  Moderado   | OO  |
-|  Limitado     | OO |
+|  Dramático  | O  |
+|  Intenso    |	O  |
+|  Moderado   | O  |
+|  Limitado   | OO |
+
+### Quantidade
+
+Grupo - Multiplique o numero de níveis pelo numero de personagens jogadores.
+
+Bando - Multiplique o numero de níveis pelo numero de personagens jogadores e aumente o **Atenuante** um grau.
+
+
