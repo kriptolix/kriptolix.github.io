@@ -14,11 +14,11 @@ Equipamentos são o tipo mais comum de ferramentas que um personagem pode utiliz
 
 Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo, especialmente equipamentos. Os descritivos são orientações narrativas de como usar esse elemento tendo, às vezes, alguma implicação mecânica também. Abaixo seguem Descritivos comuns de equipamento. 
 
-**Estorvo**: O item é muito grande e/ou pesado e impossível de esconder, é difícil de carregar sem algum tipo de aparato próprio para transporte. Um personagem só pode carregar um de cada vez e, ao fazê-lo, é considerado Sobrecarregado. Tentar carregar um segundo item com esse descritivo vai fazer com o que o personagem se mova tão lentamente que pode ser considerado imóvel para todos os efeitos.
+**Estorvo**: O item é muito grande e/ou pesado e impossível de esconder, é difícil de carregar sem algum tipo de aparato próprio para transporte. Um personagem só pode carregar um de cada vez.
 
 **Area**: O efeito que a ferramenta causa afeta uma area, podendo afetar mais de um alvo de uma vez. O efeito final aumenta um grau se usado contra um grupo. Para saber o tamanho da área imagine um círculo suficientemente grande para caber um(a): sedan(pequena), lancha(media), casa(grande), quarteirão(enorme).
 
-**Pesada**: equipamento pesado existe que o personagem seja Atlético para usá-lo com eficiência. Usar equipamento pesado sem possuir Atlético vai implicar na redução de um grau de Controle nas tarefas em que o equipamento esteja envolvido.
+**Pesada**: Equipamento pesado existe que o personagem seja Atlético para usá-lo com eficiência. Usar equipamento pesado sem possuir Atlético vai implicar na redução de um grau de Controle nas tarefas em que o equipamento esteja envolvido.
 
 **Perigosa**: Item capaz de causar danos apenas com o contato, como uma motosserra ligada, um sabre de luz ou ferro em brasa, pode causar dano passivo ou exige cuidado extremo mesmo fora do combate.
 
@@ -62,7 +62,7 @@ Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo,
 
 **Gauss**: Dispara micro-projéteis metálicos acelerados por bobinas eletromagnéticas, com potência ajustável.
 
-**Obs**: Os itens abaixo ainda nao contam com Descritivos mas eles serão adicionados.
+**Obs**: Os itens abaixo ainda não contam com Descritivos mas eles serão adicionados.
 
 ## Armas e outras coisas perigosas
 

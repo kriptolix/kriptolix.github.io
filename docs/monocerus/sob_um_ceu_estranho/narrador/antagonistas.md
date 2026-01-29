@@ -79,16 +79,20 @@ Colossal: Uma casa ou maior. Criaturas colossais são consideradas como fora da 
 ### Ofensivas e Proteções
 
 arisca - a ameaça tem armas perigosas, Agravante base Razoável.
+
 agressiva - a ameaça tem armas perigosas, Agravante base Elevado.
+
 letal - a ameaça tem armas perigosas, Agravante base Superior.
 
 endurecida - a ameaça tem armas perigosas, Atenuante base Razoável.
+
 armadurada - a ameaça tem armas perigosas, Atenuante base Elevado.
+
 blindada - a ameaça tem armas perigosas, Atenuante base Superior.
 
 ### Especiais
 
-Regeneração: a cada rodada, o relógio recupera um nível a não ser que efeito tenha sido causado por um elemento que previna regeneração. Elementos comuns que previnem regeneração: fogo, ácido ou magia, etc.
+Regeneração: a cada rodada, o contador recupera um nível a não ser que efeito tenha sido causado por um elemento que previna regeneração. Elementos comuns que previnem regeneração: fogo, ácido ou magia, etc.
 
 Ataque em área
 
@@ -109,6 +113,10 @@ Mimetismo
 Ponto fraco - Coisas que acontecem com um triplo 6 do jogador.
 
 Movimentos especiais - coisas que acontecem quando um jogador inferior falha (estimula trabalho em grupo).
+
+Rápida -
+
+Lenta -  
 
 ## Atributos
 

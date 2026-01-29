@@ -25,6 +25,11 @@ O caminho está claro. O perigo é inevitável, e os personagens devem escapar a
 
 ### **Relógio de Ameaça (4 falhas totais por grupo):**
 
+| Escala | Resultado |
+| ----- | ----- |
+| ❒❒❒❒ | Fuga bem sucedida: Personagens a salvo. |
+| ❒❒❒❒ | Colapso completo: personagens presos, gravemente feridos ou mortos. |
+
 | Falha Acumulada | Consequência |
 | ----- | ----- |
 | 1ª Falha | Um personagem se atrasa, teste extra necessário. |
@@ -36,7 +41,7 @@ O caminho está claro. O perigo é inevitável, e os personagens devem escapar a
 
 O grupo está escapando de um antigo templo que começou a desmoronar após removerem um artefato. O caminho é claro, mas há armadilhas ativadas e o teto está caindo.
 
-* **Relógio de Ameaça:** 4 segmentos (1 falha \= \+1 segmento)  
+* **Relógio de Ameaça:** 4 segmentos   
 * **Tipo de Teste:** Orientar-se, esquivar de perigos   
 * **Líder:** Nyra, a Comandante  
 * **Resultado final:** 3 falhas registradas no relógio
