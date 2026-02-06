@@ -1,9 +1,8 @@
 ---
 title: Gerador de Personagem
-summary: Resumo das regras básicas do jogo
 authors:
     - Diego C. Sampaio
-date: 2025-11-07
+date: 2026-02-06
 ---
 
 <div class="generator">
@@ -13,7 +12,7 @@ date: 2025-11-07
   <label>
   Esse é o ponta pé inicial de gerador de personagens generico, focado em narrativa e opensource. No momento ele gera sexo e faixa etaria, depois escolhe 3 entre varias listas de categorias e escolhe um item de cada categoria selecionada.<br><br>
 
-  Você pode checar a categorias disponíveis <a href="https://github.com/kriptolix/kriptolix.github.io/tree/main/docs/gerador_personagem/datasets">aqui</a>, por enquanto elas estão junto aos arquivos desse site, que é meu site pessoal, mas no futuro eu vou separa-las. O README do diretorio de categorias vai explicar melhor (em ingles) como a elas são estruturadas e com eu pretendo que elas funcionem.<br><br>
+  Você pode checar a categorias disponíveis <a href="https://github.com/kriptolix/kriptolix.github.io/tree/main/docs/gerador_personagem/datasets">aqui</a>, por enquanto elas estão junto aos arquivos desse site, que é meu site pessoal, mas no futuro eu vou separa-las. O README do diretorio de categorias vai explicar melhor (em ingles, mas um arquivo traduzido chamado README_ptBR) como a elas são estruturadas e com eu pretendo que elas funcionem.<br><br>
 
   Sugestões, adições e correções são sempre bem vindas. Eu ainda estou pensando sobre como estruturar o gerador e, pelo menos por enquanto, qualquer comentario a respeito pode ser feito me contatando direto no <a href="https://ursal.zone/@Kriptolix">Mastodon</a>. 
   </label><br><br>  
