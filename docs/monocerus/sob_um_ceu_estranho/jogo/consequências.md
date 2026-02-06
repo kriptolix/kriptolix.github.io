@@ -13,13 +13,13 @@ Sempre que um personagem recebe uma consequência (causar consequências será t
 
 Complicações são desenlaces narrativos que tornam as coisas mais difíceis. Por exemplo, chegam reforços para as linhas inimigos, a sua rota de fuga é bloqueada, o objeto que você veio buscar não está onde você achava que ele estaria, você deixa cair sua arma, etc.
 
-**Complicações Limitadas** geralmente são coisas menos graves, vão fazer você perder tempo na maioria das vezes ou ser impedido de fazer alguma coisa por um tempo curto. Exemplo: sua arma travou, você precisa destravá-la antes de usá-la novamente.
+**Complicações Limitadas** geralmente são coisas menos graves, vão fazer você perder ou ser impedido de fazer alguma coisa por um tempo curto. Exemplo: sua arma travou, você precisa destravá-la antes de usá-la novamente.
 
 **Complicações Moderadas** são o tipo mais comum. Elas podem prejudicar por um tempo mais longo. Exemplo: O inimigo ergueu um campo de força que bloqueia sua saída, agora será impossível fugir sem lidar com esse inimigo pelo menos.
 
 **Complicações Intensas** são coisas realmente sérias que provavelmente vão afetar o jogo por um longo tempo. Exemplo: o Rei se sentiu ofendido, vocês não são mais bem vindos nesse reino e se forem vistos por aí serão presos e executados.
 
-**Complicações Dramáticas** tendem a pôr a vida dos personagens em risco imediato. Exemplo: O dispositivo de autodestruição é ativado, um relógio de auto destruição com 6 partes foi criado, vocês devem correr até as naves de fuga, mas futuras complicações vão mover o relógio. Se o relógio chegar a zero antes de vocês chegarem, a nave explodiu junto com a instalação.
+**Complicações Dramáticas** tendem a pôr a vida dos personagens em risco imediato. Exemplo: O dispositivo de autodestruição é ativado, um contador de auto destruição com 4 segmentos foi criado, vocês devem correr até as naves de fuga, mas futuras complicações vão mover o relógio. Se o relógio chegar a zero antes de vocês chegarem, a nave explodiu junto com a instalação.
 
 ## Condições
 

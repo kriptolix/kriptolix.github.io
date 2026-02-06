@@ -10,7 +10,7 @@ date: 2025-10-11
 
 Contadores são escalas que servem para acompanhar o progresso de coisas dentro do jogo, como a superação de um desafio, a situação de personagens ou acontecimentos relevantes do cenário. Existem três tipos de Contadores: de situação, de evento e de disputa. A diferença entre eles está em como são preenchidos. 
 
-Contadores, a depender do tipo, podem ser preenchidos com condições ou com marcadores. Contadores mais simples são preenchidos com marcadores (um "/", um segundo marcador no mesmo espaço vai formar um "X") e são focados apenas no número de consequências necessárias para fazer algo, e não na natureza dessas condições. Contadores mais complexos, além do nível, se preocupam com a natureza das condições que são usadas para preenchê-los. Sempre que o último nível de contador for preenchido ele é considerado encerrado.
+Contadores, a depender do tipo, podem ser preenchidos com condições ou com marcadores. Contadores mais simples são preenchidos com marcadores (um "/", um segundo marcador no mesmo segmento vai formar um "X") e são focados apenas no número de consequências necessárias para fazer algo, e não na natureza dessas condições. Contadores mais complexos, além do nível, se preocupam com a natureza das condições que são usadas para preenchê-los. Sempre que o último nível de contador for preenchido ele é considerado encerrado.
 
 Em alguns casos, os níveis de um contador podem ter gatilhos associados, ou seja, quando aquele nível é preenchido alguma coisa acontece na ficção. Isso é comum para contadores que representam tarefas complexas.
 

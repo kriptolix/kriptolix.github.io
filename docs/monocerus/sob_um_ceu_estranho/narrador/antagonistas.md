@@ -10,7 +10,7 @@ date: 2025-09-28
 
 São indivíduos ou criaturas que vão se interpor entre o personagem e seus objetivos e tentar ativamente impedi-lo de alcançar o que deseja ou prejudicá-lo de alguma forma. São construídos a partir de descritivos, um contador e três atributos. A combinação desses itens representa suas características. 
 
-Antagonistas são desafios táticos imediatos. Desafios mais estratégicos e a longo prazo são representados por um outro tipo de ameaça.
+Antagonistas são desafios táticos imediatos. Desafios mais estratégicos e a longo prazo são representados por Perigos.
 
 ## Descritivos
 
@@ -92,31 +92,29 @@ blindada - a ameaça tem armas perigosas, Atenuante base Superior.
 
 ### Especiais
 
-Regeneração: a cada rodada, o contador recupera um nível a não ser que efeito tenha sido causado por um elemento que previna regeneração. Elementos comuns que previnem regeneração: fogo, ácido ou magia, etc.
+Regeneração: a cada rodada, o contador de estado do antagonista recupera um segmento a não ser que efeito tenha sido causado por um elemento que previna regeneração. Elementos comuns que previnem regeneração: fogo, ácido, magia, etc.
 
-Ataque em área
+Ataque em área: O antatonista possue uma forma de ataque que pode acertar mais de um alvo.
 
-Invulnerabilidade
+Invulnerabilidade: Existe um tipo especifico de dano que não afeta o antagonista.
 
-Vulnerabilidade
+Vulnerabilidade: Existe um tipo especifico de dano que afeta mais o antagonista. Sempre que ele sofre esse tipo especifico de dano aumente o efeito em um grau.
 
-Resistência
+Resistência: Existe um tipo especifico de dano que afeta menos o antagonista. Sempre que ele sofre esse tipo especifico de dano diminua o efeito em um grau.
 
-Invisibilidade
+Invisibilidade: O antatonista pode ficar invisível.
 
-Voo
+Voo: O antatonista pode voar.
 
-Metamorfose
+Metamorfose: O antatonista pode alterar sua forma.
 
-Mimetismo
+Mimetismo: O antatonista pode se misturar ao ambiente se tornando quase imperceptível quando parado.
 
-Ponto fraco - Coisas que acontecem com um triplo 6 do jogador.
+Ponto fraco - O antagonista possui um ponto vulnerável, num resultado triplo 6 de um jogador em vantagem o ponto fraco é atingido e engatilha o seu efeito.
 
-Movimentos especiais - coisas que acontecem quando um jogador inferior falha (estimula trabalho em grupo).
+Rápida - O antagonista se movimenta com muita velocidade, em uma corrida ele sempre vai alcançar um alvo humano.
 
-Rápida -
-
-Lenta -  
+Lenta - O antagonista se movimenta com lentidão, em uma corrida ele nunca vai alcançar um alvo humano. 
 
 ## Atributos
 
@@ -136,10 +134,10 @@ O contador pode variar muito de acordo com a natureza do antagonista. Para criar
 
 Ex.
 
-|  Dramático  | O  |
-|  Intenso    |	O  |
-|  Moderado   | O  |
-|  Limitado   | OO |
+|  Dramático  | ❒  |
+|  Intenso    |	❒  |
+|  Moderado   | ❒  |
+|  Limitado   | ❒❒ |
 
 ### Quantidade
 

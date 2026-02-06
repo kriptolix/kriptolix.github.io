@@ -12,7 +12,8 @@ Representam ameaças ambientais ou situacionais que os personagens precisam supe
 
 ## Corrida Urgente
 
-O caminho está claro. O perigo é inevitável, e os personagens devem escapar antes que ele os alcance.  
+Os personagens devem escapar dos efeitos de um perigo incontornável que está sobre eles antes que  os alcance. 
+ 
 **Exemplos de perigo:**
 
 * Templo desmoronando.  
