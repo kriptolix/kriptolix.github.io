@@ -58,3 +58,7 @@ voice:
     - id: warm_sweet_voice
       text: "Warm, sweet voice"
       weight: 1.3
+
+    - id: crying_voice
+      text: "a crying voice"
+      weight: 1.3

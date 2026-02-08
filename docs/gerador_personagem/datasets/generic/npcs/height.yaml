@@ -12,28 +12,31 @@ height:
       text: "Very short"
       weight: 2
       constraints:
-        allowed_age: [teenager, young, adult, middle_aged, old, elder]
+        
 
     - id: short
       text: "Short"
       weight: 3
       constraints:
-        allowed_age: [teenager, young, adult, middle_aged, old, elder]
+        
 
     - id: tall
       text: "Tall"
       weight: 3
       constraints:
-        allowed_age: [young, adult, middle_aged, old]
+        excludes:
+          age: [child]
 
     - id: very_tall
       text: "Very tall"
       weight: 2
       constraints:
-        allowed_age: [young, adult, middle_aged]
+        excludes:
+          age: [child]
 
     - id: giant
       text: "Giant"
       weight: 1
       constraints:
-        allowed_age: [adult, middle_aged]
+        excludes:
+          age: [child]

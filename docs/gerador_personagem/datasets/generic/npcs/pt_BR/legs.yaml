@@ -2,7 +2,9 @@ legs:
   athletic_runner_legs: "Pernas atléticas de corredor"
   bowed_legs: "Pernas arqueadas"
   crooked_knees: "Joelhos tortos"
-  limping: "Manco"
+  limping: 
+    male: "Manco"
+    female: "Manca"
   thin_legs: "Pernas finas"
   knobby_knees: "Joelhos excessivamente nodosos"
   muscular_legs: "Pernas musculosas"

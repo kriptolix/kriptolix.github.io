@@ -25,7 +25,7 @@ body_locations:
     chest: "Peito"
     abdomen: "Abdômen"
     back: "Costas"
-    sides: "Laterais do tronco"
+    sides: "Flancos"
 
     thighs: "Coxas"
     knees: "Joelhos"

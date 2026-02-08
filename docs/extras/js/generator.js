@@ -1,8 +1,17 @@
 const BASE_PATH = "/gerador_personagem/datasets/generic/npcs/";
+const STRUCTURE_PATH = "/gerador_personagem/datasets/generic/npcs/structure/";
+
+const STRUCTURE = [
+  "connectors.yaml",
+  "precedence.yaml",
+  "roles.yaml",
+  "templates.yaml"
+];
 
 const DATASETS = [
   "age.yaml",
   "arms.yaml",
+  "attire.yaml",
   "beard.yaml",
   "body_locations.yaml",
   "constitution.yaml",
@@ -30,6 +39,14 @@ const DATASETS = [
   "voice.yaml",
 ];
 
+function pick(arr) {
+  return arr[Math.floor(Math.random() * arr.length)];
+}
+
+function capitalize(text) {
+  return text.charAt(0).toUpperCase() + text.slice(1);
+}
+
 function bindUI() {
   const btn = document.getElementById("generate");
 
@@ -52,12 +69,35 @@ async function loadTranslation(lang) {
   return translations;
 }
 
-function translateTrait(tableId, trait, translations) {
+function translateTrait(tableId, trait, translations, gender) {
   if (!trait) return null;
   if (!translations || !translations[tableId]) return trait.text;
 
-  // retorna o texto traduzido se existir, senão mantém o original
-  return translations[tableId][trait.id] ?? trait.text;
+  const entry = translations[tableId][trait.id];
+
+  // não existe tradução
+  if (!entry) return trait.text;
+
+  // caso simples: string direta
+  if (typeof entry === "string") {
+    return entry;
+  }
+
+  // caso com variação de gênero
+  if (typeof entry === "object") {
+    // tenta o gênero específico
+    if (gender && entry[gender]) {
+      return entry[gender];
+    }
+
+    // fallback neutro
+    if (entry.neutral) {
+      return entry.neutral;
+    }
+  }
+
+  // último fallback
+  return trait.text;
 }
 
 function pickRandomItems(array, n) {
@@ -122,6 +162,56 @@ function isGeneratorPage() {
   return document.getElementById("npc-generator-root") !== null;
 }
 
+function buildParagraphs(traits, structure) {
+  const fragmentsByRole = {};
+
+  // 1. gerar núcleo (age + gender)
+  const ageId = traits.age.id;
+  const genderId = traits.gender.id;
+
+  const coreOptions =
+    structure.templates.templates?.[ageId]?.[genderId] ??
+    ["An individual"];
+
+  fragmentsByRole.core = [pick(coreOptions)];
+
+  // 2. processar outros traits
+  for (const [key, trait] of Object.entries(traits)) {
+    if (key === "age" || key === "gender") continue;
+
+    const role = structure.roles.roles[key];
+    if (!role) continue;
+
+    fragmentsByRole[role] ??= [];
+    fragmentsByRole[role].push(trait.text);
+  }
+
+  // 3. ordenar por precedência
+  const orderedRoles = structure.precedence.precedence;
+
+  const parts = [];
+
+  for (const role of orderedRoles) {
+    const items = fragmentsByRole[role];
+    if (!items || items.length === 0) continue;
+
+    const connector = pick(structure.connectors.connectors[role] ?? [""]);
+    const joined = items.join(" and ");
+
+    parts.push(
+      connector
+        ? `${connector} ${joined}`
+        : joined
+    );
+  }
+
+  // 4. montar parágrafo
+  const paragraph =
+    capitalize(parts.join(", ").replace(/\s+,/g, ",")) + ".";
+
+  return [paragraph];
+}
+
 function renderOutput(paragraphs) {
   const output = document.getElementById("output");
   output.innerHTML = "";
@@ -159,8 +249,8 @@ async function generateCharacter() {
   const age = resolveTrait("age", ageSelection);
   const gender = resolveTrait("gender", genderSelection);
 
-  if (age) output.push(`Age: ${translateTrait("age", age, translations)}`);
-  if (gender) output.push(`Gender: ${translateTrait("gender", gender, translations)}`);
+  if (age) output.push(`age: ${translateTrait("age", age, translations)}`);
+  if (gender) output.push(`gender: ${translateTrait("gender", gender, translations)}`);
 
   // Escolher 3 tabelas aleatórias restantes
   const otherTableIds = Object.keys(NPC_TABLES).filter(
@@ -173,16 +263,15 @@ async function generateCharacter() {
     const table = NPC_TABLES[tableId];
     const trait = resolveRandomTrait(table);
     if (trait) {
-      const text = translateTrait(tableId, trait, translations);
-      output.push(`${tableId.charAt(0).toUpperCase() + tableId.slice(1)}: ${text}`);
-
-      /*
-      const categoryName = translations[tableId]._name ?? tableId;
-      output.push(`${categoryName}: ${translateTrait(tableId, trait, translations)}`);
-      */
+      const text = translateTrait(tableId, trait, translations, gender);
+      output.push(`${tableId}: ${text}`);      
     }
   }
 
+  //console.log(output)
+  //formatted_output = buildParagraphs(output, NPC_STRUCTURE)
+
+  //renderOutput(formatted_output);
   renderOutput(output);
 }
 
@@ -194,6 +283,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 async function initGenerator() {
   const rawTables = {};
+  const rawStructure = {};
 
   // carregar todos os datasets
   for (const file of DATASETS) {
@@ -204,6 +294,14 @@ async function initGenerator() {
 
   // salvar globalmente
   window.NPC_TABLES = rawTables;
+
+  for (const file of STRUCTURE) {
+    const raw = await loadYAML(STRUCTURE_PATH + file);
+    const table = normalizeTable(raw);
+    rawStructure[table.id] = table;
+  }
+
+  window.NPC_STRUCTURE = rawStructure;
 
   bindUI();
 }

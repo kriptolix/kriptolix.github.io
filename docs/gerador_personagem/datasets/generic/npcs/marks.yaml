@@ -16,7 +16,8 @@ marks:
       text: "Freckles"
       weight: 4
       constraints:
-        allowed_locations: [face, arms, shoulders]
+        requires:
+          body_locations: [face, arms, shoulders]
 
     - id: expression_lines
       text: "Expression lines"
@@ -46,7 +47,8 @@ marks:
       text: "Self-harm scars"
       weight: 0.5
       constraints:
-        allowed_locations: [arms, torso, thighs]
+        requires:
+          body_locations: [arms, torso, thighs]
 
     - id: visible_stretch_marks
       text: "Visible stretch marks"

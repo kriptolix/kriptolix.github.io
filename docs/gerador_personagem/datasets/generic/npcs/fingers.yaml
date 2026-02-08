@@ -8,9 +8,7 @@ fingers:
   traits:
     - id: missing_fingers
       text: "Missing fingers"
-      weight: 1.2
-      constraints:
-        min_age: 6
+      weight: 1.2      
 
     - id: excessively_long_fingers
       text: "Excessively long fingers"
@@ -34,15 +32,11 @@ fingers:
 
     - id: very_long_nails
       text: "Very long nails"
-      weight: 1.2
-      constraints:
-        min_age: 10
+      weight: 1.2      
 
     - id: shiny_well_cared_nails
       text: "Shiny, well-cared nails"
-      weight: 1.2
-      constraints:
-        min_age: 8
+      weight: 1.2      
 
     - id: strong_healthy_nails
       text: "Strong, healthy nails"

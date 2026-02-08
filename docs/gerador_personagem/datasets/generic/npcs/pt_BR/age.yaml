@@ -2,7 +2,13 @@ age:
   child: "Criança"
   teenager: "Adolescente"
   young: "Jovem"
-  adult: "Adulto"
+  adult: 
+    male: "Adulto"
+    female: "Adulta"
   middle: "Meia idade"
-  old: "Idoso"
-  elder: "Ancião"
+  old:
+    male: "Idoso"
+    female: "Idosa" 
+  elder: 
+    male: "Ancião"
+    female: "Anciã"

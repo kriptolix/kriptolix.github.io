@@ -46,8 +46,8 @@ Os arquivos *Yaml* de tradução são uma versão simplificada dos arquivos prin
 
 **Constraints** respesentam regras de relacionamento entre itens, seja de mesma categoria ou de categorias diferentes. Ela são usadas para indicar tres possíveis relacionamentos:
 
-**Allowed**: Contem um item, lista de item ou categoria que são permitidos em combinação com o item em questão.
+**Requires**: Contem um item, lista de item ou categoria que são necessários para que o item em questão pode ser aplicado.
 
-**Forbidden**: Contem um item, lista de item ou categoria que são proibidos em combinação com o item em questão.
+**Excludes**: Contem um item, lista de item ou categoria que não podem existir em combinação com o item em questão.
 
 A Maioria dos itens não possue **constrants**, mas elas existem para evitar situações impossíveis como um personagem possuir ao mesmo tempo "penteado espalhafatoso" e "careca".

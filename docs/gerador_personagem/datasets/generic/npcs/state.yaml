@@ -1,8 +1,7 @@
 state:
   selection:
     type: multiple
-    required: false    
-    max: 5    
+    required: false   
   traits:
     - id: always_hungry
       text: "Always hungry"
@@ -54,11 +53,7 @@ state:
 
     - id: always_malnourished
       text: "Always looks malnourished"
-      weight: 1
-
-    - id: always_hoarse_voice
-      text: "Always has a hoarse voice"
-      weight: 1
+      weight: 1  
 
     - id: always_expression_of_pain
       text: "Always has an expression of pain"
@@ -78,15 +73,7 @@ state:
 
     - id: always_disheveled
       text: "Always looks disheveled"
-      weight: 1
-
-    - id: always_flaky_skin
-      text: "Always has flaky skin"
-      weight: 1
-
-    - id: always_blank_stare
-      text: "Always has a blank stare"
-      weight: 1
+      weight: 1  
 
     - id: always_sweaty_forehead
       text: "Always has a sweaty forehead"
@@ -98,14 +85,6 @@ state:
 
     - id: always_nervous_tic
       text: "Always has a nervous tic"
-      weight: 1
-
-    - id: always_looks_skinny
-      text: "Always looks skinny"
-      weight: 1
-
-    - id: always_crying_voice
-      text: "Always has a crying voice"
       weight: 1
 
     - id: always_oily_appearance

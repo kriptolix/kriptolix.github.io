@@ -49,8 +49,8 @@ id: translation
 
 **Constraints** respect relationship rules between items, whether of the same category or different categories. They are used to indicate three possible relationships:
 
-**Allowed**: Contains an item, list of items, or category that are allowed in combination with the item in question.
+**Requires**: Contains an item, list of items, or category that is necessary for the item in question to be applied.
 
-**Forbidden**: Contains an item, list of items, or category that are prohibited in combination with the item in question.
+**Excludes**: Contains an item, list of items, or category that cannot exist in combination with the item in question.
 
 Most items do not have **constraints**, but they exist to prevent impossible situations such as a character having both "flashy hairstyle" and being "bald" at the same time.

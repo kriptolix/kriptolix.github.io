@@ -8,44 +8,45 @@ constitution:
       text: "Skeletal"
       weight: 1
       constraints:
-        allowed_age: [young, adult, middle_aged, old, elder]
+        
 
     - id: skinny
       text: "Skinny"
       weight: 2
       constraints:
-        allowed_age: [teenager, young, adult, middle_aged, old]
+        
 
     - id: athletic
       text: "Athletic"
       weight: 3
       constraints:
-        allowed_age: [young, adult]
+        excludes:
+          age: [child]
 
     - id: strong
       text: "Strong"
       weight: 3
       constraints:
-        allowed_age: [young, adult]
+        
 
     - id: muscular
       text: "Muscular"
       weight: 2
       constraints:
-        allowed_age: [young, adult]
+        excludes:
+          age: [child]
 
     - id: weightlifter
       text: "Weightlifter"
       weight: 1
       constraints:
-        allowed_age: [young, adult]
+        excludes:
+          age: [child]
 
     - id: stocky
       text: "Stocky"
-      weight: 2
-      constraints:
-        allowed_age: [adult, middle_aged]
-
+      weight: 2    
+        
     - id: fat
       text: "Fat"
       weight: 1.5

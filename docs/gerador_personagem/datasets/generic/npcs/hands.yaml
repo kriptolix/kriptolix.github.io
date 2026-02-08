@@ -1,14 +1,11 @@
 hands:
   selection:
     type: multiple
-    required: false    
-    max: 3    
+    required: false        
   traits:
     - id: bloody_knuckles
       text: "Bloody knuckles"
-      weight: 1.2
-      constraints:
-        min_age: 12
+      weight: 1.2      
 
     - id: bony_hands
       text: "Bony hands"
@@ -17,18 +14,14 @@ hands:
     - id: calloused_hands
       text: "Calloused hands"
       weight: 1.3
-      constraints:
-        min_age: 12
-
+      
     - id: trembling_hands
       text: "Trembling hands"
       weight: 1.2
 
     - id: visible_veins_hands
       text: "Visible veins on hands"
-      weight: 1.2
-      constraints:
-        min_age: 16
+      weight: 1.2      
 
     - id: very_large_hands
       text: "Hands very large for body size"
@@ -44,12 +37,9 @@ hands:
 
     - id: robust_hands
       text: "Robust hands"
-      weight: 1.2
-      constraints:
-        min_age: 14
+      weight: 1.2      
 
     - id: strong_hands
       text: "Strong hands"
       weight: 1.3
-      constraints:
-        min_age: 14
+      

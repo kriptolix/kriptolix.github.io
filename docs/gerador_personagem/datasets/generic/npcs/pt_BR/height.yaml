@@ -1,7 +1,22 @@
 height:
-  dwarf: "Anão"
-  very_short: "Muito baixo"
-  short: "Baixo"
-  tall: "Alto"
-  very_tall: "Muito alto"
+  dwarf:
+    male: "Anão"
+    female: "Anã"
+
+  very_short:
+    male: "Muito baixo"
+    female: "Muito baixa"
+
+  short: 
+    male: "baixo"
+    female: "baixa"
+
+  tall: 
+    male: "alto"
+    female: "alta"
+
+  very_tall: 
+    male: "Muito alto"
+    female: "Muito alta"
+  
   giant: "Gigante"
