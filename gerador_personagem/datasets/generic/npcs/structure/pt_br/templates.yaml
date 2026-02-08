@@ -1,0 +1,77 @@
+templates:
+  child:
+    male:
+      - "Um menino"
+      - "Uma criança do sexo masculino"
+    female:
+      - "Uma menina"
+      - "Uma criança do sexo feminino"
+    other:
+      - "Uma criança"
+      - "Uma figura infantil"
+
+  teenager:
+    male:
+      - "Um adolescente"
+      - "Um jovem rapaz"
+    female:
+      - "Uma adolescente"
+      - "Uma jovem moça"
+    other:
+      - "Uma pessoa adolescente"
+      - "Uma figura jovem"
+
+  young:
+    male:
+      - "Um homem jovem"
+      - "Um jovem adulto"
+    female:
+      - "Uma mulher jovem"
+      - "Uma jovem adulta"
+    other:
+      - "Uma pessoa jovem"
+      - "Uma figura jovem adulta"
+
+  adult:
+    male:
+      - "Um homem adulto"
+      - "Um sujeito em plena idade adulta"
+    female:
+      - "Uma mulher adulta"
+      - "Uma figura feminina adulta"
+    other:
+      - "Uma pessoa adulta"
+      - "Uma figura em plena idade adulta"
+
+  middle:
+    male:
+      - "Um homem de meia-idade"
+      - "Um sujeito já marcado pelo tempo"
+    female:
+      - "Uma mulher de meia-idade"
+      - "Uma figura feminina já marcada pelo tempo"
+    other:
+      - "Uma pessoa de meia-idade"
+      - "Uma figura marcada pelo tempo"
+
+  old:
+    male:
+      - "Um homem idoso"
+      - "Um velho homem"
+    female:
+      - "Uma mulher idosa"
+      - "Uma velha mulher"
+    other:
+      - "Uma pessoa idosa"
+      - "Uma figura envelhecida"
+
+  elder:
+    male:
+      - "Um ancião"
+      - "Um homem muito idoso"
+    female:
+      - "Uma anciã"
+      - "Uma mulher muito idosa"
+    other:
+      - "Uma pessoa anciã"
+      - "Uma figura ancestral"
