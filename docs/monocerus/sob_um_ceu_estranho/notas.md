@@ -7,3 +7,9 @@ Moderado = 1 ponto de estresse. Efeitos parciais são perdidos.
 # Habilidades passivas
 
 habilidades que evitam perigos, no estilo sentido aranha, devem melhorar em um passo o resultado do teste ou tratar o uma falha como sucesso parcial.
+
+* Remover ações em grupo geral e transformar isso em habilidades individuais circunstanciais.
+
+* lutar defensivamente, use um efeito para diminuir o proximo em um grau?
+
+* alterar agravante/atenuante?

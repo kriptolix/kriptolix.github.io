@@ -62,6 +62,8 @@ Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo,
 
 **Gauss**: Dispara micro-projéteis metálicos acelerados por bobinas eletromagnéticas, com potência ajustável.
 
+**Vestível**: itens que podem ser vestidos e nao ocupam espaço quando estão sendo vestidos, apenas quando estão sendo carregados.
+
 **Obs**: Os itens abaixo ainda não contam com Descritivos mas eles serão adicionados.
 
 ## Armas e outras coisas perigosas
@@ -92,7 +94,7 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 
 ●-● Carabina Civil -Arma longa simples e robusta para defesa de perímetro e controle de fauna. Fácil manutenção, munição padronizada e modos não letais.
 
-●-● Bastão de choque — Bastão retrátil que envolve o alvo em um arco de plasma de baixa temperatura. Causa dor intensa, espasmos musculares e desorientação sem danos permanentes. Totalmente seguro para uso em naves e estações..*Tags: Recarga, Perigoso.* 
+●-● Bastão de choque — Bastão retrátil que envolve o alvo em um arco de plasma de baixa temperatura. Causa dor intensa, espasmos musculares e desorientação sem danos permanentes. Totalmente seguro para uso em naves e estações..*Tags: Não-Letal, Recarga, Perigoso.* 
 
 ● Arma de dardos — Pistola que dispara projéteis sedativos.*Tags: Recarga, Afastado.* 
 
@@ -114,35 +116,27 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 
 ●-● Escopeta de Plasma - Emissor de plasma de curto alcance que projeta um cone de energia térmica instável. Extremamente eficaz a curta distância, causando queimaduras severas e sobrecarga de sistemas. O plasma se dissipa rapidamente, tornando a arma segura para uso em naves e instalações pressurizadas.
 
-●-● Arma de ondas neurais — Atordoa inimigos com pulsos direcionados. 
-
 ●-● Carabina de Pulso - Arma energética compacta que dispara pulsos de energia estáveis e de média potência. 
 
-●-●-● Rifle de Precisão - Arma de longo alcance que dispara um feixe concentrado de partículas energizadas. instantâneo,silencioso e virtualmente sem queda. Requer tempo de recarga e resfriamento entre tiros. 
+●-● Arma de ondas neurais — Atordoa inimigos com pulsos direcionados. 
+
+●-●-● Rifle de Precisão - Arma de longo alcance que dispara um feixe concentrado de partículas energizadas. instantâneo, silencioso e virtualmente sem queda. Requer tempo de recarga e resfriamento entre tiros. 
 
 ●-●-● Lança-granadas modular — Sistema portátil de lançamento de cápsulas energéticas. As granadas não usam explosivos químicos; são cápsulas de plasma ou emissores de partículas que se ativam no impacto ou por proximidade. Seguro para uso em ambientes pressurizados, dependendo do tipo de munição.
 
-●-●-● Míssil portátil anti-veículo - Sistema portátil de lançamento de mísseis inteligentes. Utiliza propulsão convencional e ogiva de impacto cinético assistido por pulso de partículas, eficaz contra veículos, drones e naves de baixa altitude. Extremamente perigoso para uso em ambientes urbanos ou pressurizados.
+●-●-● Torreta danificada reativável — Unidade defensiva com mobilidade mínima.
 
-●-● Explosivos de demolição — Cargas potentes usadas para estruturas e combate. 
+● Granada de plasma - granada padrão.
 
-● Granada de plasma.
-
-● Granada PEM
+● Granada PEM - gera pulso eletromagnético que so afeta equipamento.
 
 ● Granada de pulso sônico — Gera onda de choque sonora não letal. 
 
-● Minas adesivas — Fixam-se a superfícies antes de detonar. 
-
-● Micro-explosivos de infiltração — Pequenos, precisos; usados para arrombamentos. 
-
-●-● Minas de disrupção — Criam pulsos que desativam eletrônicos. 
-
-### Armaduras e proteções (Atenuante Razoável)
+### Trajes e proteções (Atenuante Razoável)
 
 ●-● Roupa reforçada — Tecido resistente a cortes e abrasões. 
 
-●-●-● Traje espacial padrão — Protege contra vácuo e ambientes hostis; limitado em mobilidade.
+●-●-● Traje espacial padrão — Protege contra vácuo e ambientes hostis; limitado em mobilidade.Pressurização, suporte de vida e blindagem leve
 
 #### Proteções Básicas (Atenuante Elevado)
 
@@ -156,9 +150,7 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 
 ●-●-● Escudo tático pesado — Versão maior usada por unidades militares. 
 
-●-●-● Torreta danificada reativável — Unidade defensiva com mobilidade mínima. 
-
-●-●-● Traje espacial reforçado — Versão avançada, mais pesada e completa.
+●-●-● Traje espacial reforçado — Versão militarizada com reforço estrutural, sensores táticos e proteção contra armas de energia. Blindagem ativa e escudo integrado.
 
 ●-●-● Armadura pesada de combate — Placas reforçadas, servo-assistência parcial. 
 
@@ -188,7 +180,9 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 
 ●-● Banco de energia móvel — Fornece energia para equipamentos ou recarga. 
 
-●-● Kits de estabilização estrutural — Evitam desabamentos ou estabilizam paredes. 
+●-● Kits de estabilização estrutural — Evitam desabamentos ou estabilizam paredes.
+
+●-● Explosivos de demolição — Cargas potentes usadas para estruturas e combate. 
 
 ### Equipamento cientifico e de exploração
 
@@ -204,7 +198,9 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 
 ●-● Scanner de alta precisão — Analisa partículas e estruturas com detalhe. 
 
-●-● Drones exploradores — Mapeiam áreas remotas; transmitem dados. 
+●-● Drones exploradores — Mapeiam áreas remotas; transmitem dados.
+
+●-● Traje de risco radioativo.
 
 ●-●-● Laboratório portátil — Equipamento para análises avançadas. 
 
@@ -216,19 +212,25 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 
 ● Monitor biométrico simples — Mede batimentos, oxigênio, estresse.
 
+● Mascaras de risco biológico.
+
 ●-● Kit cirúrgico compacto — Ferramentas para emergências. 
 
 #### Equipamento Avançado
 
 ● Scanner médico — Lê sinais vitais e detecta anomalias.
 
-● Pistola tranquilizante — Dispara dardos sedativos. 
+● Pistola tranquilizante — Dispara dardos sedativos.
+
+●-● Traje de risco biológico — . 
 
 ●-● Mini-laboratório biológico — Detecta patógenos, toxinas e compõe tratamentos. 
 
 ### Suprimentos e sobrevivência
 
-● Rações compactas — Comida desidratada para dias/semanas. 
+● Rações compactas — Comida desidratada para dias/semanas.
+
+● Mochila — capaz de carregar pequenos itens.
 
 #### Itens Básicos 
 
@@ -236,18 +238,7 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 
 ●-● Mochila de sobrevivência — Leva ferramentas, comida e mantimentos.
 
-TRAJES
-Traje espacial padrão
-
-Tecnologia: Pressurização, suporte de vida e blindagem leve
-Descrição:
-Traje de trabalho espacial. Protege contra vácuo, radiação leve e impactos mínimos.
-
-Traje espacial de combate
-
-Tecnologia: Blindagem ativa + escudo integrado
-Descrição:
-Versão militarizada com reforço estrutural, sensores táticos e proteção contra armas de energia.
+● Binóculos digitais — Ampliam visão e analisam composição distante. 
 
 #### Itens Avançados
 
@@ -255,27 +246,33 @@ Versão militarizada com reforço estrutural, sensores táticos e proteção con
 
 ### Itens variados
 
-● Binóculos digitais — Ampliam visão e analisam composição distante. ●
+●-● Pacote de disfarces — Roupas e acessórios para infiltração. 
 
-●-● Pacote de disfarces — Roupas e acessórios para infiltração. ●●
+● Projetor holográfico portátil — Exibe mapas e mensagens tridimensionais. 
 
-● Projetor holográfico portátil — Exibe mapas e mensagens tridimensionais. ●
+● Tablet tático — Interface de controle de drones e mapas do terreno.
 
-● Tablet tático — Interface de controle de drones e mapas do terreno. ●
+● Cartões de comando / autorização — Permitem acesso a sistemas. 
 
-● Cartões de comando / autorização — Permitem acesso a sistemas. ●
+● Dispositivo de registro da missão — Diário digital com logs da tripulação. 
 
-● Dispositivo de registro da missão — Diário digital com logs da tripulação. ●
+● Holoprojetor pessoal — Cria projeções de pequeno alcance; útil para disfarces. 
 
-● Holoprojetor pessoal — Cria projeções de pequeno alcance; útil para disfarces. ●
+●-● Camuflagem ótica improvisada — Tecido que distorce parcialmente a luz.
 
-●-● Camuflagem ótica improvisada — Tecido que distorce parcialmente a luz. ●●
+● Duplicador de cartões — Copia chaves eletrônicas e identidades básicas. 
 
-● Duplicador de cartões — Copia chaves eletrônicas e identidades básicas. ●
+● Compartimentos secretos (bolsas e cintos) — Armazenamento escondido. 
 
-● Compartimentos secretos (bolsas e cintos) — Armazenamento escondido. ●
+● Drones espiões miniaturizados — Pequenos drones para infiltração. 
 
-● Drones espiões miniaturizados — Pequenos drones para infiltração. ●
+● Minas de plasma adesivas — Fixam-se a superfícies antes de detonar. 
+
+● Micro-explosivos de infiltração — Pequenos, precisos; usados para arrombamentos. 
+
+●-● Minas de disrupção — Criam pulsos que desativam eletrônicos. 
+
+●-●-● Míssil portátil anti-veículo - Sistema portátil de lançamento de mísseis inteligentes. Utiliza propulsão convencional e ogiva de impacto cinético assistido por pulso de partículas, eficaz contra veículos, drones e naves de baixa altitude. Extremamente perigoso para uso em ambientes urbanos ou pressurizados.(excluir depois)
 
 ## Carga
 

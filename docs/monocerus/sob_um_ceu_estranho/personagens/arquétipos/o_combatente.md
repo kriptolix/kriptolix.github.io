@@ -4,9 +4,9 @@ authors:
     - Diego C. Sampaio
 ---
 
-O Combatente é o escudo entre a tripulação e a extinção. Treinado para agir sob pressão, ele lê o terreno, antecipa movimentos inimigos e transforma segundos em vantagem.
+> “Qualquer coisa que me mate já matou todo mundo.” *Amos Burton*.
 
-O Combatente sabe que força sem disciplina é desperdício, e que sobrevivência é uma equação de posicionamento, timing e sacrifício.
+O Combatente é o escudo entre a tripulação e a extinção. Treinado para agir sob pressão, sua presença garante que o grupo tenha força quando o diálogo falha.
 
 ### Competências
 
@@ -18,7 +18,7 @@ O Combatente sabe que força sem disciplina é desperdício, e que sobrevivênci
 
 * Identificar ameaças, pontos fracos e alvos prioritários
 
-* Proteger aliados em situações de confronto(?)
+* (?)
 
 ### Sugestões de Aparência e Estilo
 
@@ -42,11 +42,52 @@ O Combatente sabe que força sem disciplina é desperdício, e que sobrevivênci
 
 ### Sugestões de Nomes
 
-**Humanos:** Camila , Henrique, Fang, Qiang, Ji-won, Hyun-woo, Pooja, Vikram, Rei, Daichi, Natalya, Sergei, Anja, Florian, Nuria, Carlos, Manon, Étienne, Valentina, Enzo, Zola, Jabari, Aisha, Khalid.
-
 **Alienígenas:** Krag, T’vosh, Rellak, Sha’mon, Durgal.
 
 **Sintéticos:** COM-05 “Aegis”, COM-11 “Baluarte”, COM-18 “Artilheiro”.
 
 ### Habilidades
+
+#### Instinto de Patrulha
+Você sente o cheiro de uma emboscada de longe. Você pode marcar estresse para diminuir um grau qualquer consequência sofrida ao lidar com uma emboscada, seja por você ou seus aliados. 
+
+#### Arma secundária 
+Caso você perca sua arma ou ela seja inutilizada, independente do equipamento que o personagem esteja carregando, marque stress e declare que você tem outra arma para substituí-la.
+
+#### Desarma e Reverte 
+O inimigo aponta uma arma. O personagem age em um segundo: desarma, derruba e assume o controle. Marque estresse de acordo com o grau de dificuldade para ter desarmado.
+
+### Equipamento
+
+- Armas 
+
+Faca tática
+
+Pistola pesada
+
+Submetralhadora compacta
+
+Escopeta de plasma
+
+- Trajes e Proteções
+
+Armadura leve de combate
+
+Escudo portátil
+
+- Ferramentas e Engenharia
+
+Kit de ferramentas modular
+
+- Equipamento Científico e Exploração
+
+Binóculos digitais
+
+- Medicina e Suporte Biológico
+
+Kit médico básico
+
+- Suprimentos e Sobrevivência
+
+Rações compactas
 

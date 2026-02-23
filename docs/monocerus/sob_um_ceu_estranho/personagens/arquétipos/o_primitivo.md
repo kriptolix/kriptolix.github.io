@@ -4,9 +4,9 @@ authors:
     - Diego C. Sampaio
 ---
 
-Originário de uma cultura caçadora-coletora, o Primitivo domina os ritmos da natureza, conhece plantas, animais e padrões climáticos, e sabe sobreviver onde tecnologia nenhuma funciona. 
+“”
 
-Sua força está na intuição, na leitura do ambiente e na capacidade de adaptar-se rapidamente. Mesmo em um planeta desconhecido, reconhece padrões universais da vida selvagem.
+Originário de uma cultura caçadora-coletora, o Primitivo domina os ritmos da natureza, conhece plantas, animais e padrões climáticos, e sabe sobreviver onde tecnologia nenhuma funciona. 
 
 ### O Primitivo no Mundo
 
@@ -48,8 +48,6 @@ O Primitivo também pode ser oriundo de outro planeta e estar acompanhando a tri
 
 ### Sugestões de Nomes
 
-**Humanos:** Ceci, Abaré, Ybytuíra, Itagibá, Aracyara, Anhangá, Cunhataí, Carybé, Ybyráuna, Guaribé, Itacy, Aimberê
-
 **Alienígenas:** Kesh, Lurak, Hii’na, Toruun, Asha.
 
 !!! note "Primitivos Sintéticos?"
@@ -59,10 +57,13 @@ O Primitivo também pode ser oriundo de outro planeta e estar acompanhando a tri
 ### Habilidades
 
 #### Armadilha Relâmpago
-
 Com alguns gestos rápidos e materiais naturais, você monta uma armadilha improvisada. Uma vez por cena, escolha um ponto do terreno. A primeira criatura que o atravessa sofre uma Consequência Moderada adequada ao tipo de armadilha (quedas, golpes, enredamentos, estacas improvisadas, etc.).
 
 #### Comunhão Selvagem
+Você consegue se aproximar, acalmar criaturas não hostis ou confusas, ou intimidar predadores. Uma vez por cena, você pode interagir de forma não verbal com um animal, obtendo passagem segura, evitando um confronto ou garantindo uma reação favorável. 
 
-Você consegue se aproximar, acalmar criaturas não hostis ou confusas ou intimidar predadores. Uma vez por cena, você pode interagir de forma não verbal com um animal, obtendo passagem segura, evitando um confronto ou garantindo uma reação favorável. 
+#### Despistar 
+Ao invés de apagar um rastro, o personagem deixa pistas de propósito, guiando os inimigos a uma armadilha ou falsa conclusão. Use uma vez por cena.
 
+#### Mimetismo 
+Não havia ninguém lá até, ou era que eles pesavam até a primeira cabeça ser atingida. Num ambiente natural, marque estresse para se tornar totalmente imperceptível enquanto estiver imóvel. 

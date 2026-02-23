@@ -4,9 +4,9 @@ authors:
     - Diego C. Sampaio
 ---
 
-O Engenheiro vê potencial onde outros veem sucata. Destroços viram ferramentas, restos viram armas, tecnologia quebrada vira esperança. Em um planeta sem infraestrutura, ele traduz engenhosidade em sobrevivência prática.
+“”
 
-Mais do que consertar, o Engenheiro improvisa. Ele entende sistemas o suficiente para quebrar regras, forçar limites e criar soluções perigosas — mas funcionais. Seus projetos raramente são elegantes, quase sempre são instáveis, mas são absolutamente vitais. 
+O Engenheiro é o cérebro prático da equipe. Ele transforma sucata em ferramentas e entende sistemas o suficiente para quebrar regras, forçar limites e criar soluções incomuns.
 
 ### Competências
 
@@ -44,22 +44,17 @@ O Engenheiro é competente em:
 
 ### Sugestões de Nomes
 
-**Humanos:** Renata, Thiago, Chen, Huang, Hae-in, Dong-hyun, Kavita, Rohan, Yumi, Taro, Irina, Pavel, Lena, Tobias, Marta, Javier, Élodie, Pierre, Alessia, Luca, Nia, Chike, Samira, Tariq. 
-
 **Alienígenas:** Klik-Tar, Oolme, Xar’ith, Brenn-Ka, Uuvo.
 
 **Sintéticos:** ENG-03 “Remendão”, ENG-09 “Funileiro”, ENG-22 “Faísca”.
 
 ### Habilidades
 
-#### Sobrecarga
-Utilizando um equipamento que tenha algum tipo de fonte de energia, você o sobrecarrega para causar uma explosão. Uma vez por cena, destrua um equipamento que possua fonte de energia ou potencial para explodir e cause uma explosão com Consequências Moderadas e alcance próximo da mesma categoria do equipamento destruído.
-
 #### Forçar os limites
 Você pode modificar equipamentos para torná-los muito mais eficientes por um curto período de tempo. Uma vez por cena, escolha uma ferramenta, até o fim dessa cena ela será considerada Superior. Quando a cena terminar a ferramenta é destruída ou inutilizada em definitivo.
 
 #### Ajuste Fino
-Você calibra um dispositivo para operar além dos padrões normais — mas com risco. Um equipamento do grupo é considerado Superior em sua próxima ação. Se o resultado da ação for uma falha, o equipamento é destruído.
+Você calibra um dispositivo para operar além dos padrões normais — mas com risco. Um equipamento é considerado Superior em sua próxima ação. Se o resultado da ação for uma falha, o equipamento é destruído.
 
 #### Interface Improvisada
 Com fios expostos, chips avulsos e muito talento, você força comunicação com dispositivos incompatíveis. Marque estresse para se conectar e interagir com qualquer sistema, mesmo alienígena ou sem linguagem conhecida: abrir portas, acessar registros básicos, ativar comandos simples.
@@ -87,6 +82,9 @@ Os sistemas da nave estão desligados ou avariados, mas você consegue redirecio
 * Armas (se a nave possuir).
 * Projetores de campo.
 * Câmeras internas.
+
+#### Sobrecarga
+Utilizando um equipamento que tenha algum tipo de fonte de energia, você o sobrecarrega para causar uma explosão. Uma vez por cena, destrua um equipamento que possua fonte de energia ou potencial para explodir e cause uma explosão com Consequências Moderadas e alcance próximo da mesma categoria do equipamento destruído.
 
 ### Cartilha
 

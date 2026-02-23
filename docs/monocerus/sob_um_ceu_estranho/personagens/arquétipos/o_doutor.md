@@ -4,9 +4,9 @@ authors:
     - Diego C. Sampaio
 ---
 
-O Doutor sustenta a linha tênue entre vida e morte. Em condições ideais, já seria indispensável; em um planeta alienígena, ele se torna um explorador da biologia desconhecida.
+“”
 
-O Doutor atua como pesquisador de campo e cientista aplicado. Ele analisa amostras, identifica compostos desconhecidos, estuda organismos locais e testa hipóteses com recursos mínimos. Sua compreensão permite transformar dados brutos em tratamentos, antídotos e procedimentos. 
+O Doutor é a linha entre a vida e a morte. Ele cuida da saúde física e mental da equipe, enfrentando ferimentos, toxinas e ameaças biológicas. Sua presença garante que o grupo continue em pé.
 
 ### Competências
 
@@ -44,8 +44,6 @@ O Doutor é competente em:
 
 ### Sugestões de Nomes
 
-**Humanos:** Lívia, Eduardo, Xiu, Ren, Se-ah, Joon-seok, Meera, Sanjay, Misaki, Akira, Tatiana, Nikolai, Miriam, Jonas, Elena, Andrés, Sophie, Julien, Francesca, Matteo, Makena, Omari, Yasmin, Hassan.
-
 **Alienígenas:** Zheel, Amara-Ti, Noq, Sehlun, Prae.
 
 **Sintéticos:** MED-02 “Asclepto”, MED-08 “Salus”, MED-14 “Cuidador”
@@ -64,14 +62,8 @@ Você injeta potentes estimulantes e analgésicos em alguém para mantê-lo luta
 #### Foco Cirúrgico
 Enquanto estiver tratando alguém, você pode ignorar distrações, explosões ou ataques indiretos. Marque estresse, até o final da cena, ignore qualquer condição que não seja Dramática e que possa atrapalhar quando você estiver tratando alguém.
 
-#### O que é essa coisa....
-Você pode analisar rapidamente um organismo desconhecido. Marque estresse para identificar uma verdade útil: fraqueza, toxina, forma de neutralização, ponto vulnerável biológico, etc. Funciona uma vez por tipo de organismo.
-
 #### Vacina de Emergência
 Com uma amostra mínima da ameaça ou um sensor portátil, você sintetiza rapidamente um agente protetor — vacina, antídoto, quelante, micro escudo celular ou filme bioquímico. Marque estresse e prepare uma substância que concede resistência por uma cena contra qualquer perigo biológico (vírus, bactérias, esporos, parasitas, toxinas orgânicas) ou certos perigos ambientais (radiação leve a moderada, contaminação química, poeira não reativa) para um indivíduo.
-
-#### Catalisador Improvisado
-Sua experiência com química avançada permite manipular substâncias comuns para criar efeitos úteis. Se tiver substâncias químicas disponíveis misture-as, marque estresse e declare um efeito químico plausível: corrosão, fumaça, solvente, etc. 
 
 #### Não beba isso...
 Sua experiência com química e toxicologia permite detectar indicadores ambientais sutis. Uma vez por cena, marque estresse para detectar automaticamente a presença e a origem de um perigo químico, biológico ou radiativo próximo.
@@ -85,6 +77,12 @@ Você administra um composto neuroinibidor — dardo, spray, gás — no alvo. M
 **Dormir**: o alvo fica inconsciente por uma cena ou até ser despertado.
 **Paralisar**: o alvo fica incapaz de se mover, mas consciente; qualquer tentativa de agir sofre grande desvantagem.
 **Desorientar**: o alvo sofre uma **Condição Moderada** apropriada (tontura, lentidão, visão turva, espasmos).
+
+#### O que é essa coisa....
+Você pode analisar rapidamente um organismo desconhecido. Marque estresse para identificar uma verdade útil: fraqueza, toxina, forma de neutralização, ponto vulnerável biológico, etc. Funciona uma vez por tipo de organismo.
+
+#### Catalisador Improvisado
+Sua experiência com química avançada permite manipular substâncias comuns para criar efeitos úteis. Se tiver substâncias químicas disponíveis misture-as, marque estresse e declare um efeito químico plausível: corrosão, fumaça, solvente, etc. 
 
 ### Cartilha
 

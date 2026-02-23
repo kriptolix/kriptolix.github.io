@@ -4,9 +4,9 @@ authors:
     - Diego C. Sampaio
 ---
 
-O Sobrevivente não segue manuais — ele segue o instinto. Parte trapaceiro, parte explorador, parte oportunista, ele sempre encontra um jeito de sair vivo, mesmo quando não deveria. Onde outros veem regras, ele vê brechas.
+“Olha, sua excelência. Vamos deixar uma coisa clara. Eu sigo ordens de apenas uma pessoa: eu mesmo." Han Solo
 
-Nem sempre é confiável, mas quase sempre é útil — e, no fim das contas, ainda está respirando.
+O Sobrevivente não segue manuais. Parte trapaceiro, parte explorador, parte oportunista, ele sempre encontra um jeito de sair vivo. Onde outros veem regras, ele vê brechas.
 
 ### Competências
 
@@ -42,22 +42,53 @@ Nem sempre é confiável, mas quase sempre é útil — e, no fim das contas, ai
 
 ### Sugestões de Nomes
 
-**Humanos:** Janaina, Caio, Yun, Lei, Ara, Tae-ho, Ritu, Karan, Mio, Ryo, Oksana, Roman, Pia, Sven, Rocío, Mateo, Camille, Théo, Chiara, Nico, Chiamaka, Taye, Fatima, Jamal.
-
 **Alienígenas:** Skrit, Yalla, Fen’to, Rizz, Kavo.
 
 **Sintéticos:** SUR-04 “Sortudo”, SUR-10 “Liso” , SUR-17 “Jogador”.
 
 ### Habilidades
 
-#### Eu Já Vi Coisa Pior
+#### Instinto de Sobrevivência
+Seu corpo reage antes mesmo de você pensar. Uma vez por cena, ao sofrer uma Consequência física, marque estresse, explique como fez (você desvia, rola ou usa o cenário ao seu favor) e reduza a Consequência em um Grau. 
 
+#### Eu Já Vi Coisa Pior
 Nada te choca; tudo é só mais um problema. Marque estresse para ignorar Condições de medo, horror, choque ou pressão social até o fim da cena.
 
 #### Improviso Inacreditável
-
 Você transforma qualquer coisa em algo útil. Uma vez por cena, escolha um objeto simples ou quebrado e descreva como o converte em:
-uma arma, uma ferramenta, um disfarce ou item de suporte.
+uma arma, uma ferramenta, um disfarce ou item de suporte. O objeto funciona até o fim da cena e depois é inutilizado.
 
-O objeto funciona até o fim da cena e depois é inutilizado.
+#### Para onde ele foi?
+Quando perseguido, você encontra um lugar pra se esconder — e desaparece. Uma vez por cena, marque estresse de acordo com o grau de dificuldade para despistar um perseguidor se escondendo. 
 
+### Equipamento
+
+- Armas
+
+Bastão
+
+Faca improvisada
+
+Estilingue improvisado
+
+- Trajes e Proteções
+
+Roupa reforçada
+
+- Ferramentas e Engenharia
+
+Kit de ferramentas modular
+
+- Equipamento Científico e Exploração
+
+Binóculos digitais
+
+- Medicina e Suporte Biológico
+
+Kit médico básico
+
+- Suprimentos e Sobrevivência
+
+Mochila de sobrevivência
+
+Rações compactas

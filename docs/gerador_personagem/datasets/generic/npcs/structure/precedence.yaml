@@ -1,8 +1,0 @@
-precedence:
-  - core
-  - silhouette
-  - head
-  - body
-  - clothing
-  - behavior
-  - presence
