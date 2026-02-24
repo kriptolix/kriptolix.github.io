@@ -4,7 +4,7 @@ authors:
     - Diego C. Sampaio
 ---
 
-“Olha, sua excelência. Vamos deixar uma coisa clara. Eu sigo ordens de apenas uma pessoa: eu mesmo." Han Solo
+> “Se for uma luta justa, alguém errou.” *— Jack O'Neill, em Stargate SG-1*
 
 O Sobrevivente não segue manuais. Parte trapaceiro, parte explorador, parte oportunista, ele sempre encontra um jeito de sair vivo. Onde outros veem regras, ele vê brechas.
 
@@ -63,32 +63,13 @@ Quando perseguido, você encontra um lugar pra se esconder — e desaparece. Uma
 
 ### Equipamento
 
-- Armas
+Suprimentos: 
+Pad padrão, 
+mochila de sobrevivência, 
+gerador portátil de energia vital.
 
-Bastão
+Arsenal básico: Pistola compacta ou carabina civil.
 
-Faca improvisada
+Proteções básicas: Armadura leve de combate.
 
-Estilingue improvisado
-
-- Trajes e Proteções
-
-Roupa reforçada
-
-- Ferramentas e Engenharia
-
-Kit de ferramentas modular
-
-- Equipamento Científico e Exploração
-
-Binóculos digitais
-
-- Medicina e Suporte Biológico
-
-Kit médico básico
-
-- Suprimentos e Sobrevivência
-
-Mochila de sobrevivência
-
-Rações compactas
+Ferramenta de infiltração improvisada — Dispositivo híbrido feito de sucata, capaz de clonar acessos, invadir terminais e espionar comunicações. Não é tão eficiente quanto o pad científico, mas funciona em situações desesperadas.

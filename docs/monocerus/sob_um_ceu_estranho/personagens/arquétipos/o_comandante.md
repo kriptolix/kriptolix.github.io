@@ -4,7 +4,7 @@ authors:
     - Diego C. Sampaio
 ---
 
-> "Uma coisa impossível de cada vez." *Picard*.
+> "Uma coisa impossível de cada vez." *— Jean-Luc Picard, em Star Trek: The Next Generation*
 
 O Comandante mantém a tripulação coesa. Ele não dá ordens e sim cria confiança e propósito. Sua presença garante que o grupo não se desfaça diante das pressões. Ele faz o impossível parecer alcançável.
 
@@ -48,43 +48,12 @@ Diante de caos, medo ou desunião, você pode reunir a tripulação com palavras
 
 ### Equipamento
 
-- Armas 
+Suprimentos: Pad padrão (coordenação, comunicação).
 
-Pistola (Arsenal Básico)
+Arsenal: 
+Pistola compacta (arma discreta, segura em nave), 
+escudo de campo.
 
-Bastão retrátil de choque leve
-
-- Trajes e Proteções
-
-Roupa reforçada
-
-Armadura leve de combate
-
-- Ferramentas e Engenharia
-
-Tablet tático
-
-Binóculos digitais
-
-- Equipamento Científico e Exploração
-
-Projetor holográfico portátil
-
-Drones de comando (telemetria e comunicação)
-
-- Medicina e Suporte Biológico
-
-Kit médico básico
-
-- Suprimentos e Sobrevivência
-
-Mochila
-
-Rações compactas
-
-
-
-
-
-
-
+Proteções militares: 
+Escudo portátil, 
+traje espacial reforçado (para liderança em ambientes extremos).

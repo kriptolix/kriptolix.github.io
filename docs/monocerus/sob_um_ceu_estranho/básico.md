@@ -21,7 +21,7 @@ date: 2025-09-28
 
     * Termos utilizados com um sentido especial dentro do jogo que não corresponde ao seu sentido comum serão grafados com a primeira letra maiúscula e em negrito. Ex: **Controle**.
 
-    * Os dados usados no jogo serão referenciados pela qualidade seguida de "d6". Ex: 2d6 para dois dados, 3d6 para três dados. 
+    * Os dados usados no jogo serão referenciados pela quantidade seguida de "d6". Ex: 2d6 para dois dados, 3d6 para três dados. 
 
     * O conteúdo faz referencia a jogador, narrador e personagem. Sempre que "você" for utilizado considere que o termo se refere a jogador a não ser nos capítulos exclusivos para o narrador, ou onde "você" se refere a narrador. Ao se referir a personagens sera sempre usado o termo "personagem" ou "personagens". 
 
@@ -72,7 +72,7 @@ Todas as características que alterem o grau do personagem em uma certa situaç�
 Às vezes, ambas as situações vão ocorrer. Nesses casos, o grau padrão do personagem naquela ação passa a ser o grau referido e depois é alterado pelo grau modificado que é empilhado sobre ele. 
 
 !!! note "Exemplo"
-    O tenente Aran é um oficial de segurança treinado para operar em ambientes hostis, e possui o **Arquétipo Tático**, que lhe garante **Controle Elevado** ao usar armamento de energia portátil. Isso significa que, sempre que estiver manipulando rifles de pulso, pistolas de plasma ou armas similares, seu grau base de Controle é Alto, em vez de **Padrão**. 
+    O tenente Aran é um oficial de segurança treinado para operar em ambientes hostis, e possui o **Arquétipo Combatente**, que lhe garante **Controle Elevado** ao usar armamento de energia portátil. Isso significa que, sempre que estiver manipulando rifles de pulso, pistolas de plasma ou armas similares, seu grau base de Controle é Alto, em vez de **Padrão**. 
 
 Caso aconteça do personagem possuir duas características que alteram o grau base para uma certa situação, só a maior delas se aplica.
 

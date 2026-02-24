@@ -4,7 +4,7 @@ authors:
     - Diego C. Sampaio
 ---
 
-“”
+> “Cuide deles e eles cuidarão de você.” *— Leonard McCoy, em Star Trek*
 
 O Doutor é a linha entre a vida e a morte. Ele cuida da saúde física e mental da equipe, enfrentando ferimentos, toxinas e ameaças biológicas. Sua presença garante que o grupo continue em pé.
 
@@ -83,6 +83,17 @@ Você pode analisar rapidamente um organismo desconhecido. Marque estresse para 
 
 #### Catalisador Improvisado
 Sua experiência com química avançada permite manipular substâncias comuns para criar efeitos úteis. Se tiver substâncias químicas disponíveis misture-as, marque estresse e declare um efeito químico plausível: corrosão, fumaça, solvente, etc. 
+
+### Equipamento
+
+Medicina e suporte biológico: 
+Kit médico básico, 
+kit de suporte farmacológico, 
+scanner médico, 
+kit cirúrgico compacto, 
+traje de risco biológico.
+
+Arsenal básico: Bastão de dissuasão multifuncional (não letal, coerente com função de contenção).
 
 ### Cartilha
 

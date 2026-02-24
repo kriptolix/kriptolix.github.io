@@ -4,7 +4,7 @@ authors:
     - Diego C. Sampaio
 ---
 
-“”
+> “O mundo selvagem não é cruel. Ele é honesto.” *— Conan, em Conan the Barbarian*
 
 Originário de uma cultura caçadora-coletora, o Primitivo domina os ritmos da natureza, conhece plantas, animais e padrões climáticos, e sabe sobreviver onde tecnologia nenhuma funciona. 
 
@@ -67,3 +67,7 @@ Ao invés de apagar um rastro, o personagem deixa pistas de propósito, guiando 
 
 #### Mimetismo 
 Não havia ninguém lá até, ou era que eles pesavam até a primeira cabeça ser atingida. Num ambiente natural, marque estresse para se tornar totalmente imperceptível enquanto estiver imóvel. 
+
+### Equipamento
+
+lanças improvisadas, cordas de fibra natural, cantil resistente e pederneira para fogo.

@@ -66,165 +66,165 @@ Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo,
 
 **Obs**: Os itens abaixo ainda não contam com Descritivos mas eles serão adicionados.
 
-## Armas e outras coisas perigosas
+### Equipamento sem pre requisito
 
-### Armas Improvisadas (Agravante Razoável)
+● Pad padrão — Computador pessoal portátil que funciona como registro de dados, comunicação de curto alcance e suporte básico de processamento.
 
-● Bastão — Um pedaço de metal ou madeira encontrado após a queda.
+●-● Bastão — Um pedaço de metal ou madeira encontrado após a queda. 
 
 ● Faca improvisada — Lâmina feita de sucata afiada; útil para cortar, caçar ou lutar. *Tags: Ocultável, Frágil.*
 
 ● Estilingue improvisado — Usa pedras ou parafusos como munição; baixa precisão.*Tags: Ocultável, Frágil, Esquisito, Próximo.*
 
-● Arma de manutenção — Pistola técnica usada para cortar materiais leves; baixa capacidade ofensiva.*Tags: Ocultável, Esquisito.* 
+●-● Roupa reforçada — Tecido resistente a cortes e abrasões. *Tags: vestível*.
 
-●-● Bastão de arco elétrico — Ferramenta convertida em arma de choque contínuo.*Tags: Requisito: Engenharia Básica, Perigoso, Recarga, Frágil.* 
+●-●-● Traje espacial padrão — Protege contra vácuo e ambientes hostis; limitado em mobilidade.Pressurização, suporte de vida e blindagem leve. *Tags: vestível*.
 
-●-● Carga de corte — Explosivo controlado para abrir portas ou perfurações.*Tags: Requisito: Engenharia Básica, Volátil, Area: Pequena.*
+● Kit de ferramentas modular — Conjunto básico para manutenção e ajustes gerais.
+
+● Pistola de corte — Ferramenta técnica usada para cortar materiais leves; pode ser improvisada como arma de baixa eficácia. *Tags: Ocultável, Esquisito, Próximo.*
+
+● Kit médico básico — Curativos, analgésicos leves e antissépticos para primeiros socorros.
+
+## Arsenal
 
 ### Arsenal Básico (Agravante Elevado)
 
 Obs: Inclui arcos, lanças e outras armas primitivas.
 
-● Faca tática — Lâmina de liga resistente; usada por combatentes.*Tags: Arremesso.*
-
-● Pistola — Pistola de uso geral. Dispara micro-projéteis metálicos acelerados por bobinas eletromagnéticas, com potência ajustável. Em potência reduzida, não perfura cascos nem estruturas críticas.*Tags: Recarga, Afastado.*
-
-● Pistola compacta — Arma projetada para ocultação que emite pulsos laser de baixa energia. Alcance limitado, mas alta confiabilidade e zero risco de perfuração estrutural. *Tags: Recarga, Ocultável, Proximo.* 
+● Pistola compacta — Arma discreta que dispara pulsos laser de baixa energia, ideal para missões em ambientes pressurizados onde perfuração estrutural seria fatal.. *Tags: Recarga, Ocultável, Proximo.* 
 
 ●-● Carabina Civil -Arma longa simples e robusta para defesa de perímetro e controle de fauna. Fácil manutenção, munição padronizada e modos não letais.
 
-●-● Bastão de choque — Bastão retrátil que envolve o alvo em um arco de plasma de baixa temperatura. Causa dor intensa, espasmos musculares e desorientação sem danos permanentes. Totalmente seguro para uso em naves e estações..*Tags: Não-Letal, Recarga, Perigoso.* 
+●-● Bastão de dissuasão — Ferramenta retrátil de emissão sonora de alta frequência, projetada para incapacitar sem causar danos permanentes..*Tags: Não-Letal.* 
 
 ● Arma de dardos — Pistola que dispara projéteis sedativos.*Tags: Recarga, Afastado.* 
 
-●-● Bastão sonoro de dissuasão — Emite vibrações sonoras que atordoam.*Tags: Não-Letal.* 
+#### Proteções Básicas (Atenuante Elevado)
+
+● Escudos de Campo - Bracelete que gera uma barreira energética capaz de desviar projéteis e dissipar impactos. 
+
+●-● Armadura leve de combate — Conjunto modular de placas resistentes, oferecendo proteção básica sem comprometer mobilidade. 
 
 ### Arsenal Militar (Agravante Superior)
 
+● Pad tático militar — Blindado, projetado para uso em combate. Possui comunicação criptografada de médio alcance. Inclui funções de rastreamento de aliados e inimigos, além de protocolos de bloqueio e interferência contra sinais hostis.
+
 ● Pistola Pesada - Arma de grande calibre eletromagnético, projetada para neutralizar alvos blindados ou criaturas de grande porte. Seus projéteis densos atingem velocidades extremas, transferindo energia massiva ao impacto. Pode atravessar paredes e veículos não blindados. *Tags: Recarga, Afastado.*
 
-●-● Submetralhadora compacta - Arma eletromagnética compacta de alta cadência, projetada para combate em ambientes confinados. Usa micro-projéteis leves e um sistema de alimentação horizontal. Excelente controle, baixo recuo e modos não letais integrados.
-
-●-● Metralhadora leve - Arma de apoio portátil que dispara projéteis gauss de média potência em fogo sustentado. Utiliza baterias e capacitores intercambiáveis. Ideal para supressão de área sem destruição estrutural excessiva.
+●-● Submetralhadora - Arma eletromagnética compacta de alta cadência, projetada para combate em ambientes confinados. Usa micro-projéteis leves e um sistema de alimentação horizontal. Excelente controle, baixo recuo e modos não letais integrados.
 
 ●-●-● Metralhadora pesada - Sistema pesado de supressão que emite pulsos de partículas de alta energia. Capaz de atravessar veículos, escudos e fortificações leves. Geralmente montada em tripé ou veículo devido ao alto consumo energético.
 
 ● Faca monomolecular — Lâmina hiperafiada feita com borda molecular. 
 
-●-● Fuzil de Assalto — Rifle eletromagnético automático, equilibrando cadência, alcance e controle. Dispara projéteis padrão com excelente precisão e baixa assinatura sonora. Pode alternar entre modos letais e de supressão, ajustando a velocidade do projétil. *Tags: Recarga, Duas Mãos, Distante.*
+●-● Fuzil de Assalto — Rifle eletromagnético automático que combina precisão e cadência, capaz de alternar entre disparos letais e modos de supressão silenciosa, ajustando a velocidade do projétil. *Tags: Recarga, Duas Mãos, Distante.*
 
-●-● Escopeta de Plasma - Emissor de plasma de curto alcance que projeta um cone de energia térmica instável. Extremamente eficaz a curta distância, causando queimaduras severas e sobrecarga de sistemas. O plasma se dissipa rapidamente, tornando a arma segura para uso em naves e instalações pressurizadas.
+●-● Escopeta de Plasma - Arma de curto alcance que libera um cone de plasma instável, devastador contra alvos próximos, mas que se dissipa rapidamente, tornando-a segura para uso em naves e estações.
 
 ●-● Carabina de Pulso - Arma energética compacta que dispara pulsos de energia estáveis e de média potência. 
 
 ●-● Arma de ondas neurais — Atordoa inimigos com pulsos direcionados. 
 
-●-●-● Rifle de Precisão - Arma de longo alcance que dispara um feixe concentrado de partículas energizadas. instantâneo, silencioso e virtualmente sem queda. Requer tempo de recarga e resfriamento entre tiros. 
+●-●-● Rifle de Precisão - Rifle de elite que dispara feixes de partículas energizadas instantâneos e silenciosos, exigindo tempo de recarga entre disparos, mas oferecendo letalidade absoluta a longa distância. 
 
-●-●-● Lança-granadas modular — Sistema portátil de lançamento de cápsulas energéticas. As granadas não usam explosivos químicos; são cápsulas de plasma ou emissores de partículas que se ativam no impacto ou por proximidade. Seguro para uso em ambientes pressurizados, dependendo do tipo de munição.
+●-●-● Lança-granadas modular — Sistema portátil que dispara cápsulas energéticas de plasma ou partículas que se ativam no impacto ou por proximidade. Seguro para uso em ambientes pressurizados, dependendo do tipo de munição.
 
-●-●-● Torreta danificada reativável — Unidade defensiva com mobilidade mínima.
+●-●-● Torreta danificada reativável — Unidade defensiva danificada que pode ser improvisada para fornecer fogo de cobertura limitado.
 
-● Granada de plasma - granada padrão.
+● Granada de plasma - Granada padrão. Dispositivo explosivo que libera energia térmica concentrada em curto raio.
 
-● Granada PEM - gera pulso eletromagnético que so afeta equipamento.
+● Granada PEM - Dispositivo portátil que libera um pulso eletromagnético, desativando sistemas eletrônicos e armas energéticas sem causar danos físicos.
 
 ● Granada de pulso sônico — Gera onda de choque sonora não letal. 
 
-### Trajes e proteções (Atenuante Razoável)
-
-●-● Roupa reforçada — Tecido resistente a cortes e abrasões. 
-
-●-●-● Traje espacial padrão — Protege contra vácuo e ambientes hostis; limitado em mobilidade.Pressurização, suporte de vida e blindagem leve
-
-#### Proteções Básicas (Atenuante Elevado)
-
-● Escudos de Campo - Barra de energia gerada por um bracelete que desvia projéteis e dissipa energia. 
-
-●-● Armadura leve de combate — Peitoral, braçais e proteção de pernas; mobilidade razoável. 
-
 #### Proteções Militares (Atenuante Superior)
 
-●-● Escudo portátil — Barra de energia gerada por uma mochila. 
+●-● Escudo portátil — Versão reforçada do escudo de campo, gerado por mochila de energia. 
 
-●-●-● Escudo tático pesado — Versão maior usada por unidades militares. 
+●-●-● Traje espacial reforçado — Versão militarizada com blindagem ativa, sensores táticos e escudo integrado, além de proteção contra armas de energia.
 
-●-●-● Traje espacial reforçado — Versão militarizada com reforço estrutural, sensores táticos e proteção contra armas de energia. Blindagem ativa e escudo integrado.
-
-●-●-● Armadura pesada de combate — Placas reforçadas, servo-assistência parcial. 
+●-●-● Armadura pesada de combate — Placas reforçadas com servoassistência parcial, projetada para combates intensos. 
 
 ### Ferramentas e engenharia
 
-● Kit de ferramentas modular — Conjunto básico para manutenção.
-
-●-● Tocha de solda — Para reparos rápidos. 
-
 #### Ferramentas Básicas
+
+●-● Soldador laser de precisão: usa feixes de luz concentrada para unir metais e polímeros sem necessidade de consumíveis. *Tags: Requisito: Engenharia Básica, Volátil, Area: Pequena.*
+
+● Scanner de materiais — Identifica composição química e estrutural antes de qualquer reparo.
+
+● Scanner estrutural — Analisa integridade de materiais, paredes e suportes.
+
+● Visor multiespectral — Exibe calor, radiação e espectros ocultos, útil para detectar falhas ou perigos.
+
+● Cortador de plasma portátil — Gera um arco de plasma controlado para cortar metais e ligas resistentes.
+
+● Selador de campo portátil — Cria uma vedação temporária em trajes ou estruturas, contendo vazamentos de ar ou líquidos.
+
+#### Ferramentas Avançadas
+
+● Impressora de peças portátil — Cria componentes simples a partir de matéria-prima disponível.
+
+● Kit de nanorreparos — Cápsulas que liberam nanomáquinas para corrigir microfissuras ou restaurar circuitos.
+
+● Drones reparadores — Pequenos bots que realizam manutenção remota em áreas de difícil acesso.
+
+● Banco de energia móvel — Fornece energia para equipamentos ou recarga de sistemas.
+
+● Kits de estabilização estrutural — Evitam desabamentos ou reforçam paredes e suportes danificados.
+
+● Explosivos de demolição — Cargas potentes usadas para abrir passagem em estruturas resistentes ou em combate.
+
+● Projetor holográfico de instruções — Exibe guias visuais interativos para reparos complexos, funcionando como suporte técnico avançado.
 
 ● Ferramentas de hacking — Dispositivos para invadir painéis e terminais. 
 
 ● Kit de abertura digital — Lockpick avançado para portas eletrônicas. 
 
-● Scanner estrutural — Analisa integridade de materiais e paredes. 
-
-● Visor multiespectral — Exibe calor, radiação e espectros ocultos. 
-
-●-● Chave de plasma — Ferramenta capaz de cortar metal leve. 
-
-#### Ferramentas Avançadas
-
-●-● Impressora de peças portátil — Cria peças simples com matéria-prima. 
-
-●-● Drones reparadores — Pequenos bots que realizam manutenção remota. 
-
-●-● Banco de energia móvel — Fornece energia para equipamentos ou recarga. 
-
-●-● Kits de estabilização estrutural — Evitam desabamentos ou estabilizam paredes.
-
-●-● Explosivos de demolição — Cargas potentes usadas para estruturas e combate. 
-
 ### Equipamento cientifico e de exploração
 
 #### Equipamento Básico
 
-● Coletores de amostra — Tubos, recipientes e ferramentas de coleta. 
+● Coletores de amostra — Tubos, recipientes e ferramentas simples para coleta de materiais.
 
-● Analisador portátil — Permite testes químicos e biológicos simples. 
+● Analisador portátil — Realiza testes químicos e biológicos básicos em campo.
 
 #### Equipamento Avançado
 
-● Sensores planetários básicos — Medem radiação, clima, atmosfera.
+● Pad avançado — Dispositivo multifuncional com sensores ambientais integrados, funções cartográficas e capacidade de baliza para navegação planetária.
 
-●-● Scanner de alta precisão — Analisa partículas e estruturas com detalhe. 
+● Sensores planetários portáteis — Medem radiação, clima e composição atmosférica.
 
-●-● Drones exploradores — Mapeiam áreas remotas; transmitem dados.
+● Kit de sondagem geológica — Ferramentas para análise de solo, minerais e estruturas rochosas.
 
-●-● Traje de risco radioativo.
+● Scanner de alta precisão — Analisa partículas e estruturas com grande detalhe, útil para pesquisa avançada.
 
-●-●-● Laboratório portátil — Equipamento para análises avançadas. 
+● Drones exploradores — Mapeiam áreas remotas e transmitem dados em tempo real.
+
+● Laboratório portátil — Equipamento completo para análises químicas e biológicas avançadas. 
 
 ### Medicina e suporte biológico
 
-● Kit médico básico — Curativos, analgésicos leves, antissépticos.
+● Kit médico básico — Curativos, analgésicos leves e antissépticos para primeiros socorros.
 
 #### Equipamento Básico
 
-● Monitor biométrico simples — Mede batimentos, oxigênio, estresse.
+● Monitor biométrico simples — Mede batimentos, oxigenação e níveis de estresse.
 
-● Mascaras de risco biológico.
+● Máscaras de risco biológico — Proteção contra patógenos e ambientes contaminados.
 
-●-● Kit cirúrgico compacto — Ferramentas para emergências. 
+● Kit de suporte farmacológico — Estojo com antibióticos, antivirais e estabilizadores básicos.
 
 #### Equipamento Avançado
 
-● Scanner médico — Lê sinais vitais e detecta anomalias.
+● Kit cirúrgico compacto — Ferramentas para procedimentos de emergência em campo.
 
-● Pistola tranquilizante — Dispara dardos sedativos.
+● Scanner médico — Analisa sinais vitais em profundidade e detecta anomalias internas.
 
-●-● Traje de risco biológico — . 
+● Traje de risco biológico — Proteção completa contra agentes tóxicos e infecciosos.
 
-●-● Mini-laboratório biológico — Detecta patógenos, toxinas e compõe tratamentos. 
+● Mini-laboratório biológico — Detecta patógenos e toxinas, permitindo compor tratamentos improvisados.
 
 ### Suprimentos e sobrevivência
 
@@ -242,7 +242,9 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 
 #### Itens Avançados
 
-●-●-● Módulos agrícolas compactos — Pequenas unidades de cultivo automatizado. 
+●-●-● Módulos agrícolas compactos — Pequenas unidades de cultivo automatizado.
+
+● Gerador portátil de suporte de vida — Fornece calor, luz e energia mínima para equipamentos em situações críticas.
 
 ### Itens variados
 

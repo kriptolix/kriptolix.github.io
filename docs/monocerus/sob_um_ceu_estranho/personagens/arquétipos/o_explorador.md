@@ -4,7 +4,7 @@ authors:
     - Diego C. Sampaio
 ---
 
-"O X nunca marca o local.” Indiana Jones.
+> “O desconhecido é só o começo da história.” *— Will Robinson, em Lost in Space*
 
 O Explorador abre caminho, identifica oportunidades e evita armadilhas. Ele garante que a equipe não se perca, que encontre recursos vitais e que avance sempre mais fundo no mistério do planeta.
 
@@ -57,34 +57,15 @@ Você utiliza sensores portáteis, drones simples ou balizas. Uma vez por cena, 
 
 ### Equipamento
 
-- Armas
+Ciência e exploração: 
+Binóculos digitais, 
+kit de sondagem geológica, 
+drones exploradores, 
+pad avançado (baliza cartográfica).
 
-Faca tática
+Suprimentos: 
+Mochila de sobrevivência, 
+Gerador portátil de suporte de vida.
 
-Pistola compacta
+Arsenal básico: Carabina civil (defesa contra fauna).
 
-- Trajes e Proteções
-
-Roupa reforçada
-
-- Ferramentas e Engenharia
-
-Kit de ferramentas modular
-
-Binóculos digitais
-
-- Equipamento Científico e Exploração
-
-Sensores planetários básicos
-
-Drones exploradores
-
-- Medicina e Suporte Biológico
-
-Kit médico básico
-
-- Suprimentos e Sobrevivência
-
-Mochila de sobrevivência
-
-Rações compactas

@@ -92,10 +92,12 @@ nav:
       - monocerus/sob_um_ceu_estranho/personagens/index.md
       - Arquetipos:
         - monocerus/sob_um_ceu_estranho/personagens/arquétipos/index.md
+        - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_cientista.md
         - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_comandante.md
         - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_combatente.md
         - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_doutor.md        
         - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_engenheiro.md
+        - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_explorador.md
         - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_primitivo.md        
         - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_sobrevivente.md              
       - monocerus/sob_um_ceu_estranho/personagens/aspectos.md

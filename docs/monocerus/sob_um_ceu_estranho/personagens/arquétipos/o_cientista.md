@@ -4,7 +4,7 @@ authors:
     - Diego C. Sampaio
 ---
 
-> “Quando você elimina o impossível, o que restar, embora improvável, deve ser a verdade." *Spok*.
+> “Diante do desconhecido, a melhor arma é uma mente aberta.” *— Spock, em Star Trek*
 
 O Cientista coleta dados, interpreta padrões e aplica lógica para enfrentar o inesperado. Ele oferece ao grupo não apenas respostas, mas também novas armas contra o desconhecido.
 
@@ -61,32 +61,16 @@ Uma vez por cena, escolha um elemento natural ou artificial relevante (flora, ca
 
 ### Equipamento
 
-- Armas
+Ciência e exploração: 
+Kit científico básico, 
+coletores de amostra, 
+analisador portátil, 
+binóculos digitais, 
+sensores planetários, 
+laboratório portátil.
 
-Pistola compacta
+Suprimentos: Pad avançado (sensores ambientais e baliza).
 
-- Trajes e Proteções
+Arsenal: Bastão de dissuasão multifuncional (não letal, coerente com perfil).
 
-Roupa reforçada
-
-- Ferramentas e Engenharia
-
-Kit de ferramentas modular
-
-Scanner estrutural
-
-- Equipamento Científico e Exploração
-
-Analisador portátil
-
-Scanner de alta precisão
-
-Laboratório portátil
-
-- Medicina e Suporte Biológico
-
-Kit médico básico
-
-- Suprimentos e Sobrevivência
-
-Mochila
+Pad modificado — Versão avançada do pad, com ferramentas de hacking, análise de padrões e acesso restrito a sistemas da nave. Permite invadir terminais, decifrar códigos e manipular dados ambientais.

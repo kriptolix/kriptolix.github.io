@@ -4,7 +4,7 @@ authors:
     - Diego C. Sampaio
 ---
 
-> “Qualquer coisa que me mate já matou todo mundo.” *Amos Burton*.
+> “Qualquer coisa que me mate já matou todo mundo.” *— Amos Burton, em The Expanse*.
 
 O Combatente é o escudo entre a tripulação e a extinção. Treinado para agir sob pressão, sua presença garante que o grupo tenha força quando o diálogo falha.
 
@@ -59,35 +59,15 @@ O inimigo aponta uma arma. O personagem age em um segundo: desarma, derruba e as
 
 ### Equipamento
 
-- Armas 
+-Arsenal militar: 
+Fuzil de assalto, 
+escopeta de plasma, 
+pistola pesada, 
+rifle de precisão.
 
-Faca tática
+Explosivos: 
+Granada de plasma, 
+granada PEM.
 
-Pistola pesada
-
-Submetralhadora compacta
-
-Escopeta de plasma
-
-- Trajes e Proteções
-
-Armadura leve de combate
-
-Escudo portátil
-
-- Ferramentas e Engenharia
-
-Kit de ferramentas modular
-
-- Equipamento Científico e Exploração
-
-Binóculos digitais
-
-- Medicina e Suporte Biológico
-
-Kit médico básico
-
-- Suprimentos e Sobrevivência
-
-Rações compactas
-
+Proteções militares: 
+Armadura pesada de combate.

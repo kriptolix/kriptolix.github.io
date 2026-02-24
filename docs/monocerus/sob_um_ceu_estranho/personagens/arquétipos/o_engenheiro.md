@@ -4,7 +4,7 @@ authors:
     - Diego C. Sampaio
 ---
 
-“”
+> “Improvisar é só engenharia sob pressão.” *— Judy Robinson, em Lost in Space*
 
 O Engenheiro é o cérebro prático da equipe. Ele transforma sucata em ferramentas e entende sistemas o suficiente para quebrar regras, forçar limites e criar soluções incomuns.
 
@@ -85,6 +85,20 @@ Os sistemas da nave estão desligados ou avariados, mas você consegue redirecio
 
 #### Sobrecarga
 Utilizando um equipamento que tenha algum tipo de fonte de energia, você o sobrecarrega para causar uma explosão. Uma vez por cena, destrua um equipamento que possua fonte de energia ou potencial para explodir e cause uma explosão com Consequências Moderadas e alcance próximo da mesma categoria do equipamento destruído.
+
+### Equipamento
+
+Engenharia: 
+Kit de ferramentas modular, 
+soldador laser, 
+cortador de plasma, 
+impressora de peças portátil, 
+drones reparadores, 
+kit de nanorreparos.
+
+Torreta reativável (só o engenheiro consegue colocar em funcionamento).
+
+Suprimentos: Banco de energia móvel.
 
 ### Cartilha
 
