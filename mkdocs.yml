@@ -20,11 +20,9 @@ theme:
         repo: material/git
     language: pt-BR
 extra_css:
-    - extras/stylesheets/extra.css
-    - extras/stylesheets/generator.css    
+    - extras/stylesheets/extra.css        
 extra_javascript:
-    - extras/js/extra.js
-    - extras/js/generator.js
+    - extras/js/extra.js    
     - https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js    
 plugins:
     - blog:
