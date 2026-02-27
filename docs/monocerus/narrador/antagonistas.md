@@ -34,6 +34,8 @@ Caótico - Impulsivo e imprevisível, nunca se sabe como vai reagir.
 
 Feroz - Prioriza a agressão à própria sobrevivência, tende a atacar sem provocação e raramente foge.
 
+Sádico - Vai prolongar o confronto o máximo que puder, esta mais interessado em impor sofrimento do que em vencer. 
+
 ### Organização
 
 Coordenado: Podem agir em massa, mas com uma precisão assustadora, mesmo sem nenhuma comunicação ou organização complexa.
@@ -46,9 +48,21 @@ Autômato - Faz apenas o que foi programado para fazer, reage de forma limitada.
 
 Instintivo - Apenas reage a mudanças ambientais, busca de alimento, reprodução e reação a ameaças.
 
-Adaptativo – Capaz de modificar suas táticas ou comportamento conforme novas ameaças ou oportunidades surgem. 
+Adaptativo – Capaz de modificar suas táticas ou comportamento conforme novas ameaças ou oportunidades surgem. Baixo.
 
-Inteligente - inteligência humanoide, inovação e comportamento social complexo.
+Inteligente - inteligência humanoide, inovação e comportamento social complexo. Padrão.
+
+### raridade
+
+O quão comum a criatura é, ajuda a definir com que frequência ela deve usada. A raridade nao dita quantas vezes a criatura pode aparecer, apenas quantas vezes ela deveria ser o foco do jogo. 
+
+única - Não existe necessariamente apenas uma dessas criaturas, apesar de poder ser o caso, mas ela é tão singular que nao deve ser usada mas de uma vez por campanha.
+
+rara - Existem pouquíssimas dessas criaturas, use duas ou tres vezes numa campanha.
+
+incomum - Uma dessas nao aparece todo dia, tente nao usar em duas sessões seguidas
+
+comum - Pode ser usada sempre, mas de um respiro a cada 3 ou 4 sessões.
 
 ### Números
 

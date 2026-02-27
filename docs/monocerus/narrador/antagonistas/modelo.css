@@ -22,15 +22,9 @@
     --subtitle-font: 12px;
 }
 
-@font-face {
-    font-family: kalam;
-    /* set name */
-    src: url(kalam.bold.woff2);
-    /* url of the font */
-}
-
 body {
     width: 40%;
+    background-color: #F4F0E7;
 }
 
 .logo {
@@ -45,6 +39,11 @@ body {
     text-align: center;
 }
 
+.card .header {
+    border: 1px solid black;
+    border-radius: 5px;
+    background: black;
+}
 
 .card .linha-cores {
   display: flex;
@@ -58,9 +57,9 @@ body {
     height: 10px   
 }
 
-.card .cor1 { background-color: #550303; }
-.card .cor2 { background-color: #063f06; }
-.card .cor3 { background-color: #0f0f5e; }
+.card .cor1 { background-color: #CFAF7C; }
+.card .cor2 { background-color: #ECEAE7; }
+.card .cor3 { background-color: #883B1B; }
 
 /* text */
 
@@ -72,19 +71,24 @@ body {
 
 /* card blocks */
 
-.card {    
+.card {
+    margin-top: 20px;    
     margin-bottom: 10px;
+    padding: 1em;
 }
 
 .card .title {
     font-family: "Crimson Text", Georgia, serif;   
     
-    padding: 5px 5px;
-    background: black;
+    padding: 5px 5px;    
     letter-spacing: 0.5px;
     color: white;
     font-size: 28px;
     font-weight: 700;
+}
+
+.tags {
+    margin-top: 4px;
 }
 
 .card p {
@@ -97,26 +101,19 @@ body {
     padding: 8px;
 }
 
-.card .body label {
-    margin-bottom: 0.3em;
-}
-
-
 /* characteristics */
 
-.traits {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 3px;
+.traits, .attributes{
+    margin: 10px;
 }
 
-.traits .trait {
+.senses .label{
     text-align: center;
 }
 
-.traits label {
-    font-weight: 600;
-    letter-spacing: 0.4px;
+.subtitle {
+    margin: 10px;
+    font-weight: 700;
 }
 
 /* table */
@@ -129,13 +126,22 @@ table {
     text-align: left;
 }
 
+/* Linhas pares */
+  .expansions tr:nth-child(even) {
+    background-color: #DED6C9;
+  }
+
 td {
     border: 1px solid var(--line);
     padding: 4px;
 }
 
-td:first-child {
-    width: 25%;
+.conditions td:first-child {
+    width: 20%;
+}
+
+.expansions td:first-child {
+    width:5%;
 }
 
 * remove borda externa */ table tr:first-child td {
@@ -151,57 +157,3 @@ table tr td:last-child {
 }
 
 
-/* competencies */
-
-.competencies {
-    column-count: 2;
-    gap: 0px;
-    padding-top: 8px;
-    padding-bottom: 8px;
-}
-
-.competencies label {
-    margin-left: 4px;
-}
-
-/* abilities */
-
-.abilities {
-    padding-top: 8px;
-    padding-bottom: 8px;
-}
-
-.abilities .title {
-    font-weight: 700;
-    margin-bottom: 6px;
-    margin-left: 4px;
-    letter-spacing: 0.3px;
-}
-
-.abilities .text {
-    color: var(--muted);
-
-}
-
-/* equipment */
-
-.equipment {
-    column-count: 3;
-    gap: 0px;
-    margin-bottom: 8px;
-    margin-top: 8px;
-}
-
-.equipment label.text {
-    color: var(--muted);
-
-}
-
-.equipment .title {
-    font-weight: 700;
-    font-family: "Crimson Text", Georgia, serif;
-    font-size: var(--subtitle-font);
-    letter-spacing: 0.3px;
-    margin-bottom: 8px;
-    margin-top: 8px;
-}
