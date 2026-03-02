@@ -67,6 +67,22 @@
 /* ========================= */
 
 .title-page {
+  page: titlePage;
+}
+
+@page titlePage {
+  @bottom-left {
+    content: none;
+    background: none;
+  }
+
+  @bottom-right {
+    content: none;
+    background: none;
+  }
+}
+
+.title-page {
   padding-top: 30%;
 }
 
@@ -86,6 +102,29 @@
 .credits {
   text-align: left;
   padding: 3cm;
+  page: credits;
+}
+
+@page credits {
+  background: #730D62;
+  color: aliceblue;
+  /*-webkit-mask-image: url('../assets/tinta.svg');
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-size: cover;
+
+  mask-image: url('../assets/tinta.svg');
+  mask-repeat: repeat;
+  mask-size: cover;*/
+
+  @bottom-left {
+    content: none;
+    background: none;
+  }
+
+  @bottom-right {
+    content: none;
+    background: none;
+  }
 }
 
 .credits h2,

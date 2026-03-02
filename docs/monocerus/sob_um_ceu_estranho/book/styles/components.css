@@ -1,5 +1,8 @@
 .rulebox {
-  border: 2px solid #333;
+  border: 7px inset #F28705;
+  border-radius: 0px 40px 0px 0px;
+  -webkit-box-shadow: rgb(0, 0, 0) 0px 10px 13px -7px, -28px -29px 3px -8px rgba(0, 0, 0, 0);
+  box-shadow: rgb(0, 0, 0) 0px 10px 13px -7px, -28px -29px 3px -8px rgba(0, 0, 0, 0);
   padding: 1em;
   margin: 1em 0;
   break-inside: avoid;
@@ -12,7 +15,3 @@
 }
 
 /*footer snap*/
-
-
-
-
