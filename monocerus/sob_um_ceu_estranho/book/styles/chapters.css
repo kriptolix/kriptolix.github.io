@@ -1,0 +1,117 @@
+/* Capítulo sempre começa em nova página */
+.chapter {
+  page-break-before: always;
+}
+
+/* Página de abertura do capítulo */
+.chapter-opening {
+  page-break-after: always;
+  text-align: center;
+  padding-top: 35%;
+}
+
+/* Número do capítulo */
+.chapter-number {
+  font-size: 14pt;
+  letter-spacing: 4px;
+  margin-bottom: 1em;
+  string-set: chapter-number content(text);
+}
+
+/* Título principal */
+.chapter-title {
+  font-size: 36pt;
+  margin: 0;
+  string-set: chapter-title content(text);
+  color: #018291;
+}
+
+/* Corpo do capítulo */
+.chapter-body {
+  column-count: 2;
+  column-gap: 1.5cm;
+  text-align: justify;
+}
+
+/* Evita que parágrafos quebrem no meio */
+.chapter-body p {
+  break-inside: avoid;
+}
+
+/* Capitular (primeira letra grande) */
+.dropcap::first-letter {
+  float: left;
+  font-size: 3em;
+  line-height: 1;
+  margin-right: 0.1em;
+}
+
+.chapter-opening {
+  background: url("../assets/splash.jpg") no-repeat center;
+  background-size: cover;
+  color: black;
+}
+
+.chapter:first-of-type {
+  counter-reset: page 1;
+}
+
+.chapter-opening h1 {
+  font-family: "Rajdhani", sans-serif;
+  letter-spacing: 4px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #018291;
+
+  border-bottom: 1px solid #00e5ff;
+  padding-bottom: 8px;
+  position: relative;
+}
+
+.chapter-opening h1::after {
+  content: "";
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 80px;
+  height: 2px;
+  background: #018291;
+}
+
+.chapter-side-marker {
+  position: running(chapter-side-marker);  
+  
+  gap: 8px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.rect-top {
+  display: block;
+  width: 24px;
+  height: 6px;
+  background: #00e5ff;
+}
+
+.chapter-rect {
+  background: #FBBB1D;
+  color: black;
+  display: block;
+
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 700;
+  font-size: 18pt;
+
+  width: 36px;
+  padding: 16px 0;
+
+  text-align: center;
+  writing-mode: vertical-rl;
+}
+
+.rect-bottom {
+  display: block;
+  width: 24px;
+  height: 6px;
+  background: #9d4edd;
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+ 
+  <link rel="stylesheet" href="styles/layout.css">
+  <link rel="stylesheet" href="styles/typography.css">
+  <link rel="stylesheet" href="styles/chapters.css">
+  <link rel="stylesheet" href="styles/components.css">
+  <link rel="stylesheet" href="styles/frontmatter.css">
+  <link rel="stylesheet" href="styles/backmatter.css">
+  <link rel="stylesheet" href="styles/base.css">
+</head>
+
+<body>
+
+  <section id="book"></section>
+
+  <script>
+    async function loadChapter(path) {
+      const response = await fetch(path);
+      const text = await response.text();
+      document.querySelector("#book")
+        .insertAdjacentHTML("beforeend", text);
+    }
+
+    async function loadBook() {
+      await loadChapter("frontmatter/cover.html");
+      await loadChapter("frontmatter/title-page.html");
+      await loadChapter("frontmatter/credits.html");
+      await loadChapter("frontmatter/toc.html");
+      await loadChapter("chapters/01-chapter.html");
+      await loadChapter("chapters/02-chapter.html");
+      await loadChapter("backmatter/appendix.html");
+      await loadChapter("backmatter/glossary.html");
+      await loadChapter("backmatter/index.html");
+      await loadChapter("backmatter/license.html");
+      await loadChapter("backmatter/backcover.html");
+
+      // só depois carregar o paged.js
+      const script = document.createElement("script");
+      script.src = "scripts/paged.polyfill.js";
+      document.body.appendChild(script);
+    }
+
+    loadBook();
+  </script>
+  
+</body>
