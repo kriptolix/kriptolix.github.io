@@ -1,0 +1,9 @@
+.chapter-body {
+  column-count: 2;
+  column-gap: 1cm;
+  text-align: justify;
+}
+
+.chapter {
+  page-break-before: always;
+}

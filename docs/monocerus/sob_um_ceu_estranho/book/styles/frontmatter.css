@@ -1,0 +1,123 @@
+/* ========================= */
+/* FRONT MATTER GLOBAL */
+/* ========================= */
+
+.frontmatter {
+  page-break-after: always;
+  text-align: center;
+}
+
+/* ========================= */
+/* CAPA */
+/* ========================= */
+
+/* Remove margens/padding padrão da página */
+
+@page cover {
+  margin: 0; /* remove toda a borda branca */
+}
+
+/* Seção capa */
+.cover {
+  page: cover;
+  position: relative;
+  width: 100%;
+  height: 100vh; /* altura da viewport para teste no navegador */
+  page-break-after: always; /* Paged.js: capa termina aqui */
+}
+
+/* Imagem cobre a página inteira */
+.cover-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* cobre toda a área, corta o excesso proporcionalmente */
+  z-index: -1; /* coloca atrás do texto */
+}
+
+/* Conteúdo da capa centralizado verticalmente */
+.cover-content {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  color: white;
+  padding: 1rem;
+}
+
+/* Títulos */
+.book-title {
+  font-size: 48pt;
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
+}
+
+.book-subtitle {
+  font-size: 20pt;
+  margin-top: 0.5em;
+}
+
+.book-author {
+  font-style: italic;
+  margin-top: 3em;
+}
+/* ========================= */
+/* PÁGINA DE ROSTO */
+/* ========================= */
+
+.title-page {
+  padding-top: 30%;
+}
+
+.title-page h1 {
+  font-size: 32pt;
+}
+
+.publisher {
+  margin-top: 4em;
+  font-size: 10pt;
+}
+
+/* ========================= */
+/* CRÉDITOS */
+/* ========================= */
+
+.credits {
+  text-align: left;
+  padding: 3cm;
+}
+
+.credits h2,
+.credits h3 {
+  text-align: center;
+}
+
+/* ========================= */
+/* SUMÁRIO */
+/* ========================= */
+
+.toc {
+  text-align: left;
+  padding: 3cm;
+}
+
+.toc h2 {
+  text-align: center;
+}
+
+.toc-list {
+  list-style: none;
+  padding: 0;
+}
+
+.toc-list li {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5em;
+}
+
+/* Pega automaticamente o número da página do alvo */
+.toc-list a::after {
+  content: target-counter(attr(href), page);
+}
