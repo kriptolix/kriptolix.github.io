@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
   <meta charset="UTF-8" />
-  
-  <!--<link rel="stylesheet" href="styles/debug.css">-->  
+
+  <link rel="stylesheet" href="styles/visualization.css">
+  <link rel="stylesheet" href="styles/components.css">
   <link rel="stylesheet" href="styles/typography.css">
   <link rel="stylesheet" href="styles/chapters.css">
-  <link rel="stylesheet" href="styles/components.css">
   <link rel="stylesheet" href="styles/frontmatter.css">
   <link rel="stylesheet" href="styles/backmatter.css">
   <link rel="stylesheet" href="styles/base.css">
@@ -15,12 +16,20 @@
 <body>
 
   <section id="book"></section>
+  <div id="paged-resources"></div>
 
   <script>
     async function loadChapter(path) {
       const response = await fetch(path);
       const text = await response.text();
       document.querySelector("#book")
+        .insertAdjacentHTML("beforeend", text);
+    }
+
+    async function loadRunners(path) {
+      const response = await fetch(path);
+      const text = await response.text();
+      document.querySelector("#paged-resources")
         .insertAdjacentHTML("beforeend", text);
     }
 
@@ -37,6 +46,7 @@
       await loadChapter("backmatter/index.html");
       await loadChapter("backmatter/license.html");
       await loadChapter("backmatter/backcover.html");
+      await loadRunners("components/runners.html");
 
       // só depois carregar o paged.js
       const script = document.createElement("script");
@@ -46,5 +56,5 @@
 
     loadBook();
   </script>
-  
+
 </body>

@@ -1,29 +1,59 @@
-/* Capítulo sempre começa em nova página */
+/* Capítulo sempre começa em nova página a direita*/
 .chapter {
   page-break-before: always;
   break-before: right;
 }
 
 /* Página de abertura do capítulo */
-.chapter-opening {
-  page-break-after: always;
-  text-align: center;   
+.chapter-opening { 
+  width: 21cm;
+  height: 6cm;
+  display: flex;
+  flex-direction: row;   /* 👈 coloca lado a lado */
+  align-items:start;   /* alinha verticalmente */
+  justify-content: space-between; /* opcional */
+  
+  background-color: #F24405;
+  color: aliceblue;
+  transform: translateX(-1.5cm) translateY(-2cm); 
 }
 
-/* Número do capítulo */
+.chapter-opening img {
+  width: 100%;
+  height: 6cm;     /* altura fixa */
+  object-fit: cover; /* faz o crop */
+  object-position: center; /* centraliza o corte */
+  display: block;
+}
+
+.capter-block {
+  width: 8cm;
+  height: 5.5cm;
+  padding-bottom: 0.5cm;
+  background-color: #730D62;
+  text-align: center;
+}
+
+.capter-label {
+  margin: 0;
+}
+
 .chapter-number {
-  font-size: 14pt;
+  font-family: "Rajdhani", sans-serif;
   letter-spacing: 4px;
-  margin-bottom: 1em;
-  string-set: chapter-number content(text);
+  font-weight: 600;
+  font-size: 100pt;
+  text-transform: uppercase;
+  color: aliceblue;
+  position: relative;
+  margin: 0;
 }
 
 /* Título principal */
 .chapter-title {
   font-size: 36pt;
-  margin: 0;
-  string-set: chapter-title content(text);
-  color: #F28705;
+  margin: 0;  
+  color: #730D62;
 }
 
 /* Corpo do capítulo */
@@ -50,56 +80,6 @@
   counter-reset: page 1;
 }
 
-.chapter-opening h1 {
-  font-family: "Rajdhani", sans-serif;
-  letter-spacing: 4px;
-  font-weight: 600;
-  text-transform: uppercase;
-  color: #F28705;
-  position: relative;
-}
 
-/*Barra lateral*/
 
-.chapter-side-marker {
-  position: running(chapter-side-marker);  
-  display: flex;              /* mais seguro que grid em margin boxes */
-  flex-direction: column;     /* empilha verticalmente */
-  align-items: center;
-  justify-content: center;
-  width: 2cm; 
-}
 
-.rect-top {  
-  width: 2cm;
-  height: 0.5cm;
-  background: #730D62;
-}
-
-.chapter-rect {
-  
-  background: #F24405;
-  color: aliceblue;  
-  font-family: "Rajdhani", sans-serif;
-  font-weight: 700;
-  font-size: 25pt;
-  width: 2cm;
-  height: 10cm;
-  
-  
-  display: flex;
-  align-items: center;     /* centraliza no eixo horizontal */
-  justify-content: center; /* centraliza no eixo vertical */
-  
-  writing-mode: vertical-rl;
-}
-
-.chapter-rect::before {
-  content: string(chapter-number);
-}
-
-.rect-bottom {  
-  width: 2cm;
-  height: 10cm;
-  background: #F28705;
-}

@@ -1,5 +1,14 @@
+#paged-resources {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+/*****************************************************************************************/
+
 .rulebox {
-  border: 7px inset #F28705;
+  border: 7px inset #F24405;
   border-radius: 0px 40px 0px 0px;
   -webkit-box-shadow: rgb(0, 0, 0) 0px 10px 13px -7px, -28px -29px 3px -8px rgba(0, 0, 0, 0);
   box-shadow: rgb(0, 0, 0) 0px 10px 13px -7px, -28px -29px 3px -8px rgba(0, 0, 0, 0);
@@ -14,4 +23,64 @@
   break-inside: avoid;
 }
 
-/*footer snap*/
+/*Barra lateral*/
+
+.chapter-number {
+  string-set: chapter-number content(text);
+}
+
+.capter-block {
+  string-set: capter-block content();
+}
+
+.chapter-side-marker {
+  position: running(chapter-side-marker);
+  display: flex;
+  /* mais seguro que grid em margin boxes */
+  flex-direction: column;
+  /* empilha verticalmente */
+  align-items: center;
+  justify-content: center;
+  width: 2cm;
+}
+
+.rect-top {
+  width: 2cm;
+  height: 0.5cm;
+  background: #730D62;
+}
+
+.chapter-rect {
+
+  background: #F24405;
+  color: aliceblue;
+  font-family: "Rajdhani", sans-serif;
+  font-weight: 700;
+  font-size: 25pt;
+  width: 2cm;
+  height: 10cm;
+
+  display: flex;
+  align-items: center;
+  /* centraliza no eixo horizontal */
+  justify-content: center;
+  /* centraliza no eixo vertical */
+
+  writing-mode: vertical-rl;
+}
+
+.chapter-rect::before {
+  content: string(capter-block);
+  font-family: "Rajdhani", sans-serif;
+  letter-spacing: 4px;
+  font-weight: 600;  
+  text-transform: uppercase;
+}
+
+.rect-bottom {
+  width: 2cm;
+  height: 10cm;
+  background: #F28705;
+}
+
+/**/

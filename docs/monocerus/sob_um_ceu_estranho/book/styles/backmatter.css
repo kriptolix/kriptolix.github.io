@@ -56,7 +56,7 @@
 }
 
 .backmatter h1 {
-  string-set: chapter-title "";
+  string-set: chapter-number "";
 }
 
 /* ========================= */
@@ -72,9 +72,19 @@
   background-color: #222940;
   color: aliceblue;
 
-  @bottom-center {
+  @bottom-right {
+    content: none;
+    background: none;
+  }
+  @bottom-left {
+    content: none;
+    background: none;
+  }
+  
+  @left-top  {
     content: none;
   }
+
 }
 
 .back-cover-content {

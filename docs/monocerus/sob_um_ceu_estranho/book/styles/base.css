@@ -1,38 +1,5 @@
 /* ===== CONFIGURAÇÃO GLOBAL DE PÁGINA ===== */
 
-/*Visualization*/
-
-.pagedjs_pages {
-  display: grid;
-  grid-template-columns: auto auto;
-  justify-content: center;
-  gap: 1rem;
-}
-
-/* páginas left vão para coluna 1 */
-.pagedjs_left_page {
-  grid-column: 1;
-}
-
-/* páginas right vão para coluna 2 */
-.pagedjs_right_page {
-  grid-column: 2;
-}
-
-.pagedjs_page {
-  flex: 0 0 auto;
-  /* impede que a página se estique */
-  margin: 0;
-}
-
-.pagedjs_page {
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);  
-}
-
-.chapter-title {
-  string-set: chapter-title content(text);
-}
-
 .page-number::before {
   content: counter(page);
 }
@@ -114,3 +81,4 @@ img {
     content: none;
   }
 }
+

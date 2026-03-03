@@ -17,6 +17,8 @@
   margin: 0; /* remove toda a borda branca */
 }
 
+
+
 /* Seção capa */
 .cover {
   page: cover;
@@ -40,10 +42,9 @@
 /* Conteúdo da capa centralizado verticalmente */
 .cover-content {
   position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+  top: 50%;  
   text-align: center;
-  color: white;
+  color: orange;
   padding: 1rem;
 }
 
