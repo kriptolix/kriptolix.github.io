@@ -17,20 +17,14 @@
   break-inside: avoid;
 }
 
-.monster-sheet {
-  border: 3px double black;
-  padding: 1em;
-  break-inside: avoid;
-}
-
 /*Barra lateral*/
 
 .chapter-number {
   string-set: chapter-number content(text);
 }
 
-.capter-block {
-  string-set: capter-block content();
+.chapter-block {
+  string-set: chapter-block content();
 }
 
 .chapter-side-marker {
@@ -47,13 +41,13 @@
 .rect-top {
   width: 2cm;
   height: 0.5cm;
-  background: #730D62;
+  background: #68007a;
 }
 
 .chapter-rect {
 
-  background: #F24405;
-  color: aliceblue;
+  background: #ef6500;
+  color: #faf8f7;
   font-family: "Rajdhani", sans-serif;
   font-weight: 700;
   font-size: 25pt;
@@ -70,7 +64,7 @@
 }
 
 .chapter-rect::before {
-  content: string(capter-block);
+  content: string(chapter-block);
   font-family: "Rajdhani", sans-serif;
   letter-spacing: 4px;
   font-weight: 600;  
@@ -80,7 +74,7 @@
 .rect-bottom {
   width: 2cm;
   height: 10cm;
-  background: #F28705;
+  background: #ffaa20;
 }
 
 /**/

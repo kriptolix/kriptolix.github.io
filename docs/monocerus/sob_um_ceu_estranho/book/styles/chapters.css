@@ -4,37 +4,93 @@
   break-before: right;
 }
 
+p {
+  margin: 0 0 0.8em 0;
+}
+
+.dropcap::first-letter {
+  float: left;
+  font-size: 3em;
+  margin-right: 0.1em;
+}
+
+
 /* Página de abertura do capítulo */
-.chapter-opening { 
-  width: 21cm;
-  height: 6cm;
-  display: flex;
-  flex-direction: row;   /* 👈 coloca lado a lado */
-  align-items:start;   /* alinha verticalmente */
-  justify-content: space-between; /* opcional */
-  
-  background-color: #F24405;
-  color: aliceblue;
-  transform: translateX(-1.5cm) translateY(-2cm); 
+.chapter-opening {
+  width: 210mm;
+  height: 297mm;
+  transform: translateX(-15mm) translateY(-20mm);
+  page: chapterOpening;
 }
 
 .chapter-opening img {
-  width: 100%;
-  height: 6cm;     /* altura fixa */
-  object-fit: cover; /* faz o crop */
-  object-position: center; /* centraliza o corte */
-  display: block;
+  position: absolute;
+  bottom: 0;
+  /* define se fica embaixo ou em cima */
+  left: 0;
+  width: 139mm;
+  height: 297mm;
+  /* ocupa metade da página */
+  object-fit: cover;
+  /* faz o crop automático */
+  transform: translateY(40mm);
+  /*scaleX(-1)*/
+  z-index: 1;
+  /*object-position: 30% 70%;*/
 }
 
-.capter-block {
-  width: 8cm;
-  height: 5.5cm;
-  padding-bottom: 0.5cm;
-  background-color: #730D62;
+.chapter-column {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  width: 70mm;
+  height: 297mm;
+
+  background:  	#ef6500;
+}
+
+.chapter-block {
+  width: 100%;
+  height: 6cm;
+  background-color: #68007a;
   text-align: center;
 }
 
-.capter-label {
+.rect-base {
+  margin-top: 10mm;
+  background: #ffaa20;
+  width: 100%;
+  height: 287mm;
+  writing-mode: vertical-rl;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rect-base h1 {
+  padding: 5mm;
+  font-family: "Rajdhani", sans-serif;
+  font-size: 65pt;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: center;
+  color: #68007a;
+  margin: 0;
+
+}
+
+.chapter-label {
+  padding: 5mm;
+  font-family: "Rajdhani", sans-serif;
+  font-size: 15pt;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: aliceblue;
   margin: 0;
 }
 
@@ -42,17 +98,18 @@
   font-family: "Rajdhani", sans-serif;
   letter-spacing: 4px;
   font-weight: 600;
-  font-size: 100pt;
+  font-size: 120pt;
   text-transform: uppercase;
   color: aliceblue;
-  position: relative;
   margin: 0;
+  padding: 5mm;
+  margin-top: -25mm;
 }
 
 /* Título principal */
 .chapter-title {
   font-size: 36pt;
-  margin: 0;  
+  margin: 0;
   color: #730D62;
 }
 
@@ -79,7 +136,3 @@
 .chapter:first-of-type {
   counter-reset: page 1;
 }
-
-
-
-
