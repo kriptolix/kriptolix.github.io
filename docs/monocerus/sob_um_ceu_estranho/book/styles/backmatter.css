@@ -7,7 +7,7 @@
 }
 
 .backmatter h1 {
-  string-set: chapter-number "";
+  string-set: chapter-number content(text);
 }
 
 /* ========================= */
@@ -78,15 +78,4 @@
   font-size: 14pt;
 }
 
-@page backcover {
-  background-color: var(--color-purple-dark);
-  color: var(--color-text-light);
-
-  margin-left: 20mm;
-  margin-right: 20mm;
-
-  @bottom-right { content: none; background: none; }
-  @bottom-left  { content: none; background: none; }
-  @left-top     { content: none; }
-}
 

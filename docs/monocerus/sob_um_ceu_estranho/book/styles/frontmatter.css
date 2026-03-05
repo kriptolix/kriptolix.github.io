@@ -7,15 +7,13 @@
   text-align: center;
 }
 
+.frontmatter h1 {
+  string-set: chapter-number content(text);
+}
+
 /* ========================= */
 /* CAPA */
 /* ========================= */
-
-/* Remove margens/padding padrão da página */
-
-@page cover {
-  margin: 0; /* remove toda a borda branca */
-}
 
 /* Seção capa */
 .cover {
@@ -82,19 +80,6 @@
   page: titlePage;
 }
 
-@page titlePage {
-  @bottom-left {
-    content: none;
-    background: none;
-  }
-
-  @bottom-right {
-    content: none;
-    background: none;
-  }
-}
-
-
 /* ========================= */
 /* CRÉDITOS */
 /* ========================= */
@@ -108,28 +93,6 @@
 .credits h2,
 .credits h3 {
   text-align: center;
-}
-
-@page credits {
-  background: #68007a;
-  color: aliceblue;
-  /*-webkit-mask-image: url('../assets/tinta.svg');
-  -webkit-mask-repeat: repeat;
-  -webkit-mask-size: cover;
-
-  mask-image: url('../assets/tinta.svg');
-  mask-repeat: repeat;
-  mask-size: cover;*/
-
-  @bottom-left {
-    content: none;
-    background: none;
-  }
-
-  @bottom-right {
-    content: none;
-    background: none;
-  }
 }
 
 /* ========================= */

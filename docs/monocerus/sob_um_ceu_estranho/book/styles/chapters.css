@@ -7,6 +7,28 @@
 }
 
 /* ========================= */
+/* CORPO DO CAPÍTULO         */
+/* ========================= */
+
+.chapter-body {
+  column-count: 2;
+  column-gap: 10mm;
+  text-align: justify;
+}
+
+.chapter-body p {
+  break-inside: avoid;
+}
+
+/* Capitular */
+.dropcap::first-letter {
+  float: left;
+  font-size: 3em;
+  line-height: 1;
+  margin-right: 0.1em;
+}
+
+/* ========================= */
 /* ABERTURA DO CAPÍTULO      */
 /* ========================= */
 
@@ -21,7 +43,7 @@
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 139mm;
+  width: 159mm;
   height: 297mm;
   object-fit: cover;
   transform: translateY(40mm);
@@ -37,7 +59,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: start;
-  width: 70mm;
+  width: 50mm;
   height: 297mm;
   background: var(--color-orange); 
 }
@@ -47,6 +69,7 @@
   height: 6cm;
   background-color: var(--color-purple);
   text-align: center;
+  string-set: chapter-number content(text);   
 }
 
 .rect-base {
@@ -70,13 +93,13 @@
   color: var(--color-purple);
 }
 
-.chapter-label {
-  padding: 5mm;
+.chapter-label {  
   font-family: var(--font-display);
   font-size: 15pt;
   font-weight: 600;
   text-transform: uppercase;
   color: var(--color-text-light);
+  padding: 5mm;
 }
 
 .chapter-number {
@@ -85,35 +108,8 @@
   font-weight: 600;
   font-size: 120pt;
   text-transform: uppercase;
-  color: var(--color-text-light);
-  padding: 5mm;
+  color: var(--color-text-light);  
   margin-top: -25mm;
-  /* Alimenta o running element com o número do capítulo */
-  string-set: chapter-number content(text);
+  padding: 5mm 0 5mm 0;  
 }
 
-/* ========================= */
-/* CORPO DO CAPÍTULO         */
-/* ========================= */
-
-.chapter-body {
-  column-count: 2;
-  column-gap: 1cm;
-  text-align: justify;
-}
-
-.chapter-body p {
-  break-inside: avoid;
-}
-
-p {
-  margin-bottom: 0.8em;
-}
-
-/* Capitular */
-.dropcap::first-letter {
-  float: left;
-  font-size: 3em;
-  line-height: 1;
-  margin-right: 0.1em;
-}

@@ -7,12 +7,13 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="styles/reset.css">
+  <link rel="stylesheet" href="styles/main.css">
   <link rel="stylesheet" href="styles/visualization.css">
   <link rel="stylesheet" href="styles/components.css">
   <link rel="stylesheet" href="styles/chapters.css">
   <link rel="stylesheet" href="styles/frontmatter.css">
   <link rel="stylesheet" href="styles/backmatter.css">
-  <link rel="stylesheet" href="styles/base.css">
+  <link rel="stylesheet" href="styles/pages.css">
 </head>
 
 <body>
@@ -47,7 +48,7 @@
 
     async function loadBook() {
       await loadChapter("frontmatter/cover.html");
-      await loadChapter("frontmatter/title-page.html");
+      //await loadChapter("frontmatter/title-page.html");
       await loadChapter("frontmatter/credits.html");
       await loadChapter("frontmatter/toc.html");
       await loadChapter("chapters/01-chapter.html");
@@ -56,8 +57,9 @@
       await loadChapter("backmatter/appendix.html");
       await loadChapter("backmatter/glossary.html");
       await loadChapter("backmatter/index.html");
-      await loadChapter("backmatter/license.html");
+      //await loadChapter("backmatter/license.html");
       await loadChapter("backmatter/backcover.html");
+      
       await loadRunners("components/runners.html");
 
       await loadScript("scripts/scroll-restore.js");
