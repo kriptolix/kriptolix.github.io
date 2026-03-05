@@ -17,14 +17,12 @@
   margin: 0; /* remove toda a borda branca */
 }
 
-
-
 /* Seção capa */
 .cover {
   page: cover;
   position: relative;
-  width: 100%;
-  height: 100vh; /* altura da viewport para teste no navegador */
+  width: 210mm;
+  height: 297mm; /* altura da viewport para teste no navegador */
   page-break-after: always; /* Paged.js: capa termina aqui */
 }
 
@@ -68,6 +66,19 @@
 /* ========================= */
 
 .title-page {
+  padding-top: 30%;
+}
+
+.title-page h1 {
+  font-size: 32pt;
+}
+
+.publisher {
+  margin-top: 4em;
+  font-size: 10pt;
+}
+
+.title-page {
   page: titlePage;
 }
 
@@ -83,18 +94,6 @@
   }
 }
 
-.title-page {
-  padding-top: 30%;
-}
-
-.title-page h1 {
-  font-size: 32pt;
-}
-
-.publisher {
-  margin-top: 4em;
-  font-size: 10pt;
-}
 
 /* ========================= */
 /* CRÉDITOS */
@@ -104,6 +103,11 @@
   text-align: left;
   padding: 3cm;
   page: credits;
+}
+
+.credits h2,
+.credits h3 {
+  text-align: center;
 }
 
 @page credits {
@@ -128,11 +132,6 @@
   }
 }
 
-.credits h2,
-.credits h3 {
-  text-align: center;
-}
-
 /* ========================= */
 /* SUMÁRIO */
 /* ========================= */
@@ -144,6 +143,8 @@
 
 .toc h2 {
   text-align: center;
+  color: var(--color-purple);
+  font-size: 32pt;
 }
 
 .toc-list {

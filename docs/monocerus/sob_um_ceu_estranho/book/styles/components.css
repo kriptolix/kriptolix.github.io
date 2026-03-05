@@ -1,3 +1,7 @@
+/* ========================= */
+/* RECURSOS PAGED (ocultos)  */
+/* ========================= */
+
 #paged-resources {
   position: absolute;
   width: 0;
@@ -5,76 +9,95 @@
   overflow: hidden;
 }
 
-/*****************************************************************************************/
+/* ========================= */
+/* STRING-SET — seções       */
+/* ========================= */
 
-.rulebox {
-  border: 7px inset #F24405;
-  border-radius: 0px 40px 0px 0px;
-  -webkit-box-shadow: rgb(0, 0, 0) 0px 10px 13px -7px, -28px -29px 3px -8px rgba(0, 0, 0, 0);
-  box-shadow: rgb(0, 0, 0) 0px 10px 13px -7px, -28px -29px 3px -8px rgba(0, 0, 0, 0);
-  padding: 1em;
-  margin: 1em 0;
-  break-inside: avoid;
-}
+/* Capítulos: já declarado em chapters.css via .chapter-number */
 
-/*Barra lateral*/
-
-.chapter-number {
+/* Backmatter e frontmatter: título da seção alimenta o runner */
+/*.index-title,
+.glossary-title,
+.appendix-title,
+.license-title,
+.toc-title,
+.credits-title {
   string-set: chapter-number content(text);
-}
+}*/
 
-.chapter-block {
-  string-set: chapter-block content();
-}
+/* ========================= */
+/* RUNNER — LADO ESQUERDO    */
+/* ========================= */
 
 .chapter-side-marker {
-  position: running(chapter-side-marker);
+  position: running(chapterSideMarker);
   display: flex;
-  /* mais seguro que grid em margin boxes */
   flex-direction: column;
-  /* empilha verticalmente */
   align-items: center;
   justify-content: center;
-  width: 2cm;
+  width: 20mm;
 }
 
+/* ========================= */
+/* RUNNER — LADO DIREITO     */
+/* ========================= */
+
+.right-side-marker {
+  position: running(right-side-marker);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 20mm;
+}
+
+/* ========================= */
+/* PARTES DO MARKER          */
+/* ========================= */
+
 .rect-top {
-  width: 2cm;
+  width: 20mm;
   height: 0.5cm;
-  background: #68007a;
+  background: var(--color-purple);
 }
 
 .chapter-rect {
-
-  background: #ef6500;
-  color: #faf8f7;
-  font-family: "Rajdhani", sans-serif;
+  background:  var(--color-orange);
+  color:       var(--color-text-light);
+  font-family: var(--font-display);
   font-weight: 700;
-  font-size: 25pt;
-  width: 2cm;
-  height: 10cm;
-
-  display: flex;
+  font-size:   25pt;
+  width:       20mm;
+  height:      10cm;
+  display:     flex;
   align-items: center;
-  /* centraliza no eixo horizontal */
   justify-content: center;
-  /* centraliza no eixo vertical */
-
   writing-mode: vertical-rl;
 }
 
 .chapter-rect::before {
-  content: string(chapter-block);
-  font-family: "Rajdhani", sans-serif;
+  content: string(chapter-number);
+  font-family:    var(--font-display);
   letter-spacing: 4px;
-  font-weight: 600;  
+  font-weight:    600;
   text-transform: uppercase;
 }
 
 .rect-bottom {
-  width: 2cm;
-  height: 10cm;
-  background: #ffaa20;
+  width:      20mm;
+  height:     10cm;
+  background: var(--color-yellow);
 }
 
-/**/
+/* ========================= */
+/* CAIXA DE REGRA            */
+/* ========================= */
+
+.rulebox {
+  border:        7px inset var(--color-orange-dark);
+  border-radius: 0px 40px 0px 0px;
+  box-shadow:    0px 10px 13px -7px rgb(0, 0, 0);
+  padding:       1em;
+  margin:        1em 0;
+  break-inside:  avoid;
+}

@@ -1,19 +1,20 @@
 /* ========================= */
-/* BACK MATTER GLOBAL */
+/* BACK MATTER GLOBAL        */
 /* ========================= */
 
 .backmatter {
-  page-break-before: always;
+  break-before: page;
 }
 
-/* Página de abertura da seção */
+.backmatter h1 {
+  string-set: chapter-number "";
+}
+
+/* ========================= */
+/* ABERTURA DE SEÇÃO         */
+/* ========================= */
+
 .section-opening {
-  /*page-break-after: always;*/
-  text-align: center;
-  padding-top: 35%;
-}
-
-.glossary .section-opening {
   text-align: center;
   padding-top: 35%;
 }
@@ -27,10 +28,18 @@
   font-size: 16pt;
 }
 
-/* Corpo da seção */
+/* ========================= */
+/* CORPO DE SEÇÃO            */
+/* ========================= */
+
 .section-body {
   padding: 0 1cm;
   text-align: justify;
+}
+
+.section-body p,
+.section-body h3 {
+  break-inside: avoid;
 }
 
 /* Duas colunas */
@@ -39,28 +48,24 @@
   column-gap: 1.5cm;
 }
 
-/* Evita quebra feia */
-.section-body p,
-.section-body h3 {
-  break-inside: avoid;
-}
+/* ========================= */
+/* GLOSSÁRIO                 */
+/* ========================= */
 
-/* Glossário */
 .glossary-list p {
   margin-bottom: 0.6em;
 }
 
-/* Índice remissivo */
+/* ========================= */
+/* ÍNDICE REMISSIVO          */
+/* ========================= */
+
 .index a::after {
   content: target-counter(attr(href), page);
 }
 
-.backmatter h1 {
-  string-set: chapter-number "";
-}
-
 /* ========================= */
-/* CONTRACAPA */
+/* CONTRACAPA                */
 /* ========================= */
 
 .back-cover {
@@ -68,26 +73,20 @@
   text-align: center;
 }
 
-@page backcover {
-  background-color: #222940;
-  color: aliceblue;
-
-  @bottom-right {
-    content: none;
-    background: none;
-  }
-  @bottom-left {
-    content: none;
-    background: none;
-  }
-  
-  @left-top  {
-    content: none;
-  }
-
-}
-
 .back-cover-content {
   padding-top: 40%;
   font-size: 14pt;
 }
+
+@page backcover {
+  background-color: var(--color-purple-dark);
+  color: var(--color-text-light);
+
+  margin-left: 20mm;
+  margin-right: 20mm;
+
+  @bottom-right { content: none; background: none; }
+  @bottom-left  { content: none; background: none; }
+  @left-top     { content: none; }
+}
+

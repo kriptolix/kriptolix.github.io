@@ -1,113 +1,130 @@
-/* ===== CONFIGURAÇÃO GLOBAL DE PÁGINA ===== */
+/* ========================= */
+/* VARIÁVEIS GLOBAIS         */
+/* ========================= */
 
 :root {
-  --page-background: #faf8f7;
-  --yellow-color: #ffaa20;
-  --orange-color: #ef6500;
-  --purple-color: #68007a;
-  --dark-color: #23002a;
-  --accent-color: #006253;
-  --inner-margin: 15mm;
-  --outer-margin: 25mm;
-  --outher-margins: 20mm;
-  --general-font: "Rajdhani", sans-serif;
+  /* Cores */
+  --color-page-bg:     #faf8f7;
+  --color-yellow:      #ffaa20;
+  --color-orange:      #ef6500;
+  --color-orange-dark: #F24405;
+  --color-purple:      #68007a;
+  --color-purple-dark: #23002a;
+  --color-accent:      #006253;
+  --color-text-light:  #faf8f7;
+  
+  /* Tipografia */
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-display: "Rajdhani", system-ui, sans-serif;
 
+  /* Margens de página */
+  /*--margin-inner: 15mm;
+  --margin-outer: 25mm;
+  --margin-top:   20mm;
+  --margin-bottom: 20mm;*/
+
+  /* Dimensões de elementos fixos */
+  /*--side-marker-width: 20mm;
+  --page-num-size:     20mm;*/
 }
 
-.page-number::before {
-  content: counter(page);
-}
+/* ========================= */
+/* CORPO                     */
+/* ========================= */
 
-/* Reset básico */
 body {
-  margin: 0;
-  font-family: serif;
-  line-height: 1.6;
+  font-family: var(--font-body);
+  line-height: 1.4;
+  font-weight: 500;
 }
 
-/* Evita imagens quebrando estranho */
-img {
-  max-width: 100%;
-}
-
-/*teste*/
+/* ========================= */
+/* PÁGINA BASE               */
+/* ========================= */
 
 @page {
-
   size: A4;
-  margin-top: 2cm;
-  margin-bottom: 2cm;
-  background-color: #faf8f7;
+  margin-top:    20mm;
+  margin-bottom: 20mm;
+  background-color: var(--color-page-bg);
   background-image:
     linear-gradient(rgba(27, 11, 31, 0.015) 1px, transparent 1px),
     linear-gradient(90deg, rgba(27, 11, 31, 0.015) 1px, transparent 1px);
 }
 
 @page :right {
+  margin-left:  15mm;
+  margin-right: 25mm;
 
-  margin-left: 1.5cm;
-  margin-right: 2.5cm;
+  @right-middle {
+    content: element(right-side-marker);
+    transform: translateY(2cm);
+  }
 
   @bottom-right {
     content: counter(page);
-    background: #F28705;
-    color: black;
-    font-family: "Rajdhani", sans-serif;
+    background:  var(--color-yellow);
+    color:       var(--color-purple-dark);
+    font-family: var(--font-display);
     font-weight: 700;
-    font-size: 16pt;
-    text-align: center;
-    width: 2cm;
-    height: 2cm;
-    transform: translateX(2.5cm);
+    font-size:   16pt;
+    text-align:  center;
+    width:       25mm;
+    height:      20mm;
+    transform:   translateX(25mm);
   }
-
 }
 
 @page :left {
-
-  margin-left: 2.5cm;
-  margin-right: 1.5cm;
+  margin-left:  25mm;
+  margin-right: 15mm;
 
   @left-top {
-    content: element(chapter-side-marker);
-    transform: translateY(-2cm);
+    content: element(chapterSideMarker);
+    /*transform: translateY(-2cm);*/
   }
 
   @bottom-left {
     content: counter(page);
-    background: #ffaa20;
-    color: black;
-    font-family: "Rajdhani", sans-serif;
+    background:  var(--color-yellow);
+    color:       var(--color-purple-dark);
+    font-family: var(--font-display);
     font-weight: 700;
-    font-size: 16pt;
-    text-align: center;
-    width: 2cm;
-    height: 2cm;
-    transform: translateX(-2.5cm);
+    font-size:   16pt;
+    text-align:  center;
+    width:       25mm;
+    height:      20mm;
+    transform:   translateX(-25mm);
   }
 }
 
 @page :first {
   background: none;
 
-  @bottom-right {
-    content: none;
-  }
-
-  @bottom-left {
-    content: none;
-  }
+  @bottom-right { content: none; }
+  @bottom-left  { content: none; }
 }
 
 @page chapterOpening {
-
   @bottom-right {
     content: none;
     background: none;
   }
-
   @bottom-left {
     content: none;
     background: none;
   }
+}
+
+/* ========================= */
+/* CONTADOR DE PÁGINA        */
+/* ========================= */
+
+/* Capítulos iniciam a contagem a partir de 1 */
+.chapter:first-of-type {
+  counter-reset: page 1;
+}
+
+.page-number::before {
+  content: counter(page);
 }

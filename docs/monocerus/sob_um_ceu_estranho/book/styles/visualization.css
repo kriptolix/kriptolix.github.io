@@ -5,6 +5,8 @@
   grid-template-columns: auto auto;
   justify-content: center;
   gap: 1rem;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 /* páginas left vão para coluna 1 */
@@ -29,7 +31,7 @@
 
 /* debug mode*/
 
-/*.pagedjs_page {
+.pagedjs_page {
   outline: 1px solid red;
 }
 
@@ -51,4 +53,4 @@
 
 .pagedjs_area {
   outline: 1px dashed purple;
-}*/
+}
