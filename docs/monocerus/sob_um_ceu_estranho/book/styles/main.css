@@ -42,7 +42,25 @@ h2, h3, h4 {
   hyphens: none;
 }
 
+h1, h2, h3, h4 {
+  break-after: avoid-column;
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p {
+  break-before: avoid-column;
+  text-indent: 0;
+}
+
 h2 + h3 {
+  border-bottom: none
+}
+
+h1 + h2 {
   border-bottom: none
 }
 
@@ -65,26 +83,20 @@ p {
   line-height: 1.45;
   margin: 0 0 0.4em 0;
   text-indent: 1.5em;
+  hyphens: auto;
+  text-align: justify;
+  text-align-last: left; 
+  orphans: 3;
+  widows: 3;
 }
 
-h1 + p,
-h2 + p,
-h3 + p,
-h4 + p {
-  text-indent: 0;
-}
+
 
 blockquote + p,
 ul + p,
 ol + p,
 table + p {
   text-indent: 0;
-}
-
-p {
-  hyphens: auto;
-  text-align: justify;
-  text-align-last: left;  
 }
 
 /* ========================= */

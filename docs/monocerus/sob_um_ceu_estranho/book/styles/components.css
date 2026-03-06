@@ -9,22 +9,44 @@
   overflow: hidden;
 }
 
-.icon {
-  width: 1em;
-  height: 1em;
-  vertical-align: -0.125em;
-  fill: currentColor;
-}
-
-.twemoji {
+.feat {
   display: inline-block;
-}
-
-.twemoji svg {
   width: 1em;
   height: 1em;
-  fill: currentColor;
-  vertical-align: -0.125em;
+  border: 2px solid black;
+  border-radius: 50%;
+  position: relative;
+}
+
+.feat .yes{
+
+}
+
+.feat.no::before,
+.feat.no::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 70%;
+  height: 2px;
+  background: black;
+  transform-origin: center;
+}
+
+.feat.no::before {
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.feat.no::after {
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+#nave{
+  column-span: all;
+  display: block;
+  width: 100%;
+  height: 257mm;  
 }
 
 /* ========================= */
