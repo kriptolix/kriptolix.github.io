@@ -1,0 +1,81 @@
+/* ========================= */
+/* BACK MATTER GLOBAL        */
+/* ========================= */
+
+.backmatter {
+  break-before: page;
+}
+
+.backmatter h1 {
+  string-set: chapter-number content(text);
+}
+
+/* ========================= */
+/* ABERTURA DE SEÇÃO         */
+/* ========================= */
+
+.section-opening {
+  text-align: center;
+  padding-top: 35%;
+}
+
+.section-opening h1 {
+  font-size: 30pt;
+}
+
+.section-opening h2 {
+  margin-top: 1em;
+  font-size: 16pt;
+}
+
+/* ========================= */
+/* CORPO DE SEÇÃO            */
+/* ========================= */
+
+.section-body {
+  padding: 0 1cm;
+  text-align: justify;
+}
+
+.section-body p,
+.section-body h3 {
+  break-inside: avoid;
+}
+
+/* Duas colunas */
+.two-columns {
+  column-count: 2;
+  column-gap: 1.5cm;
+}
+
+/* ========================= */
+/* GLOSSÁRIO                 */
+/* ========================= */
+
+.glossary-list p {
+  margin-bottom: 0.6em;
+}
+
+/* ========================= */
+/* ÍNDICE REMISSIVO          */
+/* ========================= */
+
+.index a::after {
+  content: target-counter(attr(href), page);
+}
+
+/* ========================= */
+/* CONTRACAPA                */
+/* ========================= */
+
+.back-cover {
+  page: backcover;
+  text-align: center;
+}
+
+.back-cover-content {
+  padding-top: 40%;
+  font-size: 14pt;
+}
+
+

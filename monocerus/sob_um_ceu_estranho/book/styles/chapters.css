@@ -1,0 +1,115 @@
+/* ========================= */
+/* CAPÍTULOS                 */
+/* ========================= */
+
+.chapter {
+  break-before: right;
+}
+
+/* ========================= */
+/* CORPO DO CAPÍTULO         */
+/* ========================= */
+
+.chapter-body {
+  column-count: 2;
+  column-gap: 10mm;
+  text-align: justify;
+}
+
+.chapter-body p {
+  break-inside: avoid;
+}
+
+/* Capitular */
+.dropcap::first-letter {
+  float: left;
+  font-size: 3em;
+  line-height: 1;
+  margin-right: 0.1em;
+}
+
+/* ========================= */
+/* ABERTURA DO CAPÍTULO      */
+/* ========================= */
+
+.chapter-opening {
+  width: 210mm;
+  height: 297mm;
+  transform: translateX(-15mm) translateY(-20mm);
+  page: chapterOpening;
+}
+
+.chapter-opening img {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 159mm;
+  height: 297mm;
+  object-fit: cover;
+  transform: translateY(40mm);
+  z-index: 1;
+}
+
+.chapter-column {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  width: 50mm;
+  height: 297mm;
+  background: var(--color-orange); 
+}
+
+.chapter-block {
+  width: 100%;
+  height: 6cm;
+  background-color: var(--color-purple);
+  text-align: center;
+  string-set: chapter-number content(text);   
+}
+
+.rect-base {
+  margin-top: 10mm;
+  background: var(--color-yellow);
+  width: 100%;
+  height: 287mm;
+  writing-mode: vertical-rl;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rect-base h1 {
+  padding: 5mm;
+  font-family: var(--font-display);
+  font-size: 65pt;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: center;
+  color: var(--color-purple);
+}
+
+.chapter-label {  
+  font-family: var(--font-display);
+  font-size: 15pt;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--color-text-light);
+  padding: 5mm;
+}
+
+.chapter-number {
+  font-family: var(--font-display);
+  letter-spacing: 4px;
+  font-weight: 600;
+  font-size: 120pt;
+  text-transform: uppercase;
+  color: var(--color-text-light);  
+  margin-top: -25mm;
+  padding: 5mm 0 5mm 0;  
+}
+
