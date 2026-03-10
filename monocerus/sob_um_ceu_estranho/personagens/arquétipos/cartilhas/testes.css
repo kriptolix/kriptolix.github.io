@@ -1,0 +1,314 @@
+:root {
+    --bg: #ffffff;
+    /* fundo branco */
+    --panel: #DBDCDE;
+    --list-title-bg:#BBBDC0;
+    /* painel cinza muito claro */
+    --ink: #000000;
+    /* texto preto */
+    --muted: #555555;
+    /* texto secundário em cinza médio */
+    --accent: #333333;
+    /* destaque em cinza escuro */
+    --accent-ink: #ffffff;
+    /* texto sobre o destaque */
+    --line: #999999;
+    /* linhas e bordas em cinza médio */
+    --shadow: rgba(0, 0, 0, 0.15);
+    /* sombra leve */
+    --body-font: 10px;
+    --title-font: 14px;
+    --subtitle-font: 12px;
+}
+
+@font-face {
+  font-family: kalam; /* set name */
+  src: url(kalam.bold.woff2); /* url of the font */
+}
+
+.page {
+    background: var(--bg);
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 794px;
+    height: 1123px;
+    box-shadow: 0 0 0.5cm var(--shadow)
+}
+
+/* Cabeçalho */
+
+.logo{
+    padding: 8px;
+    background: var(--accent);
+    color: var(--accent-ink);
+    font-family: "Crimson Text", Georgia, serif;
+    letter-spacing: 0.5px;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 1em;
+    text-align: center;
+    float: right;
+    margin-left: 12px;
+          
+}
+
+
+.brand {
+    font-family: "Crimson Text", Georgia, serif;
+    letter-spacing: 0.5px;
+    
+}
+
+.brand h1 {
+    
+    font-size: 28px;
+    font-weight: 700;
+    margin: 0px;
+}
+
+.brand p {
+   
+    font-size: 12px;
+    color: var(--muted);    
+}
+
+.tag {
+    
+    background: var(--accent);
+    color: var(--accent-ink);
+    padding: 4px;
+    font-weight: 600;
+    font-size: 10px;
+    border-radius: 3px;
+    letter-spacing: 0.4px;    
+    text-align: end;
+}
+
+.muted {
+    color: var(--muted);
+    font-size: var(--body-font);
+}
+
+/* Layout em colunas: lateral (estatutos/recursos) + conteúdo */
+
+.content {
+    display: grid;
+    grid-template-columns: 30% 1fr;
+    gap: 0;
+}
+
+/* Sidebar */
+.sidebar {        
+    padding: 12px;
+    font-size: var(--body-font);
+}
+
+/* card blocks */
+
+.card {
+    border: 1px solid var(--line);
+    margin-bottom: 10px;    
+}
+
+.card .title {
+    font-family: "Crimson Text", Georgia, serif;
+    font-size: var(--subtitle-font);
+    font-weight: 700;
+    padding: 5px 5px;
+    background: black;
+    letter-spacing: 0.3px;
+    color: white;
+}
+
+.card .body {
+    padding: 8px;
+    font-size: var(--body-font);
+    color: var(--ink);
+}
+
+/* Entradas de texto */
+
+.text-header, .text-invisible, .text-fill{
+    background: transparent;    
+    border: none;           
+    color: var(--muted);
+    outline: none;    
+    resize: none;
+    font-family: kalam;
+}
+
+.text-header {
+   
+    border-bottom: 1px solid var(--line);
+    padding: 4px 2px;
+    width: 100%;
+    margin: 2px 0 2px;        
+}
+
+.text-invisible {
+    
+    padding: 4px 2px;
+    width: 100%;        
+}
+
+.text-fill {
+ 
+    padding:0px 4px 0px 4px; 
+    vertical-align:text-bottom; 
+    border-bottom: 1px solid var(--line);        
+}
+
+
+/* Medidores e caixas de marcação */
+
+.tracker {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 3px;
+}
+
+input[type="checkbox"]{
+    /* Remove o estilo nativo */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+
+    /* Define formato e estilo da bolinha */
+    width: 12px;
+    height: 12px;
+    border: 1px solid #2a2d31;
+    border-radius: 50%;
+    /* deixa redondo */
+    background: var(--bg);
+    cursor: pointer;    
+    display: inline-block;
+    vertical-align: middle; 
+    margin-left: 0px;
+    margin-right: 0px;
+    /* força alinhamento com o texto */  
+
+}
+
+input[type="checkbox"]:checked {
+    background-color: grey;
+}
+
+/* Aspectos */
+
+.actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+}
+
+.action-label {
+    font-weight: 600;
+    letter-spacing: 0.4px;
+}
+
+.abilities {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+}
+
+/* Área principal com seções modulares */
+
+.archetype {
+    padding: 12px;
+    background: var(--panel);
+    margin-right: 0px;
+    font-size: var(--body-font);
+}
+
+/* Main sections */
+
+.section-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 5px;
+    background: var(--list-title-bg);
+}
+
+.section-header .bar {
+    width: 6px;
+    height: 22px;
+    background: var(--accent);
+    box-shadow: 0 0 0 1px var(--shadow) inset;
+}
+
+.section-header h2 {
+    font-family: "Crimson Text", Georgia, serif;
+    font-size: var(--title-font);
+    margin: 0;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+}
+
+.section-body {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+/* Lista de itens */
+
+.grid-2 {
+    column-count: 2;
+    gap: 0px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+.noflow-2{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+}
+
+.grid-2 .name { 
+    margin-left: 4px;
+}
+
+.grid-3 {    
+    column-count: 3;
+    gap: 8px;
+    padding-top: 8px;    
+}
+
+.grid-3 .name {    
+    margin-bottom: 6px;
+    margin-left: 4px;
+    letter-spacing: 0.3px;
+}
+
+.grid-3 .title {
+    margin: 2px;
+    font-weight: 700;
+    font-family: "Crimson Text", Georgia, serif;
+    font-size: var(--subtitle-font);
+    letter-spacing: 0.3px;    
+}
+
+/* Habilidades */
+
+.ability .name {
+    font-weight: 700;
+    margin-bottom: 6px;
+    margin-left: 4px;
+    letter-spacing: 0.3px;
+}
+
+.ability .desc {
+    color: var(--muted);
+    font-size: var(--body-font);
+    
+}
+
+.right .card {
+    margin-top: 12px;
+    margin-right: 12px;
+}
