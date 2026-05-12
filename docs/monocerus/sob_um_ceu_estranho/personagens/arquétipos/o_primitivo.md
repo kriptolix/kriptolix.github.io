@@ -60,14 +60,37 @@ O Primitivo também pode ser oriundo de outro planeta e estar acompanhando a tri
 Com alguns gestos rápidos e materiais naturais, você monta uma armadilha improvisada. Uma vez por cena, escolha um ponto do terreno. A primeira criatura que o atravessa sofre uma Consequência Moderada adequada ao tipo de armadilha (quedas, golpes, enredamentos, estacas improvisadas, etc.).
 
 #### Comunhão Selvagem
-Você consegue se aproximar, acalmar criaturas não hostis ou confusas, ou intimidar predadores. Uma vez por cena, você pode interagir de forma não verbal com um animal, obtendo passagem segura, evitando um confronto ou garantindo uma reação favorável. 
+Você consegue se aproximar, acalmar criaturas não hostis ou confusas, ou intimidar predadores. Uma vez por cena, você pode interagir de forma não verbal com um animal, obtendo passagem segura, evitando um confronto ou garantindo uma reação favorável.
 
-#### Despistar 
-Ao invés de apagar um rastro, o personagem deixa pistas de propósito, guiando os inimigos a uma armadilha ou falsa conclusão. Use uma vez por cena.
+#### Mimetismo
+Não havia ninguém lá até, ou era que eles pesavam até a primeira cabeça ser atingida. Num ambiente natural, marque estresse para se tornar totalmente imperceptível enquanto estiver imóvel.
 
-#### Mimetismo 
-Não havia ninguém lá até, ou era que eles pesavam até a primeira cabeça ser atingida. Num ambiente natural, marque estresse para se tornar totalmente imperceptível enquanto estiver imóvel. 
+#### Pegada Fantasma
+Você não deixa rastros quando não quer. Marque estresse e o grupo inteiro que está sob sua liderança direta se torna indetectável por rastreamento visual.
+
+#### Medicina da Floresta
+Você conhece plantas, fungos, secreções animais e minerais que curam ou aliviam. Marque estresse e, em um minuto de preparo, crie um remédio natural que diminui uma Consequência (envenenamento, infecção, dor, febre) em um grau.
+
+#### Sentidos Aguçados
+Seus sentidos são tão aguçados quanto os de um predador. Quando o grupo cai em uma armadilha natural (ninho, terreno instável, predador camuflado), reduza em um grau qualquer Consequência sofrida por um personagem. Marque estresse para cada personagem que queria afetar.
+
+#### Caçador Incansável
+Quando está perseguindo alguém ou algo, nada o detém. Marque estresse e nem um alvo se deslocando a pé consegue despistar você em ambiente natural. Você sempre pode alcançá-lo ou se colocar à frente dele.
+
+#### Vigor da natureza
+Enquanto estiver em ambiente natural, você pode descansar sem medo. Quando o grupo faz um descanso num ambiente natural, você recupera um ponto adicional de estresse.
 
 ### Equipamento
 
-lanças improvisadas, cordas de fibra natural, cantil resistente e pederneira para fogo.
+● Lança de Caça — Arma de haste longa com ponta endurecida ou lascada, eficaz para combate corpo a corpo e arremesso, com bom alcance e controle de distância contra fauna hostil.
+
+●-● Arco Composto Primitivo — Arco reforçado com fibras naturais e tendões, capaz de disparar projéteis com precisão e baixo ruído. Pode utilizar diferentes tipos de flechas adaptadas.
+
+● Faca de Pedra Lascada — Ferramenta essencial para corte, preparo de alimentos, confecção de itens e combate próximo. Alta versatilidade, baixa durabilidade.
+
+● Bolsa de Ervas — Conjunto de substâncias naturais preparadas (folhas, raízes, resinas e extratos) utilizadas para produzir efeitos medicinais ou tóxicos. Permite tratar ferimentos leves, aliviar dor ou aplicar venenos em armas, porém com potência variável e efeito mais lento que soluções tecnológicas.
+
+●-● Rede de Caça — Estrutura leve de fibras reforçadas usada para capturar ou imobilizar alvos. Pode ser armada como armadilha ou lançada manualmente, eficaz contra criaturas de pequeno e médio porte.
+
+●/●-● Escudo de Madeira Endurecida — Proteção leve feita de madeira tratada e reforços naturais ou metálicos, capaz de absorver impactos físicos e projéteis simples, sem mobilidade comprometida.
+

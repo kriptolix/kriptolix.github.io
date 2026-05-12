@@ -86,6 +86,10 @@ Descritivos são palavras-chave usadas para descrever qualquer elemento do jogo,
 
 ● Kit médico básico — Curativos, analgésicos leves e antissépticos para primeiros socorros.
 
+●-● Mochila
+
+● Lanterna
+
 ## Arsenal
 
 ### Arsenal Básico (Agravante Elevado)
@@ -182,7 +186,7 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 
 ● Kit de abertura digital — Lockpick avançado para portas eletrônicas. 
 
-### Equipamento cientifico e de exploração
+### Equipamento cientifico 
 
 #### Equipamento Básico
 
@@ -247,6 +251,8 @@ Obs: Inclui arcos, lanças e outras armas primitivas.
 ● Gerador portátil de suporte de vida — Fornece calor, luz e energia mínima para equipamentos em situações críticas.
 
 ### Itens variados
+
+Pad modificado — Versão modificada de pad basico, com ferramentas de hacking, análise de padrões e acesso restrito a sistemas da nave. Permite invadir terminais, decifrar códigos e manipular dados ambientais.
 
 ●-● Pacote de disfarces — Roupas e acessórios para infiltração. 
 

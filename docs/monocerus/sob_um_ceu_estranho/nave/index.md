@@ -7,155 +7,71 @@ date: 2025-09-28
 ---
 ## Criando a Nave
 
-Depois de responder às perguntas iniciais, os jogadores escolheram os detalhes da nave. Eles têm seis ⬤ para escolher características na cartilha da nave. Essas escolhas não refletem tudo o que a nave era, mas sim aquilo que realmente sobreviveu a queda e está ativo e funcional. o ⨂ representa o nível padrão de cada característica. 
+Após responder às perguntas iniciais, os jogadores devem escolher o estado das coisas após a queda. A nave em que os personagens viajavam certamente possuía alguns recursos, no entanto, após o impacto, apenas uma parte deles sobreviveu. Para representar isso, os jogadores recebem seis ⬤ para escolher características na cartilha da nave. Essas escolhas não representam tudo o que a nave possuía originalmente, mas sim aquilo que permaneceu funcional, acessível e utilizável pela tripulação após o acidente.
+Cada característica possui três níveis possíveis:
+
+⨂ – **Nível padrão:** A nave nunca possuiu o subsistema ou ele foi completamente destruído na queda. Esse subsistema não pode ser recuperado.
+
+⬤ – **Nível funcional:** O subsistema sobrevive a queda mas não está ativo, provavelmente por falta de energia para utilizá-lo. Esse subsistema pode vir a ser ativado, seja de forma temporaria pela habilidade do engenheiro "Redirecionar Energia", ou de forma permanete como uma recompensa de marco.
+
+⬤ ⬤ – **Nível avançado:** O subsistema sobrevive e está ativo.
 
 <iframe src="nave.html" width="100%" height="1200px" frameborder="0"></iframe>
 
-### Arsenal 
-Define o acesso a armas e equipamentos bélicos.
-<br>⨂ – Sem armamento: Nada além do que puderem improvisar após a queda.
-<br>⬤ – Armas básicas: Pistolas energéticas simples, bastões, armas de defesa pessoal.
-<br>⬤ ⬤ – Arsenal militar completo: Rifles, explosivos, escudos táticos, torretas danificadas reaproveitáveis.
+### Subsistemas
 
-### Suprimentos
-Comida, remédios e consumíveis.
-<br>⨂ – Escassez extrema: Comida para poucos dias, kits médicos básicos.
-<br>⬤ – Suprimento razoável: Rações para semanas, primeiros socorros, água purificada.
-<br>⬤ ⬤ – Suprimentos abundantes: Estoques duradouros, remédios avançados, módulos de produção de alimentos.
+Sistemas que a nave possuía mas que estão inoperantes, podem ser reativados em algumas situações. Escolha três para estarem intactos, um para estar ativo.
 
-### Equipamento Médico
-Equipamentos de cuidado e tratamento.
-<br>⨂ – Apenas curativos básicos: Enfermaria destruída ou ausente.
-<br>⬤ – Enfermaria funcional: Medicamentos, kits de cura, equipamento para pequenas cirurgias.
-<br>⬤ ⬤ – Unidade médica avançada: Regeneradores, cápsulas médicas, drogas especializadas.
+**Escudos** - Toda nave possui escudos, infelizmente depois da queda eles não têm energia suficiente para funcionar. Os escudos podem ser ativados usando a habilidade de redirecionar energia do engenheiro.
 
-### Ferramentas e Engenharia
-Equipamentos técnicos, bancadas e peças.
-<br>⨂ – Ferramentas improvisadas: Kits simples ou danificados.
-<br>⬤ – Ferramentas padrão: Ferramentas completas, peças sobressalentes, soldadores, scanners.
-<br>⬤ ⬤ – Arsenal de engenharia avançada: Impressoras de peças, drones reparadores, bancos de energia reserva.
+**Sistemas táticos** - A nave possuía artilharia e parte das defesas ainda funcionava. Inclui torres automáticas, radares e sistemas de rastreamento de ameaças capazes de proteger o perímetro ao redor da nave. As armas da nave são consideradas de escala superior.
 
-### Equipamentos Científicos
-Sensores, laboratórios e instrumentos de análise.
-<br>⨂ – Quase nada funcional: Apenas sensores básicos ou quebrados.
-<br>⬤ – Laboratório funcional: Equipamentos de análise portáteis, coletores, sensores planetários.
-<br>⬤ ⬤ – Complexo científico avançado: Drones exploradores, laboratório completo, scanners de alta precisão.
+**Sensores Básicos** - Conjunto padrão de varredura da nave que integra leitura óptica, ambiental, proximidade e diagnóstico estrutural. Permite observar o ambiente visível, detectar obstáculos próximos, medir condições como temperatura, pressão e radiação, e monitorar a integridade da nave e do terreno ao redor.
 
-### Exploração e Colonização
-Equipamentos para explorar e sobreviver em ambientes diversos.
-<br>⨂ – Kit mínimo: Lanternas simples, cordas básicas, roupas comuns. Sem proteção contra frio extremo ou ambientes aquáticos.
-<br>⬤ – Equipamento especializado: Roupas térmicas, cilindros de mergulho, kits de escalada, máscaras filtradoras, mochilas de exploração.
-<br>⬤ ⬤ – Arsenal exploratório completo: Trajes ambientais avançados (frio, calor, radiação), drones de reconhecimento, módulos de sobrevivência portáteis, equipamentos de mergulho profundo, kits de escalada e voo planado, balizas de mapeamento.
+**Sistema de Comunicação** — Conjunto padrão de transmissão e recepção da nave que integra canais de comunicação de longo alcance. O sistema não é completamente funcional, quanto mais longa ou complexa a transmissão, maior a chance de perda de integridade dos dados, resultando em mensagens incompletas, corrompidas ou parcialmente atrasadas.
 
-### Transporte Auxiliar
-Veículos auxiliares ou módulos de mobilidade.
-<br>⨂ –  Nada além das próprias pernas: Nenhum veículo, toda locomoção é feita a pé.
-<br>⬤ – Algum veículo: Um ou dois veículos terrestres leves (2–4 lugares), suficientes para transportar parte da tripulação em cada viagem.
-<br>⬤ ⬤ – Frotilha auxiliar: Frota terrestre suficiente para levar toda a tripulação ao mesmo tempo, incluindo veículos exploratórios maiores e barcos para travessia de rios ou lagos. Permite transporte de carga e deslocamento organizado em qualquer terreno.
+**Sensor de Bioespectro** - Sistema avançado de detecção biológica que analisa assinaturas orgânicas e metabólicas. Permite localizar formas de vida ocultas, diferenciar espécies, identificar toxinas e avaliar consumo seguro de flora e fauna, além de indicar comportamento provável de criaturas próximas.
 
-### Tripulação e Sobreviventes
-Sobreviventes além dos personagens jogadores.
-<br>⨂ – Só os jogadores sobreviveram: Nenhuma ajuda externa.
-<br>⬤ – Pequeno grupo de civis ou especialistas: 3–8 pessoas com habilidades variadas.
-<br>⬤ ⬤ – Grupo grande e diverso: Possibilita construção, defesa, exploração organizada.
+**Sensor de Ecoenergético** - Detector de emissões energéticas e padrões de sinal. Permite localizar fontes de energia ativa, rastrear dispositivos desconhecidos, interceptar transmissões, identificar atividade artificial e estabelecer comunicação rudimentar com tecnologias alienígenas.
 
-### Inteligência Artificial
-O estado da IA da nave.
-<br>⨂ – IA perdida ou inoperante: Nenhum suporte. Os personagens dependem só das próprias habilidades.
-<br>⬤ – IA fragmentada: Acesso limitado a dados e sistemas. Fornece informações incompletas ou imprecisas. Controle parcial de sensores e equipamentos automáticos com falhas frequentes ou alcance restrito.
-<br>⬤ ⬤ – IA operacional: Consegue integrar dados de múltiplos sensores, gerar mapas e análises úteis, e controlar equipamentos automáticos.
+**Sensor Atmocartografico** - Plataforma de mapeamento ambiental e navegação. Permite gerar mapas dinâmicos, prever mudanças climáticas, identificar zonas seguras ou hostis, detectar rotas eficientes e localizar pontos estratégicos para exploração ou instalação de base.
 
-### Exemplos de Naves
+**Sensor Geomagnético** - Sistema de prospecção mineral e análise subterrânea. Permite detectar depósitos de recursos, localizar cavernas e estruturas ocultas, identificar instabilidade geológica e mapear o subsolo para extração eficiente.
+
+**Sensor Gravimétrico** - Detector de distorções gravitacionais e anomalias físicas. Permite localizar fenômenos incomuns, identificar regiões com física alterada, prever eventos perigosos invisíveis e encontrar estruturas ou artefatos fora dos padrões convencionais.
+
+
+### Exemplos de Naves (Essa sessão tem que ser reestruturada)
 Abaixo segue alguns exemplo de naves com números variados de características. Elas podem ser adaptadas ou o Narrador pode escolher um numero diferente da pontuação padrão para ser distribuída caso deseje emular um tipo especifico de situação.
 
 <figure markdown="span">
   ![](../imagens/queda.png/){ width="100%" }  
 </figure>
 
-#### NAVE DE COMBATE (7)
+#### NAVE DE COMBATE 
 Uma nave militar projetada para conflito, patrulha e dissuasão. Tripulação pequena, armas potentes, recursos focados em força e resposta rápida.
 
-Arsenal: ⬤ ⬤<br>
-Suprimentos: ⬤<br>
-Ferramentas e Engenharia: ⬤<br>
-Tripulação e Sobreviventes: ⬤<br>
-Equipamento Médico: ⬤<br>
-Inteligência Artificial: ⬤<br>
-
-#### CARGUEIRO (7)
+#### CARGUEIRO 
 Nave lenta e espaçosa, construída para transportar grandes volumes. Versátil, pode carregar equipamentos úteis ou carga sem valor imediato.
 
-Suprimentos: ⬤<br>
-Ferramentas e Engenharia: ⬤<br>
-Transporte Auxiliar: ⬤<br>
-Tripulação e Sobreviventes: ⬤<br>
-Exploração e Colonização: ⬤ ⬤<br>
-Inteligência Artificial: ⬤<br>
-
-#### NAVE DE PASSAGEIROS (6)
+#### NAVE DE PASSAGEIROS 
 Projetada para transporte civil em massa. Oferece conforto e abriga muitos passageiros, mas é pouca preparada para situações de perigo.
 
-
-Suprimentos: ⬤<br>
-Transporte Auxiliar: ⬤<br>
-Tripulação e Sobreviventes: ⬤ ⬤<br>
-Equipamento Médico: ⬤<br>
-Inteligência Artificial: ⬤<br>
-
-#### NAVE DE PESQUISA / EXPLORAÇÃO (10)
+#### NAVE DE PESQUISA / EXPLORAÇÃO 
 Criada para investigar planetas e fenômenos. Possui ampla variedade de ferramentas técnicas, equipamentos científicos e sistemas de análise.
 
-Suprimentos: ⬤<br>
-Ferramentas e Engenharia: ⬤<br>
-Equipamentos Científicos: ⬤ ⬤<br>
-Transporte Auxiliar: ⬤<br>
-Tripulação e Sobreviventes: ⬤<br>
-Exploração e Colonização: ⬤<br>
-Equipamento Médico: ⬤<br>
-Inteligência Artificial: ⬤ ⬤<br>
-
-#### NAVE MINERADORA (9)
+#### NAVE MINERADORA 
 Voltada para trabalho pesado em asteroides e luas. Estrutura robusta, equipada com ferramentas industriais, explosivos e sistemas de extração.
 
-Arsenal: ⬤<br>
-Suprimentos: ⬤<br>
-Ferramentas e Engenharia: ⬤ ⬤<br>
-Equipamentos Científicos: ⬤<br>
-Transporte Auxiliar: ⬤<br>
-Tripulação e Sobreviventes: ⬤<br>
-Exploração e Colonização: ⬤<br>
-Inteligência Artificial: ⬤<br>
-
-#### NAVE COLONIAL (11)
+#### NAVE COLONIAL 
 Transporta famílias, sementes e módulos de construção. Focada em estabelecer bases e sustentar grupos grandes em novos mundos.
 
-Arsenal: ⬤<br>
-Suprimentos: ⬤ ⬤<br>
-Ferramentas e Engenharia: ⬤<br>
-Equipamentos Científicos: ⬤<br>
-Transporte Auxiliar: ⬤<br>
-Tripulação e Sobreviventes: ⬤ ⬤<br>
-Exploração e Colonização: ⬤<br>
-Equipamento Médico: ⬤<br>
-Inteligência Artificial: ⬤<br>
-
-#### NAVE PRISIONAL (6)
+#### NAVE PRISIONAL 
 Construída para transportar detentos e guardas. Estrutura reforçada, mas com poucos recursos além da segurança.
 
-Arsenal: ⬤<br>
-Suprimentos: ⬤<br>
-Tripulação e Sobreviventes: ⬤ ⬤<br>
-Equipamento Médico: ⬤<br>
-Inteligência Artificial: ⬤<br>
-
-#### NAVE DIPLOMÁTICA (6)
+#### NAVE DIPLOMÁTICA 
 Voltada para missões de representação e negociação. Possui bancos de dados culturais, áreas de encontro e sistemas de suporte avançados de comunicação.
 
-Suprimentos: ⬤<br>
-Equipamentos Científicos: ⬤<br>
-Tripulação e Sobreviventes: ⬤<br>
-Equipamento Médico: ⬤<br>
-Inteligência Artificial: ⬤ ⬤<br>
 
 
 

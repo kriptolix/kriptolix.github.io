@@ -34,7 +34,7 @@ Os arquétipos disponíveis em Sob um Céu Estranho são:
 
 **O Engenheiro** – Especialista em tecnologia, improvisação e reparos. Conserta, adapta e reaproveita equipamentos, muitas vezes criando soluções inesperadas a partir de recursos limitados.
 
-**O Explorador** – O Explorador abre caminho, identifica oportunidades e evita armadilhas.
+~~**O Explorador** – O Explorador abre caminho, identifica oportunidades e evita armadilhas.~~
 
 **O Primitivo** – Profundamente familiarizado com a vida na natureza. Capaz de rastrear criaturas, construir armadilhas improvisadas e identificar perigos.
 

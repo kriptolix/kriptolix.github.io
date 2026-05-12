@@ -46,8 +46,12 @@ O Cientista é competente em:
 
 ### Habilidades
 
+#### Método Científico Acelerado 
+Você formula hipóteses em segundos e testa a mais provável. 
+Uma vez por cena, quando observa um fenômeno desconhecido (campo de energia, anomalia, criatura com propriedades estranhas) escolha um personagem, ele ignora completamente a primeira consequência que sofrer vinda desse fenômeno. Marque estresse para cada outro personagem ao qual quis estender esse benefício.
+
 #### O que é essa coisa....
-Você pode analisar rapidamente um organismo desconhecido. Marque estresse para identificar uma verdade útil: fraqueza, toxina, forma de neutralização, ponto vulnerável biológico, etc. Funciona uma vez por tipo de organismo.
+Você pode analisar rapidamente um organismo desconhecido. Uma vez por tipo de organismo descubra uma verdade útil: fraqueza, perigo, forma de neutralização, ponto vulnerável, etc.
 
 #### Catalisador Improvisado
 Sua experiência com química avançada permite manipular substâncias comuns para criar efeitos úteis. Se tiver substâncias químicas disponíveis misture-as, marque estresse e declare um efeito químico plausível: corrosão, fumaça, solvente, etc.
@@ -55,22 +59,33 @@ Sua experiência com química avançada permite manipular substâncias comuns pa
 #### Sobrecarga
 Utilizando um equipamento que tenha algum tipo de fonte de energia, você o sobrecarrega para causar uma explosão. Uma vez por cena, destrua um equipamento que possua fonte de energia ou potencial para explodir e cause uma explosão com Consequências Moderadas e alcance próximo da mesma categoria do equipamento destruído.
 
-#### Reação em Cadeia
-Você provoca o ambiente em vez de enfrentá-lo diretamente.
-Uma vez por cena, escolha um elemento natural ou artificial relevante (flora, campo energético, estrutura cristalina, ciclo climático). Ao interagir com ele, cause uma Consequência Moderada em um alvo ou área afetada.
+#### Experimento Controlado
+Ao interagir com algo desconhecido ou perigoso, você experimenta primeiro em escala reduzida. Uma vez por cena, ao realizar uma rolagem para lidar com fenômenos desconhecidos ou perigosos, a primeira consequência que você sofre é reduzida um grau.
+
+#### Adaptação de Protocolo
+Se não funciona, você muda o método — rápido.
+Quando uma solução falha ou gera um resultado inesperado, você propõe uma abordagem alternativa. Marque estresse e a próxima rolagem relacionada ao mesmo problema é realizada com controle um grau maior.
+ 
+#### Instrumentação Improvisada
+Sem ferramentas, você usa princípios. Marque estresse e explique como usa o que estiver à mão para reproduzir o efeito de um equipamento (sensor, medidor, isolador, condutor, etc.) sem possuir o equipamento necessário.
+
+#### Cálculo de Trajetória
+Você resolve cálculos e equações em tempo real. Marque estresse e oriente um aliado. Na próxima vez que ele fizer uma rolagem que envolva ângulo, tempo ou distância (ex.: arremesso, tiro de precisão, salto entre plataformas móveis), seu controle aumenta um grau.
 
 ### Equipamento
 
-Ciência e exploração: 
-Kit científico básico, 
-coletores de amostra, 
-analisador portátil, 
-binóculos digitais, 
-sensores planetários, 
-laboratório portátil.
+●/●-● Arma improvisada — Objeto simples adaptado para ataque, como um pedaço de metal, bastão ou ferramenta transformada em arma, útil em situações de emergência mas pouco confiável em combate prolongado.
 
-Suprimentos: Pad avançado (sensores ambientais e baliza).
+● Lanterna — Fonte portátil de luz, indispensável para deslocamentos em ambientes escuros ou subterrâneos, também útil como sinalização em situações de perigo ou busca.
 
-Arsenal: Bastão de dissuasão multifuncional (não letal, coerente com perfil).
+● Cantil — Recipiente improvisado, resistente e portátil, usado para armazenar e transportar líquidos.
 
-Pad modificado — Versão avançada do pad, com ferramentas de hacking, análise de padrões e acesso restrito a sistemas da nave. Permite invadir terminais, decifrar códigos e manipular dados ambientais.
+● Pad Científico - Dispositivo multifuncional, além das capacidade do pad padrão possui sensores de composição do ar (oxigênio, gases tóxicos), sensores ambientais de temperatura, umidade, e pressão além de detecção de partículas (poeira, pólen, esporos), campo magnético e radiação básica.
+
+● Scanner Multianalítico - Dispositivo compacto capaz de realizar análise espectroquímica de materiais. Identifica substâncias, avalia toxicidade e detecta compostos orgânicos ou minerais. Também detecta atividade biológica. Reconhece padrões celulares, assinaturas metabólicas e possíveis patógenos.
+
+● ● ● Substrato Quimio Adaptativo — Material programável capaz de reorganizar sua estrutura molecular para replicar propriedades de diversas substâncias químicas ativas, incluindo ácidos, solventes e reagentes industriais.
+
+●-● Drone modular — Pequeno veículo autônomo capaz de explorar áreas remotas, coletar amostras e transmitir dados em tempo real.
+
+●-●-● Laboratório portátil — Unidade compacta que funciona como laboratório de campo, permitindo análises químicas e biológicas avançadas.

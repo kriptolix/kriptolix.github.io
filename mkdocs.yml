@@ -61,7 +61,12 @@ markdown_extensions:
     - attr_list
     - footnotes
     - md_in_html
-    - admonition  
+    - admonition
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.tilde  
     - pymdownx.arithmatex:
         generic: true
     - pymdownx.emoji:
@@ -94,8 +99,7 @@ nav:
         - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_comandante.md
         - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_combatente.md
         - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_doutor.md        
-        - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_engenheiro.md
-        - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_explorador.md
+        - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_engenheiro.md        
         - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_primitivo.md        
         - monocerus/sob_um_ceu_estranho/personagens/arquétipos/o_sobrevivente.md              
       - monocerus/sob_um_ceu_estranho/personagens/aspectos.md
@@ -115,5 +119,4 @@ nav:
     - Game Design:
       - monocerus/game_design/index.md           
   - Sobre Esse Blog: page_about.md
-  - Gerador de Personagem:
-    - gerador_personagem/gerador.md
+  - Projetinhos: projetinhos.md

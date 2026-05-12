@@ -86,14 +86,21 @@ Sua experiência com química avançada permite manipular substâncias comuns pa
 
 ### Equipamento
 
-Medicina e suporte biológico: 
-Kit médico básico, 
-kit de suporte farmacológico, 
-scanner médico, 
-kit cirúrgico compacto, 
-traje de risco biológico.
+●/●-● Arma improvisada — Objeto simples adaptado ataque, como um pedaço de metal, bastão ou ferramenta transformada em arma.
 
-Arsenal básico: Bastão de dissuasão multifuncional (não letal, coerente com função de contenção).
+● Lanterna — Fonte portátil de luz, indispensável para deslocamentos em ambientes escuros ou subterrâneos, também útil como sinalização em situações de perigo ou busca.
+
+● Cantil — Recipiente improvisado, resistente e portátil, usado para armazenar e transportar líquidos. Essencial para manter hidratação durante deslocamentos.
+
+●-● Unidade de Estabilização  — Estojo compacto contendo selantes dérmicos para pequenos ferimentos, imobilizadores osteo-mórficos para ossos quebrados e spray dermo-regenerativo para queimaduras, além de agentes esterilizantes e supressores de dor.
+
+● MediPad  — Dispositivo de análise profunda que avalia sinais vitais, detecta anomalias internas e fornece diagnóstico detalhado em tempo real.
+
+● Respirador Multicamadas — Equipamento de filtragem avançada capaz de bloquear gases tóxicos, partículas nocivas e agentes biológicos. Pode ser integrado ao traje ambiental ou utilizado de forma independente.
+
+● ● ● Biofarmacos Programáveis — Infusão contendo matriz bioquímica programável capaz de sintetizar antibióticos, antivirais e estabilizadores.
+
+●-●-● Módulo Cirúrgico Autônomo - Unidade médica portátil que integra microinstrumentos auto orientados, campo de esterilização ativa e assistência holográfica, permitindo intervenções complexas mesmo fora de instalações médicas.
 
 ### Cartilha
 

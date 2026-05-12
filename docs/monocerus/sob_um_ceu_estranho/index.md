@@ -13,7 +13,7 @@ date: 2025-11-07
 
     Esse jogo é um trabalho em progresso e, portanto, está incompleto, além de possuir incongruências e sofrer mudanças e atualizações constantes. Quaisquer opiniões, sugestão e criticas construtivas são bem vindas.
 
-    **Ultima Atualização**: 23/02/2026 (Atualização de todos os arquétipos, inserção do cientista e do explorador, correções)
+    **Ultima Atualização**: 12/05/2026 (Atualização de todos os arquétipos(menos o comandante), remoção do explorador, adição de equipamento de arquetipo, alteração do modo como a nave é construída)
 
 Sob um Céu Estranho é um RPG (Role-Playing Game). Este conteúdo assume que você está familiarizado com o conceito de RPG, mais especificamente de RPG de mesa e, portanto, as definições envolvidas e explicações básicas não serão abordados aqui. Caso contrario, existem muitos lugares na internet em que voce pode aprender sobre isso.
 
