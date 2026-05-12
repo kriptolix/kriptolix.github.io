@@ -1,0 +1,56 @@
+/*Visualization*/
+
+.pagedjs_pages {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+/* páginas left vão para coluna 1 */
+.pagedjs_left_page {
+  grid-column: 1;
+}
+
+/* páginas right vão para coluna 2 */
+.pagedjs_right_page {
+  grid-column: 2;
+}
+
+.pagedjs_page {
+  flex: 0 0 auto;
+  /* impede que a página se estique */
+  margin: 0;
+}
+
+.pagedjs_page {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);  
+}
+
+/* debug mode*/
+/*
+.pagedjs_page {
+  outline: 1px solid red;
+}
+
+.pagedjs_margin-top {
+  background: rgba(255, 0, 0, 0.08);
+}
+
+.pagedjs_margin-bottom {
+  background: rgba(0, 255, 0, 0.08);
+}
+
+.pagedjs_margin-left {
+  background: rgba(0, 0, 255, 0.08);
+}
+
+.pagedjs_margin-right {
+  background: rgba(255, 255, 0, 0.08);
+}
+
+.pagedjs_area {
+  outline: 1px dashed purple;
+}

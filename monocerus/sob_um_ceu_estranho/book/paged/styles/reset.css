@@ -1,0 +1,49 @@
+/* ========================= */
+/* RESET — paged.js safe     */
+/* ========================= */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: inherit;
+  font-size: inherit;
+}
+
+/* Evita quebras de página agressivas do browser */
+* {
+  orphans: 2;
+  widows: 2;
+}
+
+/* Elementos running não ocupam espaço no fluxo normal */
+.chapter-side-marker,
+.right-side-marker {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+}

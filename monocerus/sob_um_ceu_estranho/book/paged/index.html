@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles/reset.css">
+  <link rel="stylesheet" href="styles/main.css">
+  <link rel="stylesheet" href="styles/visualization.css">
+  <link rel="stylesheet" href="styles/components.css">
+  <link rel="stylesheet" href="styles/chapters.css">
+  <link rel="stylesheet" href="styles/frontmatter.css">
+  <link rel="stylesheet" href="styles/backmatter.css">
+  <link rel="stylesheet" href="styles/pages.css">
+</head>
+
+<body>
+
+  <section id="book"></section>
+  <div id="paged-resources"></div>
+
+  <script>
+    async function loadChapter(path) {
+      const response = await fetch(path);
+      const text = await response.text();
+      document.querySelector("#book")
+        .insertAdjacentHTML("beforeend", text);
+    }
+
+    async function loadRunners(path) {
+      const response = await fetch(path);
+      const text = await response.text();
+      document.querySelector("#paged-resources")
+        .insertAdjacentHTML("beforeend", text);
+    }
+
+    async function loadScript(src) {
+      return new Promise((resolve, reject) => {
+        const script = document.createElement("script");
+        script.src = src;
+        script.onload = resolve;
+        script.onerror = reject;
+        document.body.appendChild(script);
+      });
+    }
+
+    async function loadBook() {
+      await loadChapter("frontmatter/cover.html");
+      //await loadChapter("frontmatter/title-page.html");
+      await loadChapter("frontmatter/credits.html");
+      await loadChapter("frontmatter/toc.html");
+      await loadChapter("chapters/01-chapter.html");
+      await loadChapter("chapters/02-chapter.html");
+      await loadChapter("chapters/03-chapter.html");
+      //await loadChapter("backmatter/appendix.html");
+      await loadChapter("backmatter/glossary.html");
+      await loadChapter("backmatter/index.html");
+      //await loadChapter("backmatter/license.html");
+      await loadChapter("backmatter/backcover.html");
+      
+      await loadRunners("components/runners.html");
+
+      await loadScript("scripts/scroll-restore.js");
+      await loadScript("scripts/paged.polyfill.js");
+    }
+
+    loadBook();
+  </script>
+
+</body>
+
+</html>

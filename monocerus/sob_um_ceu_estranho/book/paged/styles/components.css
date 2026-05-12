@@ -1,0 +1,149 @@
+/* ========================= */
+/* RECURSOS PAGED (ocultos)  */
+/* ========================= */
+
+#paged-resources {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+.feat {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  border: 2px solid black;
+  border-radius: 50%;
+  position: relative;
+}
+
+.feat .yes{
+
+}
+
+.feat.no::before,
+.feat.no::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 70%;
+  height: 2px;
+  background: black;
+  transform-origin: center;
+}
+
+.feat.no::before {
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.feat.no::after {
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+#nave{
+  column-span: all;
+  display: block;
+  width: 100%;
+  height: 257mm;  
+}
+
+/* ========================= */
+/* STRING-SET — seções       */
+/* ========================= */
+
+/* Capítulos: já declarado em chapters.css via .chapter-number */
+
+/* Backmatter e frontmatter: título da seção alimenta o runner */
+/*.index-title,
+.glossary-title,
+.appendix-title,
+.license-title,
+.toc-title,
+.credits-title {
+  string-set: chapter-number content(text);
+}*/
+
+/* ========================= */
+/* RUNNER — LADO ESQUERDO    */
+/* ========================= */
+
+.chapter-side-marker {
+  position: running(left-side-marker);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 20mm;
+  height: 205mm;
+
+  /*border-style: none solid solid none;
+  border-width: 0 1px 1px 0;
+  border-color: #000;*/
+}
+
+/* ========================= */
+/* RUNNER — LADO DIREITO     */
+/* ========================= */
+
+.right-side-marker {
+  position: running(right-side-marker);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 20mm;
+  height: 205mm;
+}
+
+/* ========================= */
+/* PARTES DO MARKER          */
+/* ========================= */
+
+.rect-top {
+  width: 20mm;
+  height: 5mm;
+  background: var(--color-purple);
+}
+
+.chapter-rect {
+  background:  var(--color-orange);
+  color:       var(--color-text-light);
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size:   25pt;
+  width:       20mm;
+  height:      100mm;
+  display:     flex;
+  align-items: center;
+  justify-content: center;
+  writing-mode: vertical-rl;
+}
+
+.chapter-rect::before {
+  content: string(chapter-number);
+  font-family:    var(--font-display);
+  letter-spacing: 4px;
+  font-weight:    600;
+  text-transform: uppercase;
+}
+
+.rect-bottom {
+  width:      20mm;
+  height:     100mm;
+  background: var(--color-yellow);
+}
+
+/* ========================= */
+/* CAIXA DE REGRA            */
+/* ========================= */
+
+.rulebox {
+  border:        7px inset var(--color-orange-dark);
+  border-radius: 0px 40px 0px 0px;
+  box-shadow:    0px 10px 13px -7px rgb(0, 0, 0);
+  padding:       1em;
+  margin:        1em 0;
+  break-inside:  avoid;
+}

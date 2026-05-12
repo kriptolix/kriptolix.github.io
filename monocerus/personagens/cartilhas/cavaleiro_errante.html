@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8" />  
+  <title>Cartilha — Cavaleiro Errante</title>
+
+  <!-- Tipografia inspirada no estilo do livro: serif robusta para títulos, sans para texto -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&family=Source+Sans+3:wght@400;600&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="cavaleiro_errante.css">
+
+</head>
+
+<body>
+  <div class="sheet" role="document" aria-label="Cartilha de personagem">
+    <!-- Cabeçalho geral -->
+    <header class="header">
+      <div class="brand">
+        <h1>Cavaleiro Errante</h1>
+        <p>O Cavaleiro Errante é o retrato da virtude — um viajante armado de fé, aço e propósito</p>
+      </div>
+      <div class="meta">
+        <span class="tag">Cartilha</span>
+        <span class="muted">Versão protótipo — conteúdo de exemplo</span>
+      </div>
+    </header>
+
+    <!-- Layout em duas colunas -->
+    <div class="content">
+      <!-- Painel lateral com recursos rápidos -->
+      <aside class="sidebar" aria-label="Recursos rápidos">
+        <div class="card">
+          <div class="title">Nome e detalhes</div>
+          <div class="body">
+            <div class="muted">Nome:</div>
+            <input type="text" class="textheader" />
+            <div class="muted">Descrição:</div>
+            <textarea rows="2"></textarea>
+            <div class="muted">Passado:</div>
+            <input type="text" class="textheader" />
+            <div class="muted">Motivação:</div>
+            <input type="text" class="textheader" />
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="title">Estresse</div>
+          <div class="body">
+            <div class="track" aria-label="Medidor de estresse">
+              <input type="checkbox" class="tick">
+              <input type="checkbox" class="tick">
+              <input type="checkbox" class="tick">
+              <input type="checkbox" class="tick">
+              <input type="checkbox" class="tick">
+              <input type="checkbox" class="tick">
+              <input type="checkbox" class="tick">
+              <input type="checkbox" class="tick">
+            </div>
+            <br>
+            <div class="action-label">Traumas</div>
+            <input type="text" class="textcolunm" />
+            <input type="text" class="textcolunm" />
+            <input type="text" class="textcolunm" />
+            <input type="text" class="textcolunm" />
+
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="title">Aspectos</div>
+          <div class="body">
+            <div class="actions" aria-label="Ações e pontos">
+
+              <div class="action">
+                <input type="checkbox"><input type="checkbox"><br>
+                <label class="action-label">Ardiloso</label>
+              </div>
+
+              <div class="action">
+                <input type="checkbox"><input type="checkbox"><br>
+                <label class="action-label">Envolvente</label>
+              </div>
+
+              <div class="action">
+                <input type="checkbox"><br>
+                <label class="action-label">Empático</label>
+
+              </div>
+              <div class="action">
+                <input type="checkbox"><input type="checkbox"><br>
+                <label class="action-label">Inventivo</label>
+
+              </div>
+              <div class="action">
+                <input type="checkbox"><input type="checkbox"><br>
+                <label class="action-label">Analítico</label>
+
+              </div>
+              <div class="action">
+                <input type="checkbox"><input type="checkbox"><input type="checkbox"><br>
+                <label class="action-label">Ágil</label>
+
+              </div>
+              <div class="action">
+                <input type="checkbox"><input type="checkbox"><br>
+                <label class="action-label">Habilidoso</label>
+
+              </div>
+              <div class="action">
+                <input type="checkbox"><input type="checkbox"><input type="checkbox"><br>
+                <label class="action-label">Atlético</label>
+
+              </div>
+              <div class="action">
+                <input type="checkbox"><br>
+                <label class="action-label">Destemido</label>
+
+              </div>
+              <div class="action">
+                <input type="checkbox"><br>
+                <label class="action-label">Instintivo</label>
+
+              </div>
+              <div class="action">
+                <input type="checkbox"><br>
+                <label class="action-label">Atento</label>
+
+              </div>
+
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="title">Habilidades Gerais</div>
+            <div class="body">
+              <div class="actions" aria-label="Ações e pontos">
+
+                <div class="action">
+                  <label class="action-label">Patrimonio</label><input type="checkbox">
+                </div>
+
+                <div class="action">
+                  <label class="action-label">Contatos</label><input type="checkbox">
+                </div>
+
+                <div class="action">
+                  <label class="action-label">Reputação</label><input type="checkbox">
+                </div>
+
+                <div class="action">
+                  <label class="action-label">Mentor</label><input type="checkbox">
+                </div>
+
+                <div class="action">
+                  <label class="action-label">Poliglota</label><input type="checkbox">
+                  <input type="text" class="textcolunm" />
+                  <input type="text" class="textcolunm" />
+                  <input type="text" class="textcolunm" />
+                  <input type="text" class="textcolunm" />
+
+                </div>
+
+                <div class="action">
+                  <label class="action-label">Treinado</label>
+                  <input type="text" class="textcolunm" />
+                  <input type="text" class="textcolunm" />
+                  <input type="text" class="textcolunm" />
+                  <input type="text" class="textcolunm" />
+
+                </div>
+
+              </div>
+            </div>
+          </div>
+
+          <div class="card">
+            <div class="title">Condições</div>
+
+            <table style="width: 100%; border-collapse: collapse; text-align: left;" border="1">
+              <tr>
+                <th style="width: 20%;"></th>
+                <th style="width: 40%;"></th>
+                <th style="width: 40%;"></th>
+              </tr>
+              <tr>
+                <td>Dramático</td>
+                <!-- unindo células vazias -->
+                <td colspan="2"></td>
+              </tr>
+
+              <tr>
+                <td>Intenso (-1d)</td>
+                <td colspan="2"></td>
+              </tr>
+
+              <tr>
+                <td>Moderado (-1d)</td>                
+                <td colspan="2"></td>
+              </tr>
+
+              <tr>
+                <td>Limitado</td>
+                <td></td>
+                <td></td>
+              </tr>
+
+            </table>
+
+          </div>
+      </aside>
+
+
+
+      <!-- Área principal com seções principais do playbook -->
+      <main class="main" aria-label="Seções do playbook">
+        <section class="section">
+          <div class="section-header">
+            <div class="bar" aria-hidden="true"></div>
+            <h2>Competências</h2>
+          </div>
+          
+            <p>O Cavaleiro Errante é habilidoso em duelos formais, torneios e confrontos onde a bravura
+              e a técnica têm papel central. Permanece firme sob pressão moral e é conhecedor da etiqueta e da
+              heráldica.</p>
+          
+        </section>
+
+        <section class="section">
+          <div class="section-body grid-2">
+            <div class="list">
+              <h4>Considere o que o cavaleiro tem Controle Moderado quando:</h4>
+              <ul>
+                <li>Luta com armas de projéteis ou com as mãos limpas.</li>
+                <li>Lidera ou comanda em campo de batalha.</li>
+                <li>Interage com a nobreza e aplica etiqueta.</li>
+                <li>Relembra o que sabe sobre política e linhagens.</li>
+              </ul>
+            </div>
+            <div class="list">
+              <h4>Considere o que o cavaleiro tem Controle Alto quando:</h4>
+              <ul>
+                <li>Luta com armas brancas ou montado.</li>
+                <li>Resiste à corrupção, tentação ou desespero.</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="section-header">
+            <div class="bar" aria-hidden="true"></div>
+            <h2>Habilidades especiais</h2>
+          </div>
+          <div class="section-body abilities">
+            <div class="ability">              
+              <label class="name"><input type="checkbox"> Toque da Cortesia</label>
+              <label class="desc">Com um gesto ou palavra cortês, transforma hostilidade em respeito. Uma vez por cena,
+                em situações sociais, pode abrandar insultos, interromper uma briga ou conquistar a atenção de alguém
+                importante.</label>
+            </div>
+
+            <div class="ability">
+              <label class="name"><input type="checkbox"> Escudo Juramentado:</label>
+              <label class="desc">Quando protege alguém em perigo, pode interpor-se entre o alvo e a ameaça. Em uma
+                luta,
+                escolha um indivíduo em dificuldade para proteger. Enquanto o protege, qualquer <b>Consequência</b>
+                física danosa
+                destinada a ele pode ser redirecionada a você. Você usa seu próprio valor de Atenuante contra
+                elas.</label>
+            </div>
+
+            <div class="ability">
+              <label class="name"><input type="checkbox"> Dádiva da Dama</label>
+              <label class="desc">Você recebeu um símbolo de fé, amor ou lembrança (um lenço, uma flor, uma promessa).
+                Uma vez por sessão você pode invocar essa dádiva para ignorar completamente quaisquer Consequências,
+                a não ser Consequências Dramáticas, que o estejam afetando até o fim da cena.</label>
+            </div>
+
+            <div class="ability">
+              <label class="name"><input type="checkbox"> Último Golpe</label>
+              <label class="desc">Quando está prestes a cair, pode reunir as últimas forças para executar um ato heroico
+                impossível. Quando marcar uma Consequência <b>Dramática</b>, explique como e cause imediatamente um
+                Efeito
+                <b>Intenso</b> em um desafio em que você esteja envolvido ou que possa intervir. Depois disso você
+                estará
+                incapacitado.</label>
+            </div>
+
+            <div class="ability">
+              <label class="name"><input type="checkbox"> Juramento</label>
+              <label class="desc">Diante de uma injustiça, você faz um voto para corrigir o que está errado — a
+                destruição
+                de um mal, a restauração de uma terra ou o resgate de uma alma perdida. Enquanto estiver na jornada para
+                cumprir esse juramento você recupere um ponto extra de estresse por descanso.</label>
+            </div>
+
+            <div class="ability">
+              <label class="name"><input type="checkbox"> Desafio de Honra</label>
+              <label class="desc">Se alguém o ofender você pode invocar um duelo formal diante de testemunhas. Enquanto
+                o duelo durar, todos reconhecem sua legitimidade — interferir é visto como ato vil ou sacrílego. Mesmo
+                entre grupos sem honra, um indivíduo em posição de poder que recuse um duelo vai ter seu status
+                questionado
+                pelo próprio grupo, mas não espere uma luta limpa.</label>
+            </div>
+
+            <div class="ability">
+              <label class="name"><input type="checkbox"> Investida Montada</label>
+              <label class="desc">Quando você cavalga em direção ao inimigo seus golpes são devastadores. Quando estiver
+                sobre o cavalo considere a arma que estiver usando como uma ferramenta de utilidade uma categoria acima
+                do que ela é.</label>
+            </div>
+
+            <div class="ability">
+              <label class="name"><input type="checkbox"> Augúrio</label>
+              <label class="desc">Em um momento de dúvida ou desespero, você pode clamar por orientação superior. Quando
+                tiver que tomar uma decisão entre duas alternativas, marque estresse e um presságio, coincidência ou
+                sinal
+                surge para indicar o caminho a seguir. A interpretação do augúrio quase nunca é óbvia.</label>
+            </div>
+
+            <div class="ability">
+              <label class="name"><input type="checkbox"> Coração de Ferro e Ouro</label>
+              <label class="desc">Você resiste a tentações, feitiços e manipulações mentais. Você pode marcar estresse e
+                ignorar completamente uma consequência não física que tenha recebido. A quantidade de estresse a ser
+                marcado
+                corresponde ao nível da consequência.</label>
+            </div>
+
+            <div class="ability">
+              <label class="name"><input type="checkbox"> Lenda Viva</label>
+              <label class="desc">Ao realizar um feito de bravura diante de testemunhas, sua reputação se espalha. Em
+                regiões
+                onde seu nome é conhecido, plebeus oferecem ajuda e nobres tratam você com deferência — ou inveja. Ganhe
+                a
+                Habilidade <b>Reputação</b>.</label>
+            </div>
+          </div>
+        </section>
+
+        <section class="section">
+            <div class="section-header">
+              <div class="bar" aria-hidden="true"></div>
+              <h2>Itens e equipamento</h2>
+              <p class="muted"><b>Carga:</b> 1 Velado, 3 Discreto , 5 Evidente, 7 Chamativo</p>
+            </div>
+        </section>
+
+        <div class="section-body grid-2">
+          <section class="section">            
+            <div class="list">              
+              <ul>
+                <li><input type="checkbox">-<input type="checkbox">Armadura de placas.</li>
+                <li><input type="checkbox">Escudo.</li>
+                <li><input type="checkbox">Espada longa.</li>
+                <li><input type="checkbox">Lança de cavalaria.</li>
+                <li><input type="checkbox">Adaga.</li>
+                <h4>Itens especiais</h4>
+                <li>Um Cavalo de guerra.</li>
+                <li>Um escudeiro ou um jovem assistente.</li>
+              </ul>
+            </div>
+          </section>
+
+          <section class="section">            
+            <div class="list">              
+              <ul>
+                <li><input type="checkbox">Uma lamina ou duas</li>
+                <li><input type="checkbox">Facas de arremesso</li>
+                <li><input type="checkbox">Uma besta leve</li>
+                <li><input type="checkbox">-<input type="checkbox">Uma besta Pesada</li>
+                <li><input type="checkbox">Uma tocha</li>
+                <li><input type="checkbox">Um arco</li>
+                <li><input type="checkbox">Suprimentos de viagem</li>
+              </ul>
+            </div>
+          </section>
+
+        </div>
+        <section class="section">
+          <div class="section-header">
+            <div class="bar" aria-hidden="true"></div>
+            <h2>Relacionamentos</h2>
+          </div>
+          <div class="section-body grid-2">
+            <div class="list">
+              <h3>Amigos</h3>
+              <ul>
+                <li>Contramestre severo</li>
+                <li>Médico clandestino</li>
+                <li>Lutador de arena</li>
+              </ul>
+            </div>
+            <div class="list">
+              <h3>Rivais</h3>
+              <ul>
+                <li>Capanga ciumento</li>
+                <li>Capitão da guarda</li>
+                <li>Cobrador implacável</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
+      </main>
+    </div>
+
+    <!-- Rodapé -->
+    <footer class="footer">
+      <p>Conteúdo do foot.</p>
+    </footer>
+  </div>
+</body>
+
+</html>

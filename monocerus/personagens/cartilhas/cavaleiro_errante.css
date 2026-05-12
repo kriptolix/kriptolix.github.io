@@ -1,0 +1,390 @@
+/* Paleta e estética: monocromático com acento vermelho, alto contraste, sensação "industrial" */
+:root {
+    --bg: #ffffff;
+    /* fundo branco */
+    --panel: #DBDCDE;
+    /* painel cinza muito claro */
+    --ink: #000000;
+    /* texto preto */
+    --muted: #555555;
+    /* texto secundário em cinza médio */
+    --accent: #333333;
+    /* destaque em cinza escuro */
+    --accent-ink: #ffffff;
+    /* texto sobre o destaque */
+    --line: #999999;
+    /* linhas e bordas em cinza médio */
+    --shadow: rgba(0, 0, 0, 0.15);
+    /* sombra leve */
+}
+
+.textheader {
+    width: 100%;
+    background: transparent;
+    /* sem fundo */
+    border: none;
+    /* remove todas as bordas */
+    border-bottom: 1px solid #999;
+    /* apenas linha inferior */
+    color: var(--ink);
+    /* usa a cor de texto definida */
+    padding: 4px 2px;
+    margin: 4px 0 10px;
+    outline: none;
+    /* remove o contorno azul ao focar */
+    resize: none;
+    /* impede redimensionamento manual */
+}
+
+.textcolunm {
+    width: 100%;
+    background: transparent;
+    /* sem fundo */
+    border: none;
+    /* remove todas as bordas */
+    border-bottom: 1px solid #999;
+    /* apenas linha inferior */
+    color: var(--ink);
+    /* usa a cor de texto definida */
+    
+    outline: none;
+    /* remove o contorno azul ao focar */
+    resize: none;
+    /* impede redimensionamento manual */
+}
+
+textarea {
+    width: 100%;
+    background: repeating-linear-gradient(to bottom,
+            transparent 0,
+            transparent calc(1.4em - 1px),
+            #999 calc(1.4em - 1px),
+            #999 1.4em);
+    border: none;
+    color: var(--ink);
+    padding: 2px;
+    margin: 4px 0 10px;
+    outline: none;
+    resize: none;
+    /* impede redimensionamento */
+    line-height: 1.4em;
+    /* controla espaçamento entre linhas */
+    resize: none;
+    /* impede redimensionamento manual */
+}
+
+
+input[type="text"]:focus {
+    border-bottom: 2px solid var(--accent);
+    /* opcional: destaca ao focar */
+}
+
+
+input[type="checkbox"] {
+    /* Remove o estilo nativo */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+
+    /* Define formato e estilo da bolinha */
+    width: 16px;
+    height: 16px;
+    border: 2px solid #2a2d31;
+    border-radius: 50%;
+    /* deixa redondo */
+    background: #eeeff0;
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: middle;
+    /* força alinhamento com o texto */    
+}
+
+input[type="checkbox"]:checked {
+    background: #000;
+    /* bolinha preta quando marcada */
+}
+
+/* Reset simples */
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 29.7cm;
+    width: 21cm;
+    
+}
+
+body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "Source Sans 3", system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    line-height: 1.4;
+}
+
+/* Página centrada com proporção de folha */
+.sheet {
+    max-width: 980px;
+    margin: 32px auto;
+    background: var(--panel);
+    box-shadow: 0 10px 30px var(--shadow);
+    border: 1px solid var(--line);
+}
+
+/* Cabeçalho com barra forte e título serif */
+.header {
+    background: white;
+    padding: 20px 24px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: end;
+    gap: 12px;
+    color: var(--ink)
+}
+
+.brand {
+    font-family: "Crimson Text", Georgia, serif;
+    letter-spacing: 0.5px;
+}
+
+.brand h1 {
+    margin: 0;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.brand p {
+    margin: 4px 0 0;
+    font-size: 14px;
+    color: var(--muted);
+}
+
+.meta {
+    display: grid;
+    gap: 6px;
+    align-content: end;
+    text-align: right;
+}
+
+.tag {
+    display: inline-block;
+    background: var(--accent);
+    color: var(--accent-ink);
+    padding: 4px 10px;
+    font-weight: 600;
+    font-size: 12px;
+    border-radius: 3px;
+    letter-spacing: 0.4px;
+}
+
+/* Layout em colunas: lateral (estatutos/recursos) + conteúdo */
+.content {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    gap: 0;
+}
+
+/* Sidebar com blocos “cartão” */
+.sidebar {
+    border-right: 1px solid var(--line);
+    background: #ffffff;
+    padding: 16px;
+}
+
+.card {
+    border: 1px solid var(--line);
+    margin-bottom: 14px;
+    background: #ffffff;
+}
+
+.card .title {
+    font-family: "Crimson Text", Georgia, serif;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 12px;
+    background: black;
+    letter-spacing: 0.3px;
+    color: white;
+}
+
+.card .body {
+    padding: 12px;
+    font-size: 14px;
+    color: var(--ink);
+}
+
+.muted {
+    color: var(--muted);
+    font-size: 13px;
+}
+
+/* Medidores e caixas de marcação */
+.track {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    gap: 6px;
+}
+
+.tick {
+    height: 20px;
+    border: 1px solid var(--line);
+    background: #0f1114;
+    position: relative;
+}
+
+.tick::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, transparent, rgba(255, 255, 255, 0.03));
+    pointer-events: none;
+}
+
+.check-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 6px;
+}
+
+.check {
+    height: 18px;
+    border: 1px solid var(--line);
+    background: #0f1114;
+    
+}
+
+/* Lista de atributos (semelhante às 12 ações de BitD) */
+.actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px 14px;
+}
+
+.action-label {
+    font-weight: 600;
+    letter-spacing: 0.4px;
+}
+
+
+/* Área principal com seções modulares */
+.main {
+    padding: 20px;
+}
+
+.section-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 5px;
+    background: #BBBDC0;
+}
+
+.section-header .bar {
+    width: 6px;
+    height: 22px;
+    background: var(--accent);
+    box-shadow: 0 0 0 1px var(--shadow) inset;
+}
+
+.section-header h2 {
+    font-family: "Crimson Text", Georgia, serif;
+    font-size: 18px;
+    margin: 0;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+}
+
+.section-body {
+    padding-bottom: 16px;
+}
+
+/* Grade de habilidades com embrulhos estilo "faixa" */
+.abilities {
+    display: grid;
+    gap: 14px;
+}
+
+.ability .name {
+    font-weight: 700;
+    margin-bottom: 6px;
+    letter-spacing: 0.3px;
+}
+
+.ability .desc {
+    color: var(--muted);
+    font-size: 12px;
+}
+
+.ribbon {
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    background: var(--accent);
+    color: var(--accent-ink);
+    font-size: 11px;
+    font-weight: 700;
+    padding: 4px 8px;
+    border-radius: 2px;
+    letter-spacing: 0.4px;
+    box-shadow: 0 2px 0 var(--shadow);
+}
+
+/* Lista de itens e contatos */
+.grid-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+}
+
+.list {
+
+    background: #DBDCDE;
+    padding: 10px;
+}
+
+.list h4 {
+    margin: 0 0 8px;
+    font-family: "Crimson Text", Georgia, serif;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    background: #BBBDC0;
+}
+
+.list ul {
+    margin: 0;
+    padding-left: 18px;
+    color: var(--muted);
+    font-size: 14px;
+}
+
+/* Rodapé informativo */
+.footer {
+    padding: 12px 20px 20px;
+    color: var(--muted);
+    font-size: 12px;
+    background: white;
+}
+
+/* Preparar para impressão A4 */
+@media print {
+    body {
+        background: #fff;
+    }
+
+    .sheet {
+        border: none;
+        box-shadow: none;
+        margin: 0;
+        page-break-inside: avoid;
+    }
+
+    .header {
+        border-bottom-color: #000;
+    }
+
+    .tag {
+        print-color-adjust: exact;
+    }
+}

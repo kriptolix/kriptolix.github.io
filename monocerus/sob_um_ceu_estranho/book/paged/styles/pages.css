@@ -1,0 +1,122 @@
+/* ========================= */
+/* PÁGINA BASE               */
+/* ========================= */
+
+@page {
+  size: A4;
+  margin-top:    20mm;
+  margin-bottom: 20mm;
+  background-color: var(--color-page-bg);
+  background-image:
+    linear-gradient(rgba(27, 11, 31, 0.015) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(27, 11, 31, 0.015) 1px, transparent 1px);
+}
+
+@page :right {
+  margin-left:  15mm;
+  margin-right: 25mm;
+
+  @right-middle {
+    content: element(right-side-marker);
+    /*transform: translateY(2cm);*/
+  }
+
+  @bottom-right-corner {
+    content: counter(page);
+    background:  var(--color-yellow);
+    color:       var(--color-purple-dark);
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size:   16pt;
+    text-align:  center;
+    width:       20mm;
+    height:      20mm;   
+    transform: translateX(5mm)
+  }
+}
+
+@page :left {  
+  
+  margin-left:  25mm;
+  margin-right: 15mm;
+
+  @left-top{
+    content: element(left-side-marker);
+    transform: translateY(-2cm);
+  } 
+
+  @bottom-left-corner {
+    content: counter(page);
+    background:  var(--color-yellow);
+    color:       var(--color-purple-dark);
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size:   16pt;
+    text-align:  center;
+    width:       20mm;
+    height:      20mm;       
+  }
+}
+
+@page :first {
+  background: none;
+
+  @bottom-right { content: none; }
+  @bottom-left  { content: none; }
+}
+
+@page chapterOpening {
+  @bottom-right {
+    content: none;
+    background: none;
+  }
+  @bottom-left {
+    content: none;
+    background: none;
+  }
+}
+
+@page backcover {
+  background-color: var(--color-purple-dark);
+  color: var(--color-text-light);
+
+  margin-left: 20mm;
+  margin-right: 20mm;
+
+  @bottom-right-corner { content: none; background: none; }
+  @bottom-left-corner  { content: none; background: none; }
+  @left-top     { content: none; }
+  @right-top    { content: none; }
+}
+
+@page cover {
+  margin: 0; /* remove toda a borda branca */
+}
+
+@page titlePage {
+  @bottom-left {
+    content: none;
+    background: none;
+  }
+
+  @bottom-right {
+    content: none;
+    background: none;
+  }
+}
+
+@page credits {
+  background: #68007a;
+  color: aliceblue;
+  /*-webkit-mask-image: url('../assets/tinta.svg');
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-size: cover;
+
+  mask-image: url('../assets/tinta.svg');
+  mask-repeat: repeat;
+  mask-size: cover;*/
+
+  @bottom-right-corner { content: none; background: none; }
+  @bottom-left-corner  { content: none; background: none; }
+  
+}

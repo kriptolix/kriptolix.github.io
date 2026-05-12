@@ -1,0 +1,123 @@
+/* ========================= */
+/* VARIÁVEIS GLOBAIS         */
+/* ========================= */
+
+:root {
+  /* Cores */
+  --color-page-bg:     #faf8f7;
+  --color-yellow:      #ffaa20;
+  --color-orange:      #ef6500;
+  --color-orange-dark: #F24405;
+  --color-purple:      #68007a;
+  --color-purple-dark: #23002a;
+  --color-accent:      #006253;
+  --color-text-light:  #faf8f7;
+  
+  /* Tipografia */
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-display: "Rajdhani", system-ui, sans-serif;
+  --font-body-size: 12pt;
+
+  /* Margens de página */
+  --margin-inner: 15mm;
+  --margin-outer: 25mm;
+  /*--margin-top:   20mm;
+  --margin-bottom: 20mm;*/
+
+  /* Dimensões de elementos fixos */
+  /*--side-marker-width: 20mm;
+  --page-num-size:     20mm;*/
+}
+
+h2, h3, h4 {
+  font-family: var(--font-display, serif);
+  color: var(--color-purple);
+  font-weight: 700;
+  line-height: 1.25;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  border-bottom: 2px solid var(--color-purple);
+  text-align: center;
+  text-indent: 0;
+  hyphens: none;
+}
+
+h1, h2, h3, h4 {
+  break-after: avoid-column;
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p {
+  break-before: avoid-column;
+  text-indent: 0;
+}
+
+h2 + h3 {
+  border-bottom: none
+}
+
+h1 + h2 {
+  border-bottom: none
+}
+
+h2 {
+  font-size: 22pt;  
+  letter-spacing: 0.02em;
+}
+
+h3 {
+  font-size: 16pt;  
+}
+
+h4 {
+  font-size: 13pt; 
+}
+
+p {
+  font-family: var(--font-body, serif);
+  font-size: 11pt;
+  line-height: 1.45;
+  margin: 0 0 0.4em 0;
+  text-indent: 1.5em;
+  hyphens: auto;
+  text-align: justify;
+  text-align-last: left; 
+  orphans: 3;
+  widows: 3;
+}
+
+
+
+blockquote + p,
+ul + p,
+ol + p,
+table + p {
+  text-indent: 0;
+}
+
+/* ========================= */
+/* CORPO                     */
+/* ========================= */
+
+body {
+  font-family: var(--font-body);
+  line-height: 1.4;
+  font-weight: 500;
+}
+
+/* ========================= */
+/* CONTADOR DE PÁGINA        */
+/* ========================= */
+
+/* Capítulos iniciam a contagem a partir de 1 */
+.chapter:first-of-type {
+  counter-reset: page 1;
+}
+
+.page-number::before {
+  content: counter(page);
+}
