@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>RPG Design — Ferramentas — Pato Zumbi</title>
+    <meta name="description" content="">
+    <link rel="canonical" href="http://localhost:8000/blog/2020-11-13-rpg-ferramentas/">
+    <link rel="stylesheet" href="/css/light.1d4c9e2b28.css">
+
+    <meta property="og:site_name" content="Pato Zumbi">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="RPG Design — Ferramentas — Pato Zumbi">
+    <meta property="og:description" content="">
+    <meta property="og:url" content="http://localhost:8000/blog/2020-11-13-rpg-ferramentas/">
+    <meta name="twitter:card" content="summary">
+
+    <link rel="alternate" type="application/rss+xml" title="Pato Zumbi" href="/rss.xml">
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/site.webmanifest">
+</head>
+
+<body>
+    <header class="site-header">
+    <div class="site-header__inner">
+
+        <div>
+            <a class="site-title" href="/">Pato Zumbi</a>
+        </div>
+
+        <button type="button" class="menu-toggle" id="menu-toggle" aria-expanded="false"
+            aria-controls="site-menu-drawer">
+            <svg class="menu-toggle__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                <path d="M3 6h18M3 12h18M3 18h18" fill="none" stroke="currentColor" stroke-width="2"
+                    stroke-linecap="round" />
+            </svg>
+            <span class="sr-only">??menu??</span>
+        </button>
+
+        <div class="site-menu-drawer" id="site-menu-drawer">
+            <button type="button" class="drawer__close" id="menu-close">
+                <span aria-hidden="true">&times;</span>
+                <span class="sr-only">Fechar</span>
+            </button>
+            <nav class="site-menu">
+    <ul>
+        <li><a href="/blog/" class="">Artigos</a></li>
+        <li><a href="/pages/introducao/" class="">Sob um Céu Estranho</a></li>
+        <li><a href="/pages/projects/" class="">Projetinhos</a></li>
+        <li><a href="/pages/about/" class="">Sobre esse blog</a></li>
+    </ul>
+</nav>
+
+            
+        </div>
+
+    </div>
+
+    <div class="drawer__overlay" id="menu-overlay" hidden></div>
+</header>
+
+
+    <div class="site-layout">
+        <div class="sidebar-column" id="sidebar-drawer">
+            <button type="button" class="drawer__close" id="sidebar-close">
+                <span aria-hidden="true">&times;</span>
+                <span class="sr-only">??close??</span>
+            </button>
+
+<aside class="sidebar-toc">
+    <h2>Neste Artigo</h2>
+    <ul>
+    <li>
+        <a href="#como-os-grandes-fazem">Como os grandes fazem</a>
+    </li>
+    <li>
+        <a href="#cavando-mais-fundo">Cavando mais fundo</a>
+    </li>
+    <li>
+        <a href="#conclusao">Conclusão</a>
+    </li>
+</ul>
+
+</aside>
+        </div>
+        <div class="drawer__overlay" id="sidebar-overlay" hidden></div>
+        <main class="site-content">
+            <nav class="breadcrumbs" aria-label="breadcrumbs">
+<a href="/">Pato Zumbi</a><span
+        class="breadcrumbs__sep">/</span>
+<a href="/blog/">Artigos</a><span
+        class="breadcrumbs__sep">/</span>
+<span class="breadcrumbs__current">RPG Design — Ferramentas</span></nav>
+
+            <button type="button" class="sidebar-toggle" id="sidebar-toggle" aria-expanded="false"
+                aria-controls="sidebar-drawer">
+                <span aria-hidden="true">&#9776;</span> Sessões
+            </button>
+<article class="document document--post">
+    <h1 class="document__title">RPG Design — Ferramentas</h1>
+    <p class="document__meta">
+        <time>13/11/2020</time>
+    </p>
+    <div class="document__body">
+        <p>Até agora, com exceção de uma explicação anormalmente detalhada do motivo pelo qual fiz cada escolha, nada de novo ou inédito foi apresentado aqui. Tanto a ideia de Atributos quanto a de Competências são aplicações de conceitos comuns no design de RPG. Já a ideia de ferramentas é nova, as ferramentas são um arcabouço conceitual especialmente desenvolvido para dar suporte a lógica do Mono.</p>
+<p>Um dos maiores problemas no desenvolvimento de um sistema está naquilo que atributos e habilidades não cobrem. Uma série de coisas que não são facilmente classificáveis e que, algumas vezes, nem sequer são passíveis de mecanização. Coisas como equipamento, riqueza, super poderes, magia e todos os outros “extras” que não são diretamente ligados às capacidades padrão do personagem.</p>
+<h4 class="odt-keep-with-next" id="como-os-grandes-fazem">Como os grandes fazem</h4>
+<p>Há inúmeras maneiras de lidar tudo isso, indo desde de ignorar totalmente tudo que não for atributo e habilidade, até dividir em enormes listas que indicam o que se pode ou não ter, e quanto vai custar. Normalmente se separa equipamentos em uma categoria, e é bastante comum dividir o que resta entre elementos positivos e negativos, com custos e/ou requisitos de aquisição. Nesse caminho estão as qualidades e defeitos em WOD, e vantagens e desvantagens em GURPS e 3D&amp;T por exemplo.</p>
+<p>Em outros jogos, como D&amp;D, existem características atreladas a classe que são recebidas como recompensa com o passar dos níveis, não existindo uma contraparte “negativa”. Em Fate, a ideia se mistura com outros elementos para formar os Aspectos, que podem ser interpretados de maneiras diferentes, boas ou ruins, a depender do momento narrativo.</p>
+<p>A primeira ideia seria ignorar todos esses “extras”, o que pode funcionar bem em jogos de gênero muito específico onde grande parte das características não cobertas é irrelevante para o desenrolar da trama. Na maioria desses jogos o equipamento recebe alguma distinção, e o resto é ignorado. Em alguns poucos se usa elementos positivos e negativos, mas o equipamento é ignorado. No caso do Mono, a proposta genérica modular descarta ambas as possibilidades.</p>
+<p>A próxima opção seria limitar essas características a uma lista curta, pré definida e construída para refletir aspectos usuais do cenário/tema/gênero do jogo, atrelando-a aos arquétipos do personagem. Mais uma vez, essa solução pode funcionar bem em jogos com nicho específico, como D&amp;D, mas para um jogo que se propõe a ser genérico seria inviável.</p>
+<p>A seguir temos a maneira como GURPS lida com a questão, com uma lista extensa de características básicas expandida através de livros sobre temas, gêneros e cenários específicos, tentando cobrir o máximo possível de elementos. Acredito que a maneira como GURPS 4ª edição combina vantagens e desvantagens criadas de forma genérica com modificadores situacionais, chamados de ampliações e limitações, é o mais próximo de cobertura total que se pode chegar.</p>
+<p>Infelizmente, navegar por centenas de páginas de conteúdo para conseguir encontrar o que se quer, e ter que lidar com custos variáveis, percentagem e outras questões matemáticas é o extremo oposto do princípio da Simplicidade Geral.</p>
+<h4 class="odt-keep-with-next" id="cavando-mais-fundo">Cavando mais fundo</h4>
+<p>Porém, mesmo GURPS conseguindo um nível fantástico de cobertura, ainda me parecia que toda essa análise era feita muito caso a caso, sem uma lógica maior que permitisse extrapolar novas características de forma intuitiva. Comecei a pensar que deveria existir uma forma macro de classificar todos esses elementos extras, por mais heterogêneos que eles parecessem.</p>
+<p>Para conseguir essa classificação, o primeiro passo foi remover a ideia de dano/vitalidade, e considerar os fatores que a compõe como elementos que influenciam o progresso rumo a resolução de um conflito. Ficou confuso? Eu explico.</p>
+<p>Imagine um combate entre dois indivíduos vestindo armaduras e usando espadas. Vamos usar essa situação para embasar nossa análise daqui pra frente. Se nos perguntamos qual a função de uma espada aqui, e descartamos a resposta imediata que seria “causar dano”, com o que ficamos?</p>
+<p>Do ponto de vista do Mono tudo, inclusive o combate, é um “Desafio”. Essa é uma palavra reservada que significa a intenção por parte de um personagem de realizar alguma coisa e, para a qual, existe algum tipo de oposição, algum fator que impede dele simplesmente ter sucesso de forma automática. Essa ideia vem de um dos pilares centrais, talvez o mais central, do desenvolvimento do Mono: a Planificação Máxima.</p>
+<p>No Mono, “superar” um desafio é ter sucesso numa intenção. No caso de um combate, vamos assumir como intenção matar o adversário, sendo a consequência de uma falha no desafio ser morto por ele.</p>
+<p>Partindo desse ponto, vamos olhar novamente para a ideia de dano/vitalidade. Causar dano seria, na verdade, avançar no sentido de superar o desafio, enquanto receber dano representaria um retrocesso nesse processo, ou seja, um “avanço” no sentido de falhar no desafio.</p>
+<p>Tendo isso em mente, podemos nos aprofundar ainda mais nessa análise. Se a função do dano é influenciar na progressão de um desafio, e a função de uma espada é causar dano, então a função de uma espada é influenciar na progressão de um desafio. No Mono, todo elemento cuja a função é influenciar em um Desafio é chamado de Ferramenta.</p>
+<p>Podemos refinar ainda mais esse ideia. Um homem lutando de mão limpas, ao acertar o adversário com um soco, causa um certo efeito (i.e. dano). Adicionar uma espada a essa situação terá como único resultado intensificar esse efeito. Podemos concluir então que uma espada, dentro da situação proposta é um Ferramenta de Intensidade.</p>
+<p>Observe que o inverso também é válido quando pensamos em uma armadura. A função de uma armadura é reduzir a intensidade do efeito de ser acertado. Sendo, por tanto, também uma Ferramenta de Intensidade. A diferença entre os dois casos está no sentido da ação, enquanto a espada agrava a intensidade de um efeito, a armadura atenua essa intensidade.</p>
+<p>Temos aqui o primeiro tipo de ferramenta do Mono. Também temos os indicadores de sentido: Agravante e Atenuante, para explicitar em que direção essa ferramenta opera. Apesar de não termos falado ainda sobre a mecânica central de resolução de conflitos do Mono, coisa que faremos em um outro momento, é fácil perceber que essas ferramentas serão usadas para influenciar no efeito final dessa jogada.</p>
+<p>Mas alterar a intensidade de um efeito não é a única forma de um elemento externo ao personagem influenciar em um desafio. E se tivermos um equipamento de alpinismo, tornando menos árdua a tarefa de escalar uma montanha? Ou um veneno paralisante que dificulta o movimento, tornando as reações lentas? Para cobrir esses casos teremos um segundo tipo de ferramentas: as Ferramentas de Facilidade.</p>
+<p>Uma Ferramenta de Facilidade influencia diretamente no quão difícil é executar ações em um desafio, sem tratar necessariamente da intensidade do resultado. Aqui também cabe um sentido, já que ferramentas de facilidade pode tanto diminuir quanto aumentar a dificuldade de uma ação. Dito isso, pode parecer um pouco estranho usar uma ferramenta para dificultar uma ação, mas a ideia se torna natural quando pensamos que ferramentas também podem ser usadas para influenciar ações de outros.</p>
+<p>Por fim, temos uma situação em que o elemento em questão não influencia em um desafio de forma direta, mas simplesmente permite ou veda a possibilidade de uma ação ser executada na ficção. Para que alguém possa praticar paraquedismo é necessário um paraquedas, o paraquedas não ajuda ou atrapalha a ação e não influencia na intensidade do seu resultado, ele simplesmente é um pré-requisito para que ela ocorra. Esse é o último tipo de ferramentas, as Ferramentas de Viabilidade.</p>
+<h4 class="odt-keep-with-next" id="conclusao">Conclusão</h4>
+<p>Compreendidos os conceitos base que permeiam a ideia de ferramentas, nos próximos artigos vamos tratar do seu uso como elemento de design e nos aprofundar no seu funcionamento. Também vamos propor uma forma de equilibrar o valor narrativo e mecânico das ferramentas através de parâmetros de custo.</p>
+<p>Após tratar das ferramentas, vamos falar da mecânica central e, nesse caso, única de resolução de conflitos do Mono. Iremos rever o caminho que seguimos para chegar a essa mecânica e vamos começar a falar de mídia, modelo matemático e outros detalhes da construção.</p>
+    </div>
+    <p class="document__tags">
+<a class="tag" href="/tags/mecanicas/">mecanicas</a><a class="tag" href="/tags/regras/">regras</a><a class="tag" href="/tags/sistema/">sistema</a><a class="category" href="/categories/rpg/">rpg</a><a class="category" href="/categories/jogos/">jogos</a>    </p>
+
+    <nav class="post-nav">
+<a class="post-nav__prev" href="/blog/2020-11-12-bar-de-finados/">&larr; Bar de finados</a><a class="post-nav__next" href="/blog/2020-11-18-amor-e-picara/">Amor e Piçarra &rarr;</a>    </nav>
+</article>
+        </main>
+    </div>
+
+    <footer class="site-footer">
+    <div class="footer-elements">
+        <div class="footer-info">
+            <div>2026 &copy; Pato Zumbi</div>
+            <div>
+                Feito com
+                <a href="https://github.com/kriptolix/Asteria-Project">Asteria</a>
+            </div>
+        </div>
+        <div class="social-links">
+    <a href="https://ursal.zone/@Kriptolix" class="social-link" aria-label="Mastodon" title="Mastodon"
+        rel="me noopener">
+        <img src="/images/mastodon.b27197d1e4.svg" alt="Mastodon">
+    </a>
+    <a href="https://github.com/kriptolix" class="social-link" aria-label="Github" title="Github"
+        rel="me noopener">
+        <img src="/images/github.3bf8cceead.svg" alt="Github">
+    </a>
+    <a href="https://www.titulomutante.com.br/feed_rss_created.xml" class="social-link" aria-label="RSS" title="RSS"
+        rel="me noopener">
+        <img src="/images/rss.b31e1d6c31.svg" alt="RSS">
+    </a>
+</div>
+
+    </div>
+</footer>
+
+
+    <script src="/js/nav.65f91aee5c.js" defer></script>
+</body>
+
+</html>

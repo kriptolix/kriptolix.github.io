@@ -1,0 +1,102 @@
+{
+    "arquetipo": {
+        "nome": "O Engenheiro",
+        "descricao": "Especialista em tecnologia, improvisação e reparos. Conserta, adapta e reaproveita equipamentos, muitas vezes criando soluções inesperadas a partir de recursos limitados."
+    },
+
+    "competencias": [
+        {
+            "nome": "Máquinas",
+            "descricao": "Construir, consertar e modificar coisas que têm peças, mecanismos e partes móveis."
+            
+        },
+        {
+            "nome": "Código",
+            "descricao": "Criar, modificar e manipular software para fazer computadores e sistemas fazerem o que você precisa."
+            
+        },
+        {
+            "nome": "Estruturas",
+            "descricao": "Saber onde uma estrutura vai ceder, o que pode fazê-la desabar e como fazê-la resistir."
+            
+        }
+    ],
+
+    "habilidades": [
+        {
+            "nome": "Forçar os limites",
+            "descricao": "Você pode modificar equipamentos para torná-los muito mais eficientes por um curto período de tempo. Uma vez por cena, escolha uma ferramenta. Até o fim dessa cena ela será considerada Superior. Quando a cena terminar, a ferramenta é destruída ou inutilizada em definitivo."
+        },
+        {
+            "nome": "Sobrecarga",
+            "descricao": "Em uma luta, utilizando um equipamento que tenha algum tipo de fonte de energia, você o sobrecarrega para causar uma explosão. Uma vez por cena, destrua um equipamento que possua fonte de energia ou potencial para explodir e cause uma explosão com Consequências Moderadas e alcance próximo da mesma categoria do equipamento destruído."
+        },
+        {
+            "nome": "Ajuste Fino",
+            "descricao": "Você calibra um dispositivo para operar além dos padrões normais — mas com risco. Um equipamento do grupo é considerado Superior em sua próxima ação. Se o resultado da ação for uma falha, o equipamento é destruído."
+        },
+        {
+            "nome": "Interface Improvisada",
+            "descricao": "Com fios expostos, chips avulsos e muito talento, você força comunicação com dispositivos incompatíveis. Marque estresse para se conectar e interagir com qualquer sistema, mesmo alienígena ou sem linguagem conhecida: abrir portas, acessar registros básicos, ativar comandos simples."
+        },
+        {
+            "nome": "Reparo temporário",
+            "descricao": "Quando tudo parece perdido, você realiza um milagre. Marque estresse para consertar instantaneamente qualquer equipamento ou sistema danificado. Ele permanece funcionando até o final da cena."
+        },
+        {
+            "nome": "Ressonância Controlada",
+            "descricao": "Usando ferramentas vibratórias, scanners e conhecimento técnico, você enfraquece materiais ou estruturas. Uma vez por cena, escolha um objeto, porta ou estrutura. A próxima Consequência que o objeto sofrer aumenta um Grau."
+        },
+        {
+            "nome": "Reconfiguração Rápida",
+            "descricao": "Você canibaliza equipamento para criar outro com novas funções. Uma vez por cena, escolha um equipamento funcional que você tenha em mãos e explique como você o configura para uma outra função. Um scanner que vira uma arma sônica, um teaser se torna uma bateria, etc."
+        },
+        {
+            "nome": "Drone de observação",
+            "descricao": "Você constrói um pequeno drone capaz de ser enviado para observar e coletar informações. Uma vez por cena, marque estresse para ter visão aérea de um lugar, escutar uma conversa ou mapear uma estrutura."
+        },
+        {
+            "nome": "Voo suborbital",
+            "descricao": "Apesar do estado da nave, você ainda consegue fazer com que ela voe pequenas distâncias através do planeta. Uma vez por sessão você pode mover a nave para outra localização. A nave não pode fazer nada além de voar."
+        },
+        {
+            "nome": "Redirecionar energia",
+            "descricao": "Os sistemas da nave estão desligados ou avariados, mas você consegue redirecionar energia ou fazer reparos para usá-los. Uma vez por sessão, marque estresse para utilizar um dos subsistemas desativados da nave."
+        }
+    ],
+
+    "equipamentos": [
+        {
+            "nome": "Pad",
+            "custo": { "tipo": "fixo", "valor": 1 }
+        },
+        {
+            "nome": "Lanterna",
+            "custo": { "tipo": "fixo", "valor": 1 }
+        },
+        {
+            "nome": "Cantil",
+            "custo": { "tipo": "fixo", "valor": 1 }
+        },
+        {
+            "nome": "Arma improvisada",
+            "custo": { "tipo": "alternativo", "valores": [1, 2] }
+        },
+        {
+            "nome": "Scanner Tecnoestrutural",
+            "custo": { "tipo": "fixo", "valor": 1 }
+        },
+        {
+            "nome": "Sistema de Ferramentas Adaptativas",
+            "custo": { "tipo": "fixo", "valor": 2 }
+        },
+        {
+            "nome": "Substrato Tecnomórfico",
+            "custo": { "tipo": "unidades", "min": 1, "max": 3 }
+        },
+        {
+            "nome": "Sistema de Estabilização Estrutural",
+            "custo": { "tipo": "fixo", "valor": 3 }
+        }
+    ]
+}

@@ -1,0 +1,374 @@
+[
+  {
+    "title": "Sobre esse blog",
+    "url": "/pages/about/",
+    "date": null,
+    "excerpt": "Quem sou eu? Habitante da capital do sol, escapei de ser batizado com um nome impronunciável de um jogador alemão da Copa de 1982, ano em que nasci no sertão cearense. Possuo formação e trabalho na área de tecnologia, mas tenho uma queda por escrever. Tenho síndrome de pato, faço…"
+  },
+  {
+    "title": "Arquétipos",
+    "url": "/pages/arquetipos/",
+    "date": "2025-09-28",
+    "excerpt": "Os Arquétipos são a base de todo personagem em Sob um Céu Estranho. Cada um representa um tipo de figura recorrente nas histórias — o gênio que desvenda segredos proibidos, o guerreiro que enfrenta o impossível, o espião que vive entre sombras, o piloto que desafia os céus. Eles …"
+  },
+  {
+    "title": "Aspectos",
+    "url": "/pages/aspectos/",
+    "date": "2025-10-01",
+    "excerpt": "Aspectos representam facetas de personagens, partes de arquétipos que, individualmente ou combinadas, conseguem criar personagens que representam conceitos comuns na ficção. Os aspectos têm um custo que varia entre ● e ● ● ● e podem ser escolhidos usando os pontos de construção d…"
+  },
+  {
+    "title": "Básico",
+    "url": "/pages/basico/",
+    "date": "2025-09-28",
+    "excerpt": "Básico O que voce precisa pra jogar Jogadores: Você precisa de uma pessoa para assumir o papel de narrador e alguns jogadores, entre três e cinco geralmente é um bom numero. Dados: Você vai precisar de pelo menos 3 dados comuns de 6 faces. Cartilhas: Cada jogador precisa de um lu…"
+  },
+  {
+    "title": "Criação de Personagem",
+    "url": "/pages/criacao-personagem/",
+    "date": null,
+    "excerpt": "O primeiro passo para criar um personagem é imaginar como você quer que ele seja. A partir dai, determinar as características de jogo que são mais adequadas a representa-lo. A sequencia abaixo é a mais indicada para compor um personagem, mas você pode escolher as características …"
+  },
+  {
+    "title": "Fraquezas",
+    "url": "/pages/fraquezas/",
+    "date": "2025-09-26",
+    "excerpt": "Fraquezas são problemas ou debilidades que um personagem pode possuir que o levam a se comportar de uma certa maneira ou afetam suas ações em certas circunstâncias. Fraquezas são opcionais e podem ser adquiridas, substituídas ou removidas em qualquer momento do jogo, mesmo após a…"
+  },
+  {
+    "title": "Habilidades Estranhas",
+    "url": "/pages/habilidades/",
+    "date": "2018-07-10",
+    "excerpt": "Habilidades estranhas são usadas para representar características exóticas que seres humanos comuns não possuem. Elas são dividias em dois tipos: Psiquismo e Fisiologia exoteca. Todas as habilidades estranhas custam ●● e, assim como Arquétipos, apenas um personagem pode ter cada …"
+  },
+  {
+    "title": "Introdução",
+    "url": "/pages/introducao/",
+    "date": "2025-11-07",
+    "excerpt": "Aviso Esse jogo é um trabalho em progresso e, portanto, está incompleto, além de possuir incongruências e sofrer mudanças e atualizações constantes. Quaisquer opiniões, sugestão e criticas construtivas são bem vindas. **Ultima Atualização**: 12/05/2026 (Atualização de todos os ar…"
+  },
+  {
+    "title": "Básico",
+    "url": "/pages/mono-basico/",
+    "date": "2025-09-28",
+    "excerpt": "Começando Este conteúdo assume que você está familiarizado com o conceito de RPG, mais especificamente de RPG de mesa e, portanto, as definições envolvidas e explicações básicas não serão abordados aqui. Caso contrario, existem muitos lugares na internet em que voce pode aprender…"
+  },
+  {
+    "title": "Introdução",
+    "url": "/pages/mono-introducao/",
+    "date": "2025-09-26",
+    "excerpt": "Introdução Olá, bem vindo ao SRD do Monocerus. O objetivo do Monocerus é ser um framework modular e open source de regras para jogos de RPG. Muito inglês numa frase só? Calma, eu explico. Vamos por partes. Um SRD (System Reference Document, ou documento de referência de sistema) …"
+  },
+  {
+    "title": "Motivações",
+    "url": "/pages/motivacoes/",
+    "date": "2025-09-26",
+    "excerpt": "A motivação de um personagem é o impulso interno que o leva a agir de determinadas maneiras e a tomar decisões específicas ao longo de uma história, sendo fundamental para dar profundidade e realismo aos personagens, tornando-os mais críveis e identificáveis. A motivação pode ser…"
+  },
+  {
+    "title": "Passados",
+    "url": "/pages/passados/",
+    "date": "2025-11-07",
+    "excerpt": "O passado descreve como o personagem vivia antes ser o que é hoje, escolha um escreva alguns detalhes extras que o deixam mais pessoal e específico. Você era um pilantra? Que tipo? batedor de carteiras? Golpista digital? Matador de cartel?. Porque você mudou? O que te fez se torn…"
+  },
+  {
+    "title": "Projetinhos",
+    "url": "/pages/projects/",
+    "date": null,
+    "excerpt": "Comecei o trabalho em um gerador conceitual narrativo de personagem para RPG. Se quiser dar um olhada é só clicar no link aqui . Se você usa Linux, talvez queira dar uma olhada no meu rolador dados, o Poliedros ."
+  },
+  {
+    "title": "Leopoldina em tradução livre",
+    "url": "/blog/2026-01-14-leopoldina-traducao-livre/",
+    "date": "2026-01-14",
+    "excerpt": "Esse texto finalista no concurso Cuéntame un Cuento, da Universidade de Salamanca, em 2022. Não ganhei, mas gosto muito dele. Meu amor, tô morrendo de saudade. Essas cartas demoram uma vida pra ir e voltar, isso tá me deixando louca. Mas que jeito, né? Pelo andar da carruagem, nã…"
+  },
+  {
+    "title": "O zero impera",
+    "url": "/blog/2025-09-26-o-zero-impera/",
+    "date": "2025-09-26",
+    "excerpt": "A casa cala, cai o silêncio. Fantasmagóricos, ecos de melhores tempos dançam em meus ouvidos. Me desliza pelos nervos um chocalho, um choro de joelho esfolado no batente, Toda aquela ladainha de permissões e argumentos. A borda áspera dos anos me rasga os dedos, cada virada um fl…"
+  },
+  {
+    "title": "Mata Virgem",
+    "url": "/blog/2025-09-14-mata-virgem/",
+    "date": "2025-09-14",
+    "excerpt": "Obs: Esse é um trecho de uma história cujas outras partes nunca foram escritas, ignore a falta de contexto geral. Quis publicá-la porque gosto muito do resultado dessa cena, escrever literatura erótica é difícil. Estava deitada, meio apertada no sofá de dois lugares, com as perna…"
+  },
+  {
+    "title": "Lá e de volta outra vez",
+    "url": "/blog/2024-02-09-post-inaugural/",
+    "date": "2024-02-09",
+    "excerpt": "Eu ando meio afastado da literatura. A verdade é que, em algum ponto, minha incompetência começou a me incomodar. Apesar disso, quase todo dia, eu sinto vontade de escrever sobre alguma coisa, seja para registrar descobertas ou só para compartilhar com o mundo uma opinião. Até o …"
+  },
+  {
+    "title": "O de todo dia",
+    "url": "/blog/2023-06-11-o-de-todo-dia/",
+    "date": "2023-06-11",
+    "excerpt": "Solidão é uma porra de um lugar comum. Tava tocando ukelele, o que faço muito mal , mas como só faço isso em ano bissexto o fura bolo da mão esquerda tá doendo quando digito. Ta dolorido de apertar as cordas. Talvez tenha entrado algum pelo macroscópico quando eu cocei a barba. T…"
+  },
+  {
+    "title": "O homem que roubava títulos",
+    "url": "/blog/2023-04-23-o-homem-que-roubava-titulos/",
+    "date": "2023-04-23",
+    "excerpt": "Eu sempre odiei texto sobre o ato de escrever. Metalinguística é um negócio complicado e precisa de muito talento para não ficar uma merda. Mas hoje eu vou de “querido diário” nessa linha, porque estou com vontade de escrever e essa vontade é rara, não se pode desperdiçar. Escrev…"
+  },
+  {
+    "title": "BioTétrico",
+    "url": "/blog/2023-03-20-biotetrico/",
+    "date": "2023-03-20",
+    "excerpt": "Eu não temo a morte, e não compreendo esse temor. O meu medo da vida é muito maior. A morte é inócua, insípida, inodora e, em última instância, indolor. A vida primeiro dói, o resto é só consequência. O medo que me toma é da próxima hora, da próxima conta, do próximo choro que ve…"
+  },
+  {
+    "title": "Até no pódio da derrota cheguei em segundo",
+    "url": "/blog/2022-11-21-ate-no-podio-da-derrota-cheguei-em-segundo/",
+    "date": "2022-11-21",
+    "excerpt": "Sou um atleta da derrota, faço dela meu legado. Não que eu perca sempre, vitórias são inevitáveis, até para um talento como eu. Mas perco sim, no que realmente importa, nas questões verdadeiras da existência. Além de, claro, nas questões falsas, onde perco a verdade com muita mae…"
+  },
+  {
+    "title": "Minha praga bíblica particular",
+    "url": "/blog/2022-08-10-minha-praga-biblica-particular/",
+    "date": "2022-08-10",
+    "excerpt": "Ainda me pergunto para onde foram os besouros. A mata ao redor da cidade continua igual e não acho que um rio a menos faça tanta diferença assim. Será que só se cansaram de ser mal recebidos? Mudaram seus hábitos migratórios? Nunca existiram fora da minha cabeça? Quem sabe. Eles …"
+  },
+  {
+    "title": "O neto carrasco",
+    "url": "/blog/2022-04-27-o-neto-carasco/",
+    "date": "2022-04-27",
+    "excerpt": "Eu sempre temi a cegueira, ainda nos meus vinte anos fui avisado por um médico que, provavelmente, ficaria cego. Pra minha sorte, cai no condicional do advérbio. Apesar disso, de todas as deficiências envolvendo sentidos, sempre acreditei ser a cegueira a mais pesada. Agora, dist…"
+  },
+  {
+    "title": "\"Tenho tempo até demais\"",
+    "url": "/blog/2022-04-04-tenho-tempo-ate-demais/",
+    "date": "2022-04-04",
+    "excerpt": "“Estou sem tempo” é uma desculpa maravilhosa. Irrefutável na loucura da produção. Não conheço ninguém que não esteja sem tempo, fazendo mil coisas, correndo de lá pra cá. E, por ser irrefutável, é a melhor das mentiras. Eu nunca estou sem tempo, tenho tempo até demais, só não que…"
+  },
+  {
+    "title": "Para se amar é preciso amar os outros",
+    "url": "/blog/2022-03-16-para-se-amar-e-preciso-amar-os-outros/",
+    "date": "2022-03-16",
+    "excerpt": "Na era do cancelamento do twitter, eu tenho evitado escrever sobre certas coisas, ou, pelo menos, tenho evitado escrever e assinar. Mas hoje acordei com vontade de ser cancelado. Vamos falar de amor-próprio. Curto muito a ideia das pessoas se amarem como são. Digo, curto no mundo…"
+  },
+  {
+    "title": "Conquistas",
+    "url": "/blog/2022-03-11-conquistas/",
+    "date": "2022-03-11",
+    "excerpt": "Não tenho vontade de respostas, não mais. Nenhuma resposta vai trazer de volta o que eu perdi, nenhuma explicação. Não. Agora só tenho vontade de conquistas. Conquistas que, assim como as respostas, não me trarão nada, mas me levarão a acreditar, erroneamente e com fé, que o ato …"
+  },
+  {
+    "title": "\"Lamúrias\"",
+    "url": "/blog/2022-03-09-lamurias/",
+    "date": "2022-03-09",
+    "excerpt": "Sempre achei curiosa a atração das pessoas pelas lamúrias alheiras. Não para ouvi-las, é claro, isso é entediante, mas para lê-las. Incluo-me nisso. Gosto de ler sobre os desastres cotidianos dos outros, de preferência mascarados com um toque de humor por uma boa prosa. E eu, que…"
+  },
+  {
+    "title": "A Fada do Bigodão",
+    "url": "/blog/2022-03-08-a-fada-do-bigodao/",
+    "date": "2022-03-08",
+    "excerpt": "Luíza, deitada na cama, encarava o teto salpicado de estrelinhas adesivas cheias de glitter. O quarto tinha sido decorado quando ela tinha oito anos. Na época, fazia sentido. Agora, ela tinha trinta e seis, e os pontinhos brilhantes tinham sido ressignificados por uma vida de ins…"
+  },
+  {
+    "title": "Dezessete Graus",
+    "url": "/blog/2022-01-24-dezessete-graus/",
+    "date": "2022-01-24",
+    "excerpt": "Ana enlouquecia com o ar condicionado, ou melhor, com a falta dele. O apartamento de uma única e estreita janela a fazia andar quase nua. Era isso ou a combustão. Escolheu gastar as economias no concerto, a outra opção seria gastá-las inventando motivos para se ausentar do pequen…"
+  },
+  {
+    "title": "Inveja (dos contemporâneos) mata",
+    "url": "/blog/2022-01-14-inveja-dos-contemporanios-mata/",
+    "date": "2022-01-14",
+    "excerpt": "Sinto-me pouco contemporâneo, cheguei a essa conclusão. Passei um tempo pensando sobre a natureza desse sentimento e percebi o abraço apertado que ainda me prende ao passado. Consegui entender melhor o motivo de eu gostar tanto de ambientar meus textos cinquenta, sessenta anos at…"
+  },
+  {
+    "title": "Principezinho",
+    "url": "/blog/2021-12-29-principezinho/",
+    "date": "2021-12-29",
+    "excerpt": "Quando, pela primeira vez, soube do principezinho inquirindo por carneiros, me encantou a suavidade. Vi ali, reverberada em cabelos de trigo, a marca forte da infância, o dom que é carregar olhos ingênuos. Olhos que perdemos cedo, com a obrigação soturna de vivermos expulsos do é…"
+  },
+  {
+    "title": "J de Jemido",
+    "url": "/blog/2021-12-28-j-de-gemido/",
+    "date": "2021-12-28",
+    "excerpt": "Esclarecimento : Esse texto, assim como seu título, é uma brincadeira, uma homenagem ao meu amigo Jota Oliveira do Tiro no Pé . Jota revirou-se na cama, transbordando de auto piedade. Tentava expor ao mundo a terrível moléstia da qual padecia, mas fracassava em convencer até a si…"
+  },
+  {
+    "title": "Consumido",
+    "url": "/blog/2021-11-23-consumido/",
+    "date": "2021-11-23",
+    "excerpt": "Me esvaí. Poderia parar aqui, nessa síntese honesta de todo o resto. Mas acabarei por elaborar, pelo bem de ninguém. Para me ocupar um instante, para me comprar tempo. O fogo que mora dentro não mora. Ou melhor, mudou-se, partiu e não deixou endereço. Tudo está morno, naquela rés…"
+  },
+  {
+    "title": "Onde ninguém jamais esteve",
+    "url": "/blog/2021-11-22-onde-ninguem-jamais-esteve/",
+    "date": "2021-11-22",
+    "excerpt": "A Nemo saiu de dobra num solavanco e todos os alarmes começaram a soar. Os sensores indicavam uma ejeção de massa coronal. A gigante vermelha que os havia chutado para fora do hiperespaço agora atraia a nave com seu campo gravitacional imenso. Os motores de empuxo estavam no limi…"
+  },
+  {
+    "title": "Empachado",
+    "url": "/blog/2021-11-07-empachado/",
+    "date": "2021-11-07",
+    "excerpt": "Sou do interior, mas nunca fui do interior. Nunca tive em mim as qualidades do habitante do sertão. Sempre detestei jambo, graviola, seriguela e chuva; uma heresia atrás da outra. Sem contar que sou frouxo, tenho medo de bicho e sou pouco afeito ao confronto. Não obstante tudo is…"
+  },
+  {
+    "title": "Infalível",
+    "url": "/blog/2021-10-23-infalivel/",
+    "date": "2021-10-23",
+    "excerpt": "Era uma profecia, a tradução indicava o fim do mundo pra dali a dois dias. Rogério tirou os óculos e coçou a barba. Quatorze meses metido no meio da floresta, calor, mosquitos do tamanho de um boeing, malária, bolsa atrasada. Ele tinha superado tudo na esperança de encontrar um a…"
+  },
+  {
+    "title": "Números",
+    "url": "/blog/2021-10-21-numeros/",
+    "date": "2021-10-21",
+    "excerpt": "Sonho ser par, capaz de dividir. Escapar da solidão de um e alguma coisa, do compartilhar condicionado a complemento. Quero sobrar. Almejo o dom da multiplicação, o devolver mais que o recebido. A ausência do peso de ter que começar e terminar em mim todas as coisas."
+  },
+  {
+    "title": "Oficialmente um tamanduá",
+    "url": "/blog/2021-10-11-oficialmente-um-tamandua/",
+    "date": "2021-10-11",
+    "excerpt": "Oficialmente, era um tamanduá. O DNA não batia, as proporções estavam todas erradas e a coisa não tinha sequer pelagem, mas alguém carimbou e encerraram o caso. Ninguém se importava, essa era a verdade. A vítima estava morta, o bicho também, não havia porque investigar mais. No f…"
+  },
+  {
+    "title": "Ferrugem",
+    "url": "/blog/2021-07-10-ferugem/",
+    "date": "2021-07-10",
+    "excerpt": "Ando sumido. Ando sumindo, Perdido, virando fumaça. Ando sobrando, esparramado. Ando perdendo partes, me desmanchando, Ficando pelo caminho. Restei nas esquinas, no asfalto quente. Sob os postes de luz queimados, Jazi."
+  },
+  {
+    "title": "A Loja",
+    "url": "/blog/2021-04-01-a-loja/",
+    "date": "2021-04-01",
+    "excerpt": "Parecia um dilúvio, mas talvez fosse questão de perspectiva. Já era raro a cidade ver chuva, ainda mais tanta água assim em novembro. Longe do carro, Alberto e Amélia corriam como ratos em busca de abrigo, uma marquise que fosse. A esperança de encontrar algum lugar funcionando n…"
+  },
+  {
+    "title": "O Gato",
+    "url": "/blog/2021-03-24-o-gato/",
+    "date": "2021-03-24",
+    "excerpt": "Viu o gato saltar pela janela. Quando o olhar voltou-se ao centro da sala, percebeu o corpo, um dos sapatos a dois passos de distância. Concentrou-se no sapato. Vermelho, salto de alturas vertiginosas, manchado com um outro tom da cor. Ficou ali encarando o calçado, pensando em n…"
+  },
+  {
+    "title": "Metrópole sul",
+    "url": "/blog/2021-03-16-metropole-sul/",
+    "date": "2021-03-16",
+    "excerpt": "Aviso: Para uma melhor experiencia com esse texto leia com a voz do Capitão Nascimento. O que você acha que precisa para ser uma potência mundial, parceiro? Se você respondeu “grana” não tá errado, mas tem país por aí entupido de dinheiro e irrelevante na política internacional. …"
+  },
+  {
+    "title": "RPG Design — Resolução de Conflitos",
+    "url": "/blog/2020-12-11-rpg-resolucao-de-conflito/",
+    "date": "2021-02-11",
+    "excerpt": "No final do texto anterior havia sido comentado que daríamos prosseguimento ao assunto de ferramentas mas, uma vez que a métrica de quantificação das ferramentas é inteiramente dependente da matemática utilizada na resolução geral de conflitos do Mono, consideramos mais oportuno …"
+  },
+  {
+    "title": "Barganha",
+    "url": "/blog/2021-02-01-a-barganha/",
+    "date": "2021-02-01",
+    "excerpt": "Prendeu a fiação na turbina improvisada, um toque na alavanca do pequeno guindaste fez a peça deslizar suavemente para dentro do rio. Um zunido baixo ressoou quando a força da água começou a fazer girar as palhetas. As luzes de potência foram acendendo uma a uma, os ponteiros dos…"
+  },
+  {
+    "title": "Perfeição",
+    "url": "/blog/2021-01-17-perfeicao/",
+    "date": "2021-01-17",
+    "excerpt": "Valeria sentia os olhos do sistema na nuca. Aquela era sua terceira avaliação abaixo da média em menos de um mês, e seu escore geral ameaçava chegar perto do limite mínimo. A perda de mais um décimo acarretaria numa visita compulsória a um Centro de Bem Estar. Tentava se conter, …"
+  },
+  {
+    "title": "Eu Sou Não Sou",
+    "url": "/blog/2021-01-09-eu-sou-nao-sou/",
+    "date": "2021-01-09",
+    "excerpt": "Qual não foi minha surpresa ao notar tudo ainda em seu lugar. Outdoors anunciando desodorantes milagrosos, carros, apesar de imóveis, infestando as ruas como de costume. Prédios intactos e, naquela padaria do outro lado do quarteirão, frangos ainda girando na máquina. Nos últimos…"
+  },
+  {
+    "title": "Eles passarão, eu passarinho",
+    "url": "/blog/2020-12-30-eles-passarao-eu-passarinho/",
+    "date": "2020-12-30",
+    "excerpt": "“Tudo na vida passa”. Se é verdade, não deveria passar. Tenho avidez por permanências, por tempo duradouro, por qualquer coisa capaz de me fazer sentir menos à deriva no espaço das viradas dos ponteiros do relógio. Eu preciso que algo não passe, não desapareça sem eu sequer saber…"
+  },
+  {
+    "title": "Espirais",
+    "url": "/blog/2020-12-24-espirais/",
+    "date": "2020-12-24",
+    "excerpt": "Lembro com clareza da primeira referência que encontrei sobre daiva kuncikā. Foi em um livro esquecido de Howard Carter, escrito no início do século XX. Carter entrou para história da egiptologia com a descoberta do sarcófago de Tutankhamon, mas foi um objeto específico, entre os…"
+  },
+  {
+    "title": "Cramunhão",
+    "url": "/blog/2020-12-18-cramunhao/",
+    "date": "2020-12-18",
+    "excerpt": "Todos os dias, ao voltar do trabalho, a garota estava perto do ponto de ônibus. Insinuava-se para ele com um “quer se divertir hoje, amorzinho?” ou mostrava o seio e dizia “vem cá, você não vai se arrepender”. Mas Jorge, rapaz de família, bem casado, evangélico e temente ao Senho…"
+  },
+  {
+    "title": "Osvaldo",
+    "url": "/blog/2020-12-13-osvaldo/",
+    "date": "2020-12-13",
+    "excerpt": "— Eu não sou real, Osvaldo. — Como assim? — Como “como assim?”, Osvaldo? Eu não existo, não sou real, você me imaginou. Eu só existo na sua cabeça… quer que eu desenhe? — Como é? Você não existe? Tipo aquele filme “A Mulher invisível”? — Não, Osvaldo, não é tipo “A mulher invisív…"
+  },
+  {
+    "title": "Ovo de Avestruz",
+    "url": "/blog/2020-12-02-ovo-de-avestruz/",
+    "date": "2020-12-02",
+    "excerpt": "A surpreendi ao celular. Afirmou ser um amiga, mas era mentira. Essa não foi a primeira mentira dela pra mim, e com certeza não seria a última. Também não foi a primeira vez em que decidi não fazer nada a respeito. As pessoas precisam de mentiras, o mundo não sobreviveria nenhum …"
+  },
+  {
+    "title": "O Ceifeiro",
+    "url": "/blog/2020-11-25-o-ceifeito/",
+    "date": "2020-11-25",
+    "excerpt": "Existem pessoas aparentemente incapazes de entender o quão apertada é minha agenda. Gente que, por sofrer com um ou outro problema na vida, sente-se no direito de bagunçar meu complicado cronograma tentando decidir por si mesma o momento da própria morte. Estão sempre querendo fu…"
+  },
+  {
+    "title": "Amor e Piçarra",
+    "url": "/blog/2020-11-18-amor-e-picara/",
+    "date": "2020-11-18",
+    "excerpt": "A primeira vez em que a viu, ela caminhava para ser de outro. Marchava resignada em direção à capela para desposar um homem escolhido pelo pai. Os olhos castanhos dela lhe divisaram o torso nu, cruzando com os seus de soslaio. Acácio parou com a pá. Lhe desgostava a ideia da poei…"
+  },
+  {
+    "title": "RPG Design — Ferramentas",
+    "url": "/blog/2020-11-13-rpg-ferramentas/",
+    "date": "2020-11-13",
+    "excerpt": "Até agora, com exceção de uma explicação anormalmente detalhada do motivo pelo qual fiz cada escolha, nada de novo ou inédito foi apresentado aqui. Tanto a ideia de Atributos quanto a de Competências são aplicações de conceitos comuns no design de RPG. Já a ideia de ferramentas é…"
+  },
+  {
+    "title": "Bar de finados",
+    "url": "/blog/2020-11-12-bar-de-finados/",
+    "date": "2020-11-12",
+    "excerpt": "Na minha rua, uma rua sem saída, havia um bar que só abria uma vez por ano, no dia de finados. Funcionava em um casarão colonial meio carcomido e meu avô dizia que era tão antigo quanto a cidade. Quando eu era pequeno, não se podia passar por lá naquele dia. Iam alguns adultos, g…"
+  },
+  {
+    "title": "Querida Júlia",
+    "url": "/blog/2020-11-05-querida-julia/",
+    "date": "2020-11-05",
+    "excerpt": "Com as mãos tremulas, ela apanhou sobre a cômoda o envelope pardo marcado com o seu nome. O coração já pressentia o conteúdo, mas essa antecipação não foi suficiente para fazê-la desistir de lê-lo, para destruí-lo e fugir daquela verdade incomoda. Não, o desejo pelo o último cont…"
+  },
+  {
+    "title": "Você não viu nada",
+    "url": "/blog/2020-07-22-voce-nao-viu-nada/",
+    "date": "2020-07-22",
+    "excerpt": "Eventos exóticos, é assim que são chamados. Obviamente esse era um termo emprestado de um protocolo da inteligência militar americana. Não existiam planos, ou algo nessa linha, para lidar com esse tipo de coisa aqui. Nosso exército era, e ainda é, basicamente decorativo. Nossa ag…"
+  },
+  {
+    "title": "RPG Design — Habilidades Adquiridas",
+    "url": "/blog/2020-07-21-rpg-habilidades-adquiridas/",
+    "date": "2020-07-21",
+    "excerpt": "Vamos falar sobre a segunda parte da divisão de características de personagem que pretende cobrir experiência e habilidades aprendidas em um certo âmbito da vida. Quase sempre essas habilidades estarão ligadas a uma atividade profissional, mas além delas não se resumirem a isso, …"
+  },
+  {
+    "title": "RPG Design — Características de Personagem",
+    "url": "/blog/2020-07-08-rpg-caracteristicas-de-personagem/",
+    "date": "2020-07-08",
+    "excerpt": "No início de qualquer projeto que pretende ser essencialmente novo, tudo que você tem é uma página em branco. As vezes é complicado descobrir por onde começar. Felizmente para mim, as linhas guia do meu projeto estavam bem definidas e eu já tinha na bagagem algumas boas referênci…"
+  },
+  {
+    "title": "RPG Design — Motivações e Princípios",
+    "url": "/blog/2020-06-30-rpg-motivacao-e-principios/",
+    "date": "2020-06-30",
+    "excerpt": "A verdade é: existem milhares de sistemas por aí e, tecnicamente, não existe qualquer motivo para se perder tempo criando mais um. Infelizmente ou felizmente, o ser humano é complexo, e o motivo pelo qual fazemos as coisas não se resume a custo benefício. Esse é o primeiro de, eu…"
+  },
+  {
+    "title": "RPG Design — Impressões",
+    "url": "/blog/2020-06-28-rpg-impressoes/",
+    "date": "2020-06-28",
+    "excerpt": "A razão de ser desse artigo, se é que podemos chamá-lo assim, é comentar minhas impressões pessoais sobre desenvolvimento de mecânicas para jogos de RPG de mesa. Como designer amador, no curso do desenvolvimento das minhas próprias mecânicas, me deparei com um leque de elementos …"
+  },
+  {
+    "title": "Baccarat",
+    "url": "/blog/2020-05-12-baccarat/",
+    "date": "2020-05-12",
+    "excerpt": "“É um baccarat” Ele disse com os olhos brilhando e um sorriso bobo. Começou a tagarelar sobre a história da peça, de como foi um dos primeiros do tipo e pertenceu a Napoleão III. Afirmou não ter ideia de como aquilo tinha ido parar numa coleção particular, e mais um monte de cois…"
+  }
+]
