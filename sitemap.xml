@@ -236,6 +236,10 @@
     <lastmod>2026-01-14</lastmod>
   </url>
   <url>
+    <loc>http://localhost:8000/blog/2026-10-03-rpg-nao-e-jogo/</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:8000/blog/</loc>
   </url>
   <url>
@@ -254,6 +258,9 @@
     <loc>http://localhost:8000/tags/</loc>
   </url>
   <url>
+    <loc>http://localhost:8000/tags/conceito/</loc>
+  </url>
+  <url>
     <loc>http://localhost:8000/tags/conto/</loc>
   </url>
   <url>
@@ -261,6 +268,9 @@
   </url>
   <url>
     <loc>http://localhost:8000/tags/cronica/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:8000/tags/ensaio/</loc>
   </url>
   <url>
     <loc>http://localhost:8000/tags/erotismo/</loc>
@@ -330,6 +340,9 @@
   </url>
   <url>
     <loc>http://localhost:8000/tags/suspense/</loc>
+  </url>
+  <url>
+    <loc>http://localhost:8000/tags/teoria/</loc>
   </url>
   <url>
     <loc>http://localhost:8000/tags/terror/</loc>

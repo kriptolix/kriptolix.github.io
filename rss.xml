@@ -4,7 +4,14 @@
   <title>Pato Zumbi</title>
   <link>http://localhost:8000</link>
   <description></description>
-  <lastBuildDate>Tue, 03 Nov 2026 19:58:18 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 20:44:29 +0000</lastBuildDate>
+  <item>
+    <title>RPG não é um jogo: Uma discussão sobre a natureza do Role-Playing Game</title>
+    <link>http://localhost:8000/blog/2026-10-03-rpg-nao-e-jogo/</link>
+    <guid>http://localhost:8000/blog/2026-10-03-rpg-nao-e-jogo/</guid>
+    <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+    <description>Aviso: Apesar da tentativa de manter algum rigor nesse texto eu NÃO SOU UM ACADÊMICO. O meu conhecimento da bibliografia citada é mínimo e restrito aos trechos utilizados para embasar essa discussão. Existe uma tendência bastante difundida de classificar o RPG (Role-Playing Game)…</description>
+  </item>
   <item>
     <title>Leopoldina em tradução livre</title>
     <link>http://localhost:8000/blog/2026-01-14-leopoldina-traducao-livre/</link>

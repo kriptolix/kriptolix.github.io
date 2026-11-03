@@ -7,7 +7,9 @@
     <title>nostalgia — Tags — Pato Zumbi</title>
     <meta name="description" content="">
     <link rel="canonical" href="http://localhost:8000/tags/nostalgia/">
-    <link rel="stylesheet" href="/css/light.1d4c9e2b28.css">
+    <link rel="stylesheet" href="/css/light.efb6ba9f33.css">
+    <script src="/js/menu.14b55a6752.js"></script>
+
 
     <meta property="og:site_name" content="Pato Zumbi">
     <meta property="og:type" content="website">
@@ -17,7 +19,7 @@
     <meta name="twitter:card" content="summary">
 
     <link rel="alternate" type="application/rss+xml" title="Pato Zumbi" href="/rss.xml">
-
+    
 
     <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
@@ -26,28 +28,19 @@
 </head>
 
 <body>
+
     <header class="site-header">
     <div class="site-header__inner">
-
         <div>
-            <a class="site-title" href="/">Pato Zumbi</a>
+            <a class="title-box" href="/">
+                <div class="custom-header-line">O Titulo de hoje é...</div>
+                <span class="site-title">Pato Zumbi</span>
+            </a>
         </div>
-
-        <button type="button" class="menu-toggle" id="menu-toggle" aria-expanded="false"
-            aria-controls="site-menu-drawer">
-            <svg class="menu-toggle__icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-                <path d="M3 6h18M3 12h18M3 18h18" fill="none" stroke="currentColor" stroke-width="2"
-                    stroke-linecap="round" />
-            </svg>
-            <span class="sr-only">??menu??</span>
-        </button>
-
-        <div class="site-menu-drawer" id="site-menu-drawer">
-            <button type="button" class="drawer__close" id="menu-close">
-                <span aria-hidden="true">&times;</span>
-                <span class="sr-only">Fechar</span>
-            </button>
-            <nav class="site-menu">
+        <button class="menu-toggle" aria-label="Abrir menu" aria-expanded="false">
+    ☰
+</button>
+<nav class="site-menu">
     <ul>
         <li><a href="/blog/" class="">Artigos</a></li>
         <li><a href="/pages/introducao/" class="">Sob um Céu Estranho</a></li>
@@ -56,16 +49,14 @@
     </ul>
 </nav>
 
-            
-        </div>
-
+        
     </div>
-
-    <div class="drawer__overlay" id="menu-overlay" hidden></div>
 </header>
 
-
+    
     <div class="site-layout">
+        <div class="sidebar-column">
+        </div>
         <main class="site-content">
             <nav class="breadcrumbs" aria-label="breadcrumbs">
 <a href="/">Pato Zumbi</a><span
@@ -112,8 +103,6 @@
     </div>
 </footer>
 
-
-    <script src="/js/nav.65f91aee5c.js" defer></script>
 </body>
 
 </html>
